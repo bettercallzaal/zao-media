@@ -787,6 +787,21 @@
 
 ---
 
+### WaveWarZ Community Battles
+
+- **Class:** community
+- **Date:** 2025-11-16 (archived)
+- **Host/Source:**  - WaveWarZ
+- **Brands:** WaveWarZ
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2025-11-16-wavewarz-community-battles/
+- **URLs:**
+  - WaveWarZ: https://wavewarz.com
+- **Topics/summary:** Community battle night on WaveWarZ - live-traded music battles on Solana where the community picks sides and artists earn from every trade.
+- **Clip candidates:**
+
+
+---
+
 ### BCZ YapZ w/Yoni Dubz
 
 - **Class:** produced
