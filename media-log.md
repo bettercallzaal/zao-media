@@ -1942,3 +1942,20 @@
 - **Topics/summary:** Weekly co-hosted live web3 show (Zaal, Ohnahji B, EZinCrypto), streamed live on Twitch. Runtime 27:37. Three seasons of this show became Let's Talk About Ethereum.
 - **Clip candidates:**
 
+
+---
+
+### How The ZAO Is Helping Artists Keep Their Music, Data, and Dollars
+
+- **Class:** earned
+- **Date:** 2025-04-01 (archived)
+- **Host/Source:** Lindsey McConaghy (@TokenForYourThoughts) - Token for Your Thoughts
+- **Brands:** The ZAO, WaveWarZ
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2025-04-01-token-for-your-thoughts/
+- **URLs:**
+  - YouTube: https://youtu.be/SXmdO6l4Rfg
+  - Apple Podcasts: https://podcasts.apple.com/sg/podcast/token-for-your-thoughts/id1799063494
+  - Show site: https://www.tokenforyourthoughts.com
+- **Topics/summary:** Zaal on the Token for Your Thoughts podcast (48 min) - how Web3 reshapes the music industry: The ZAO helping artists reclaim ownership, data, and creative freedom; flipping the label model where labels take 70 percent; soulbound governance tokens; music battles; and onchain reputation building.
+- **Clip candidates:**
+

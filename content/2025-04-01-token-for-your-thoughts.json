@@ -1,0 +1,47 @@
+{
+  "slug": "2025-04-01-token-for-your-thoughts",
+  "class": "earned",
+  "title": "How The ZAO Is Helping Artists Keep Their Music, Data, and Dollars",
+  "date": "2025-04-01",
+  "status": "archived",
+  "show": "Token for Your Thoughts",
+  "host": "Lindsey McConaghy",
+  "hostHandle": "@TokenForYourThoughts",
+  "hostUrl": "https://www.youtube.com/@TokenForYourThoughts",
+  "guest": "",
+  "guestOrg": "",
+  "brands": [
+    "The ZAO",
+    "WaveWarZ"
+  ],
+  "youtubeId": "SXmdO6l4Rfg",
+  "links": [
+    {
+      "label": "YouTube",
+      "url": "https://youtu.be/SXmdO6l4Rfg"
+    },
+    {
+      "label": "Apple Podcasts",
+      "url": "https://podcasts.apple.com/sg/podcast/token-for-your-thoughts/id1799063494"
+    },
+    {
+      "label": "Show site",
+      "url": "https://www.tokenforyourthoughts.com"
+    }
+  ],
+  "summary": "Zaal on the Token for Your Thoughts podcast (48 min) - how Web3 reshapes the music industry: The ZAO helping artists reclaim ownership, data, and creative freedom; flipping the label model where labels take 70 percent; soulbound governance tokens; music battles; and onchain reputation building.",
+  "points": [],
+  "chapters": [],
+  "related": [
+    {
+      "label": "The ZAO",
+      "url": "https://thezao.com"
+    }
+  ],
+  "hasTranscript": false,
+  "dist": {
+    "socials": false,
+    "clips": false,
+    "notes": ""
+  }
+}
