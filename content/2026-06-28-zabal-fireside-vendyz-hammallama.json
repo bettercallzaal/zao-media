@@ -1,0 +1,33 @@
+{
+  "slug": "2026-06-28-zabal-fireside-vendyz-hammallama",
+  "status": "archived",
+  "host": "Zaal",
+  "hostHandle": "@zaal",
+  "hostUrl": "https://farcaster.xyz/zaal",
+  "guestOrg": "Vendyz",
+  "points": [],
+  "chapters": [],
+  "related": [],
+  "hasTranscript": false,
+  "class": "produced",
+  "title": "ZABAL Gamez Fireside: Talking Vendyz with hammallama",
+  "date": "2026-06-28",
+  "show": "ZABAL Gamez Firesides",
+  "youtubeId": "Rvaa51H2R6E",
+  "guest": "hammallama",
+  "brands": [
+    "ZABAL Games",
+    "The ZAO"
+  ],
+  "summary": "ZABAL Gamez fireside session with hammallama (Vendyz) - conversations from the ZABAL Games buildathon summer.",
+  "links": [
+    {
+      "label": "YouTube",
+      "url": "https://youtu.be/Rvaa51H2R6E"
+    },
+    {
+      "label": "ZABAL Games",
+      "url": "https://zabalgamez.com"
+    }
+  ]
+}

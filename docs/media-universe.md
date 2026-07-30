@@ -11,7 +11,13 @@ Research snapshot 2026-07-30, compiled from ZAOOS docs 2135 (channel inventory),
 - Crypto Magic Hour Ep. 50 (2026-03-03, earned) - found it: youtu.be/rx0PeGv8lPI, host VeVeMagic. The Tier 1 press source from doc 1340 is now logged.
 - 12 WaveWarZ artist interviews (Aug 2025 - Apr 2026): Chief Jaelyn, DopeStilo, iamLui, Preshzino, Aporkalypse, one7one8, CryptoB, K1DDV3NOM, goosepark, aaaa7777iui, XTinct, Kata7yst.
 
-Total: 84 items. Full raw channel listings in docs/youtube-catalog.md: @bettercallzaal 48 videos + 145 streams, @wavewarz 41 videos + 142 streams + 248 shorts (431 total - far bigger than docs 2135/2136 knew).
+- 7 Let's Talk About Ethereum sessions (Mar-Apr 2026): eps 1 (Kenny), 2 (Swarthy Hatter), 4 (Fidesio), plus Pablo, Kiba, An Ethereum Story, ETH Around the World Fireside #1 - found as stream VODs on @bettercallzaal
+- 4 COC Concertz VODs (#3 ft. Duo Do/Joseph Goats/Dope Stilo, #4, #5, #6) - the missing CoC URLs, found on @bettercallzaal streams
+- 5 WaveWarZ battles + 1 community battles video + AI Music Tourney semi-finals (LUI vs Geek Myth)
+- 8 ZABAL Gamez Firesides (bribe, Rizzle/WIP, Minted Merch, Luciano, hammallama/Vendyz, Los Fomos, InitiumBuilders, Nounish Prof)
+- 2 ZAO-VILLE LIVE streams + Solana TrencheZ (July 2026)
+
+Total: 112 items across 11 shows. Full raw channel listings in docs/youtube-catalog.md: @bettercallzaal 48 videos + 145 streams, @wavewarz 41 videos + 142 streams + 248 shorts (431 total - far bigger than docs 2135/2136 knew).
 
 ## Import backlog (known media NOT yet in ZM)
 
@@ -23,7 +29,8 @@ Total: 84 items. Full raw channel listings in docs/youtube-catalog.md: @betterca
 | ZAO Live Podcast channel | Shorts | @Zao.livepodcast | needs listing |
 | X Spaces recordings | 4+ space_*.mp4 on Mac (Jun-Jul 2026) + farcaster-intern-ama.ogg | ~/Downloads | unprocessed, no transcripts |
 | 1:1 recordings unprocessed | 13 files (William, Sifat, Zach L, Vishnu, Greg, Jeff, Viniapp, gho-st, chrisdol, nounish, Rishabh...) | ~/Downloads | need /meeting pass first |
-| CoC Concertz 4 + 5 | transcripts (segments incl. Joseph Goats, Tom Fellenz, Stilo World) | Documents/cocconcertz/CoCConcertZ/content/transcripts | no URLs/metadata yet |
+| CoC Concertz transcripts | segment transcripts for #4 + #5 (Joseph Goats, Tom Fellenz, Stilo World, Rev) | Documents/cocconcertz/CoCConcertZ/content/transcripts | VODs now logged; attach transcripts to the ZM entries |
+| COC Concertz #7 | happened 2026-07-18 per content calendar doc 1432 | TBC | find VOD, log |
 | Farcaster Batches sessions | 4 transcripts (June 2026) | zabalgamez-all/data/streams/farcaster-batches | decide class + whether to log |
 | Ohnahji streams | future stream series | TBD | not started (1 workshop ep already in ZM) |
 | WaveWarZ battle streams | 1,289 battles since launch | wavewarz.com + footage in ~/Movies | pick highlights; footage backup critical |

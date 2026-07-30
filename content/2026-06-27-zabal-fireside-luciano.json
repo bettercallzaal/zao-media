@@ -1,0 +1,33 @@
+{
+  "slug": "2026-06-27-zabal-fireside-luciano",
+  "status": "archived",
+  "host": "Zaal",
+  "hostHandle": "@zaal",
+  "hostUrl": "https://farcaster.xyz/zaal",
+  "guestOrg": "",
+  "points": [],
+  "chapters": [],
+  "related": [],
+  "hasTranscript": false,
+  "class": "produced",
+  "title": "ZABAL Gamez Fireside w/Luciano and fam",
+  "date": "2026-06-27",
+  "show": "ZABAL Gamez Firesides",
+  "youtubeId": "WrZcZZm1b1M",
+  "guest": "Luciano",
+  "brands": [
+    "ZABAL Games",
+    "The ZAO"
+  ],
+  "summary": "ZABAL Gamez fireside session with Luciano - conversations from the ZABAL Games buildathon summer.",
+  "links": [
+    {
+      "label": "YouTube",
+      "url": "https://youtu.be/WrZcZZm1b1M"
+    },
+    {
+      "label": "ZABAL Games",
+      "url": "https://zabalgamez.com"
+    }
+  ]
+}

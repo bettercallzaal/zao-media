@@ -1,0 +1,33 @@
+{
+  "slug": "2026-06-12-zabal-fireside-rizzle-wip",
+  "status": "archived",
+  "host": "Zaal",
+  "hostHandle": "@zaal",
+  "hostUrl": "https://farcaster.xyz/zaal",
+  "guestOrg": "WIP",
+  "points": [],
+  "chapters": [],
+  "related": [],
+  "hasTranscript": false,
+  "class": "produced",
+  "title": "ZABAL Gamez Fireside w/Rizzle from WIP",
+  "date": "2026-06-12",
+  "show": "ZABAL Gamez Firesides",
+  "youtubeId": "UrvRtVHf4eY",
+  "guest": "Rizzle",
+  "brands": [
+    "ZABAL Games",
+    "The ZAO"
+  ],
+  "summary": "ZABAL Gamez fireside session with Rizzle (WIP) - conversations from the ZABAL Games buildathon summer.",
+  "links": [
+    {
+      "label": "YouTube",
+      "url": "https://youtu.be/UrvRtVHf4eY"
+    },
+    {
+      "label": "ZABAL Games",
+      "url": "https://zabalgamez.com"
+    }
+  ]
+}

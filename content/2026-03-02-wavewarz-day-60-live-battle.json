@@ -1,0 +1,32 @@
+{
+  "slug": "2026-03-02-wavewarz-day-60-live-battle",
+  "status": "archived",
+  "host": "Zaal",
+  "hostHandle": "@zaal",
+  "hostUrl": "https://farcaster.xyz/zaal",
+  "guestOrg": "",
+  "points": [],
+  "chapters": [],
+  "related": [],
+  "hasTranscript": false,
+  "class": "produced",
+  "title": "WaveWarZ Live Battle - Year of the ZABAL Day 60",
+  "date": "2026-03-02",
+  "show": "WaveWarZ",
+  "youtubeId": "tT3VzEFgrck",
+  "brands": [
+    "WaveWarZ"
+  ],
+  "guest": "",
+  "summary": "Live WaveWarZ battle streamed on day 60 of the Year of the ZABAL run.",
+  "links": [
+    {
+      "label": "YouTube",
+      "url": "https://youtu.be/tT3VzEFgrck"
+    },
+    {
+      "label": "WaveWarZ",
+      "url": "https://wavewarz.com"
+    }
+  ]
+}

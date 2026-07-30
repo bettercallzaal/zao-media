@@ -1,0 +1,29 @@
+{
+  "slug": "2026-05-10-coc-concertz-5",
+  "status": "archived",
+  "host": "Zaal",
+  "hostHandle": "@zaal",
+  "hostUrl": "https://farcaster.xyz/zaal",
+  "guestOrg": "",
+  "points": [],
+  "chapters": [],
+  "related": [],
+  "hasTranscript": false,
+  "class": "community",
+  "title": "COC Concertz #5",
+  "date": "2026-05-10",
+  "show": "COC Concertz",
+  "youtubeId": "iO0U5-kwIQ8",
+  "brands": [
+    "COC Concertz",
+    "The ZAO"
+  ],
+  "guest": "",
+  "summary": "Community concert #5 - includes the Rev reflection (transcript in the CoCConcertZ repo).",
+  "links": [
+    {
+      "label": "YouTube",
+      "url": "https://youtu.be/iO0U5-kwIQ8"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "slug": "2025-06-06-wavewarz-chill-music-hub-v-pkmn",
+  "status": "archived",
+  "host": "Zaal",
+  "hostHandle": "@zaal",
+  "hostUrl": "https://farcaster.xyz/zaal",
+  "guestOrg": "",
+  "points": [],
+  "chapters": [],
+  "related": [],
+  "hasTranscript": false,
+  "class": "produced",
+  "title": "WaveWarZ: Chill Music Hub v. PKMN CTO - Live Traded Music Battle",
+  "date": "2025-06-06",
+  "show": "WaveWarZ",
+  "youtubeId": "KPf4nTOzNl8",
+  "brands": [
+    "WaveWarZ"
+  ],
+  "guest": "",
+  "summary": "Live-traded music battle on Solana.",
+  "links": [
+    {
+      "label": "YouTube",
+      "url": "https://youtu.be/KPf4nTOzNl8"
+    },
+    {
+      "label": "WaveWarZ",
+      "url": "https://wavewarz.com"
+    }
+  ]
+}

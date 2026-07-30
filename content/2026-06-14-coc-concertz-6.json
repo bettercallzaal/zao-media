@@ -1,0 +1,29 @@
+{
+  "slug": "2026-06-14-coc-concertz-6",
+  "status": "archived",
+  "host": "Zaal",
+  "hostHandle": "@zaal",
+  "hostUrl": "https://farcaster.xyz/zaal",
+  "guestOrg": "",
+  "points": [],
+  "chapters": [],
+  "related": [],
+  "hasTranscript": false,
+  "class": "community",
+  "title": "COC Concertz #6",
+  "date": "2026-06-14",
+  "show": "COC Concertz",
+  "youtubeId": "T77-2JWhfCY",
+  "brands": [
+    "COC Concertz",
+    "The ZAO"
+  ],
+  "guest": "",
+  "summary": "Community concert #6.",
+  "links": [
+    {
+      "label": "YouTube",
+      "url": "https://youtu.be/T77-2JWhfCY"
+    }
+  ]
+}

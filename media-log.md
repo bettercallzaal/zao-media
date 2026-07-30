@@ -24,6 +24,99 @@
 
 ---
 
+### ZAO-VILLE LIVE (part 2)
+
+- **Class:** produced
+- **Date:** 2026-07-26 (archived)
+- **Host/Source:** Zaal (@zaal) - ZAO-VILLE LIVE
+- **Brands:** The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-07-26-zao-ville-live-2/
+- **URLs:**
+  - YouTube: https://youtu.be/k2p6IzYASyo
+- **Topics/summary:** ZAO-VILLE LIVE stream, second broadcast of the day.
+- **Clip candidates:**
+
+
+---
+
+### ZAO-VILLE LIVE
+
+- **Class:** produced
+- **Date:** 2026-07-26 (archived)
+- **Host/Source:** Zaal (@zaal) - ZAO-VILLE LIVE
+- **Brands:** The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-07-26-zao-ville-live-1/
+- **URLs:**
+  - YouTube: https://youtu.be/VazokBw_4Fo
+- **Topics/summary:** ZAO-VILLE LIVE stream - the ZAO community broadcast around ZAOville.
+- **Clip candidates:**
+
+
+---
+
+### ZABAL Gamez Brainstorm w/Nounish Prof
+
+- **Class:** produced
+- **Date:** 2026-07-23 (archived)
+- **Host/Source:** ZABAL Gamez Firesides - Zaal with Nounish Prof
+- **Brands:** ZABAL Games, The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-07-23-zabal-fireside-nounish-prof-brainstorm/
+- **URLs:**
+  - YouTube: https://youtu.be/gcxH43GBBHU
+  - ZABAL Games: https://zabalgamez.com
+- **Topics/summary:** ZABAL Gamez fireside session with Nounish Prof - conversations from the ZABAL Games buildathon summer.
+- **Clip candidates:**
+
+
+---
+
+### Solana TrencheZ: Song BattleZ, TraderZ and DegenZ
+
+- **Class:** produced
+- **Date:** 2026-07-22 (archived)
+- **Host/Source:** Zaal (@zaal) - Solana TrencheZ
+- **Brands:** WaveWarZ, The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-07-22-solana-trenchez/
+- **URLs:**
+  - YouTube: https://youtu.be/Uwt9XdciVPE
+- **Topics/summary:** Solana TrencheZ stream - song battles, traders, and degens.
+- **Clip candidates:**
+
+
+---
+
+### AI Music Tourney Semi-FinalZ: LUI vs. Geek Myth
+
+- **Class:** produced
+- **Date:** 2026-07-20 (archived)
+- **Host/Source:** Zaal (@zaal) - WaveWarZ
+- **Brands:** WaveWarZ
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-07-20-wavewarz-ai-tourney-semifinals-lui-vs-geek-myth/
+- **URLs:**
+  - YouTube: https://youtu.be/avrR3VipVmA
+  - WaveWarZ: https://wavewarz.com
+- **Topics/summary:** Semi-finals of the AI Music Tourney - LUI versus Geek Myth. AI artists compete in live-traded battles.
+- **Clip candidates:**
+
+
+---
+
+### ZABAL Gamez: Building with InitiumBuilders
+
+- **Class:** produced
+- **Date:** 2026-07-02 (archived)
+- **Host/Source:** ZABAL Gamez Firesides - Zaal with InitiumBuilders
+- **Brands:** ZABAL Games, The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-07-02-zabal-fireside-initiumbuilders/
+- **URLs:**
+  - YouTube: https://youtu.be/1g87GmsJMVw
+  - ZABAL Games: https://zabalgamez.com
+- **Topics/summary:** ZABAL Gamez fireside session with InitiumBuilders - conversations from the ZABAL Games buildathon summer.
+- **Clip candidates:**
+
+
+---
+
 ### ZABAL GAMEZ Workshop w/Duo Do
 
 - **Class:** produced
@@ -72,6 +165,38 @@
 
 ---
 
+### ZABAL Gamez Workshop with Los Fomos
+
+- **Class:** produced
+- **Date:** 2026-06-29 (archived)
+- **Host/Source:** ZABAL Gamez Firesides - Zaal with Los Fomos
+- **Brands:** ZABAL Games, The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-29-zabal-fireside-los-fomos/
+- **URLs:**
+  - YouTube: https://youtu.be/RpBfj1cJNwU
+  - ZABAL Games: https://zabalgamez.com
+- **Topics/summary:** ZABAL Gamez fireside session with Los Fomos - conversations from the ZABAL Games buildathon summer.
+- **Clip candidates:**
+
+
+---
+
+### ZABAL Gamez Fireside: Talking Vendyz with hammallama
+
+- **Class:** produced
+- **Date:** 2026-06-28 (archived)
+- **Host/Source:** ZABAL Gamez Firesides - Zaal with hammallama (Vendyz)
+- **Brands:** ZABAL Games, The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-28-zabal-fireside-vendyz-hammallama/
+- **URLs:**
+  - YouTube: https://youtu.be/Rvaa51H2R6E
+  - ZABAL Games: https://zabalgamez.com
+- **Topics/summary:** ZABAL Gamez fireside session with hammallama (Vendyz) - conversations from the ZABAL Games buildathon summer.
+- **Clip candidates:**
+
+
+---
+
 ### ZABAL GAMEZ Workshop w/Matt Lee from Tortoise
 
 - **Class:** produced
@@ -99,6 +224,22 @@
   - YouTube: https://youtu.be/U_Eubs-2_Yo
   - ZABAL Games: https://zabalgamez.com
 - **Topics/summary:** ZABAL Gamez workshop session with AZKAL (FlowStage).
+- **Clip candidates:**
+
+
+---
+
+### ZABAL Gamez Fireside w/Luciano and fam
+
+- **Class:** produced
+- **Date:** 2026-06-27 (archived)
+- **Host/Source:** ZABAL Gamez Firesides - Zaal with Luciano
+- **Brands:** ZABAL Games, The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-27-zabal-fireside-luciano/
+- **URLs:**
+  - YouTube: https://youtu.be/WrZcZZm1b1M
+  - ZABAL Games: https://zabalgamez.com
+- **Topics/summary:** ZABAL Gamez fireside session with Luciano - conversations from the ZABAL Games buildathon summer.
 - **Clip candidates:**
 
 
@@ -179,6 +320,22 @@
   - YouTube: https://youtu.be/i_OX-nSnwkA
   - ZABAL Games: https://zabalgamez.com
 - **Topics/summary:** ZABAL Gamez workshop session with Dylan Yarter @bizarrebeast (BizarreBeasts).
+- **Clip candidates:**
+
+
+---
+
+### ZABAL Gamez Fireside w/svvvg3.eth and katkartel.eth from Minted Merch
+
+- **Class:** produced
+- **Date:** 2026-06-22 (archived)
+- **Host/Source:** ZABAL Gamez Firesides - Zaal with svvvg3.eth and katkartel.eth (Minted Merch)
+- **Brands:** ZABAL Games, The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-22-zabal-fireside-minted-merch/
+- **URLs:**
+  - YouTube: https://youtu.be/Iq9bSlazT-k
+  - ZABAL Games: https://zabalgamez.com
+- **Topics/summary:** ZABAL Gamez fireside session with svvvg3.eth and katkartel.eth (Minted Merch) - conversations from the ZABAL Games buildathon summer.
 - **Clip candidates:**
 
 
@@ -310,6 +467,21 @@
 
 ---
 
+### COC Concertz #6
+
+- **Class:** community
+- **Date:** 2026-06-14 (archived)
+- **Host/Source:** Zaal (@zaal) - COC Concertz
+- **Brands:** COC Concertz, The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-14-coc-concertz-6/
+- **URLs:**
+  - YouTube: https://youtu.be/T77-2JWhfCY
+- **Topics/summary:** Community concert #6.
+- **Clip candidates:**
+
+
+---
+
 ### Non-Dev to Shipped: building Baraza Protocol with AI tools
 
 - **Class:** produced
@@ -342,6 +514,22 @@
 
 ---
 
+### ZABAL Gamez Fireside w/Rizzle from WIP
+
+- **Class:** produced
+- **Date:** 2026-06-12 (archived)
+- **Host/Source:** ZABAL Gamez Firesides - Zaal with Rizzle (WIP)
+- **Brands:** ZABAL Games, The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-12-zabal-fireside-rizzle-wip/
+- **URLs:**
+  - YouTube: https://youtu.be/UrvRtVHf4eY
+  - ZABAL Games: https://zabalgamez.com
+- **Topics/summary:** ZABAL Gamez fireside session with Rizzle (WIP) - conversations from the ZABAL Games buildathon summer.
+- **Clip candidates:**
+
+
+---
+
 ### The Farcaster protocol, ins and outs - Cassie (ZABAL Gamez)
 
 - **Class:** produced
@@ -369,6 +557,22 @@
   - YouTube: https://youtu.be/-Fzy0b3RCDQ
   - ZABAL Games: https://zabalgamez.com
 - **Topics/summary:** A ZABAL Gamez conversation. Lightly cleaned, timestamped. Zaal with Adam "The Thriller" Miller (MIDAO + Beta Briefing). Find Adam on Farcaster as The Thriller and on X as 0xThriller.
+- **Clip candidates:**
+
+
+---
+
+### ZABAL Gamez Fireside w/bribe
+
+- **Class:** produced
+- **Date:** 2026-06-11 (archived)
+- **Host/Source:** ZABAL Gamez Firesides - Zaal with bribe
+- **Brands:** ZABAL Games, The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-11-zabal-fireside-bribe/
+- **URLs:**
+  - YouTube: https://youtu.be/Q2ISU6nHdKI
+  - ZABAL Games: https://zabalgamez.com
+- **Topics/summary:** ZABAL Gamez fireside session with bribe - conversations from the ZABAL Games buildathon summer.
 - **Clip candidates:**
 
 
@@ -500,6 +704,21 @@
 
 ---
 
+### COC Concertz #5
+
+- **Class:** community
+- **Date:** 2026-05-10 (archived)
+- **Host/Source:** Zaal (@zaal) - COC Concertz
+- **Brands:** COC Concertz, The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-05-10-coc-concertz-5/
+- **URLs:**
+  - YouTube: https://youtu.be/iO0U5-kwIQ8
+- **Topics/summary:** Community concert #5 - includes the Rev reflection (transcript in the CoCConcertZ repo).
+- **Clip candidates:**
+
+
+---
+
 ### BCZ YapZ w/Kenny (POIDH)
 
 - **Class:** produced
@@ -510,6 +729,21 @@
 - **URLs:**
   - YouTube: https://www.youtube.com/watch?v=IFG_34K7Vig
 - **Topics/summary:** Zaal sits with Kenny (founder of POIDH - Picture or It Didn't Happen), introduced via Maceo on the Let's Talk About Eth podcast. Kenny walks through the origin of POIDH from healthcare-coordination + Seattle-trash ideation, why permissionless + laser-specific bounties are the wedge crypto unlocks that traditional org structures can't, and how SMART goals (Specific, Measurable, Achievable, Relevant, Time-bound) map onto bounty writing. Demo of the May best-bounty meta-bounty + Zaal's BCZ YapZ ep 17 clipping bounty with 11 submissions from 11 creators. Conversation closes on cosmo-localism - using internet tools to pull global resources into rural Maine - and the AI-agent opportunity to lower bounty-writing friction natively inside the POIDH UX.
+- **Clip candidates:**
+
+
+---
+
+### Let's Talk About Ethereum w/Kiba
+
+- **Class:** produced
+- **Date:** 2026-04-26 (archived)
+- **Host/Source:** Let's Talk About Ethereum - Zaal with Kiba
+- **Brands:** Let's Talk About Ethereum, The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-04-26-lets-talk-about-ethereum-kiba/
+- **URLs:**
+  - YouTube: https://youtu.be/8p_StaswVwA
+- **Topics/summary:** LTAE session with Kiba. Weekly co-hosted live show on the Ethereum ecosystem - successor to Let's Talk About Web3.
 - **Clip candidates:**
 
 
@@ -560,6 +794,21 @@
 
 ---
 
+### Let's Talk About ETH Around the World: Fireside Chat #1
+
+- **Class:** produced
+- **Date:** 2026-04-16 (archived)
+- **Host/Source:** Zaal, Ohnahji B, Maceo (@zaal) - Let's Talk About Ethereum
+- **Brands:** Let's Talk About Ethereum, The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-04-16-lets-talk-about-ethereum-around-the-world-fireside-1/
+- **URLs:**
+  - YouTube: https://youtu.be/kAbvFJf2IGo
+- **Topics/summary:** First fireside in the ETH-around-the-world series. Weekly co-hosted live show on the Ethereum ecosystem - successor to Let's Talk About Web3.
+- **Clip candidates:**
+
+
+---
+
 ### BCZ YapZ w/Nikoline (Hubs Network)
 
 - **Class:** produced
@@ -591,6 +840,51 @@
 
 ---
 
+### COC Concertz #4
+
+- **Class:** community
+- **Date:** 2026-04-12 (archived)
+- **Host/Source:** Zaal (@zaal) - COC Concertz
+- **Brands:** COC Concertz, The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-04-12-coc-concertz-4/
+- **URLs:**
+  - YouTube: https://youtu.be/oqdxFclvOdg
+- **Topics/summary:** Community concert #4 - segments include Joseph Goats, Tom Fellenz, and Stilo World (transcripts exist in the CoCConcertZ repo).
+- **Clip candidates:**
+
+
+---
+
+### Let's Talk About Ethereum Ep. 4 w/Fidesio
+
+- **Class:** produced
+- **Date:** 2026-04-09 (archived)
+- **Host/Source:** Let's Talk About Ethereum - Zaal with Fidesio
+- **Brands:** Let's Talk About Ethereum, The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-04-09-lets-talk-about-ethereum-ep4-fidesio/
+- **URLs:**
+  - YouTube: https://youtu.be/zJGwH-upy5A
+- **Topics/summary:** Episode 4 with Fidesio. Weekly co-hosted live show on the Ethereum ecosystem - successor to Let's Talk About Web3.
+- **Clip candidates:**
+
+
+---
+
+### Let's Talk About Ethereum: An Ethereum Story
+
+- **Class:** produced
+- **Date:** 2026-04-02 (archived)
+- **Host/Source:** Zaal, Ohnahji B, Maceo (@zaal) - Let's Talk About Ethereum
+- **Brands:** Let's Talk About Ethereum, The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-04-02-lets-talk-about-ethereum-an-ethereum-story/
+- **URLs:**
+  - YouTube: https://youtu.be/ndeT2g2hXsE
+- **Topics/summary:** LTAE session on the story of Ethereum (Day 12 of the 100-day streaming run). Weekly co-hosted live show on the Ethereum ecosystem - successor to Let's Talk About Web3.
+- **Clip candidates:**
+
+
+---
+
 ### BCZ YapZ w/Jordan (Ryft)
 
 - **Class:** produced
@@ -606,6 +900,21 @@
 
 ---
 
+### Let's Talk About Ethereum w/Pablo
+
+- **Class:** produced
+- **Date:** 2026-03-29 (archived)
+- **Host/Source:** Let's Talk About Ethereum - Zaal with Pablo
+- **Brands:** Let's Talk About Ethereum, The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-03-29-lets-talk-about-ethereum-pablo/
+- **URLs:**
+  - YouTube: https://youtu.be/dGXR-if9wMA
+- **Topics/summary:** LTAE session with Pablo (Day 8 of the 100-day streaming run). Weekly co-hosted live show on the Ethereum ecosystem - successor to Let's Talk About Web3.
+- **Clip candidates:**
+
+
+---
+
 ### BCZ YapZ w/Ali (Inflynce)
 
 - **Class:** produced
@@ -616,6 +925,21 @@
 - **URLs:**
   - YouTube: https://youtu.be/WTyafqHKQqM
 - **Topics/summary:** In Episode 13 of BCZ YapZ, Zaal sits down with Ali, founder of Inflynce, to break down how one of the earliest Farcaster marketing tools came to life. Ali shares his journey from trading crypto and losing everything to contributing in a Discord, earning a role through pure effort, and eventually building Inflynce after getting rejected from over 180 job applications. The conversation highlights how real opportunity in Web3 often comes from participation, not credentials.
+- **Clip candidates:**
+
+
+---
+
+### Let's Talk About Ethereum Ep. 2 w/Swarthy Hatter
+
+- **Class:** produced
+- **Date:** 2026-03-19 (archived)
+- **Host/Source:** Let's Talk About Ethereum - Zaal with Swarthy Hatter
+- **Brands:** Let's Talk About Ethereum, The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-03-19-lets-talk-about-ethereum-ep2-swarthy-hatter/
+- **URLs:**
+  - YouTube: https://youtu.be/lIJ0MacsA2w
+- **Topics/summary:** Episode 2 with Swarthy Hatter. Weekly co-hosted live show on the Ethereum ecosystem - successor to Let's Talk About Web3.
 - **Clip candidates:**
 
 
@@ -667,6 +991,36 @@
 
 ---
 
+### COC Concertz #3 ft. Duo Do, Joseph Goats, and Dope Stilo
+
+- **Class:** community
+- **Date:** 2026-03-08 (archived)
+- **Host/Source:** Zaal (@zaal) - COC Concertz
+- **Brands:** COC Concertz, The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-03-08-coc-concertz-3/
+- **URLs:**
+  - YouTube: https://youtu.be/XPlif40WsPM
+- **Topics/summary:** Community concert #3 - sets from Duo Do, Joseph Goats, and Dope Stilo.
+- **Clip candidates:**
+
+
+---
+
+### Let's Talk About Ethereum Ep. 1 w/Kenny
+
+- **Class:** produced
+- **Date:** 2026-03-05 (archived)
+- **Host/Source:** Let's Talk About Ethereum - Zaal with Kenny
+- **Brands:** Let's Talk About Ethereum, The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-03-05-lets-talk-about-ethereum-ep1-kenny/
+- **URLs:**
+  - YouTube: https://youtu.be/jpKojnyjfeM
+- **Topics/summary:** Episode 1 of the rebranded show - Kenny (POIDH) on bounties and the Ethereum ecosystem. Weekly co-hosted live show on the Ethereum ecosystem - successor to Let's Talk About Web3.
+- **Clip candidates:**
+
+
+---
+
 ### Crypto Magic Hour Ep. 50: WaveWarZ Epic Battle, New Crypto X Rules and More
 
 - **Class:** earned
@@ -677,6 +1031,22 @@
 - **URLs:**
   - YouTube: https://youtu.be/rx0PeGv8lPI
 - **Topics/summary:** Crypto Magic Hour episode 50 features a WaveWarZ epic battle - live-traded music battles on Solana where artists earn from every trade. Independent Tier 1 coverage of WaveWarZ and The ZAO (press map doc 1340).
+- **Clip candidates:**
+
+
+---
+
+### WaveWarZ Live Battle - Year of the ZABAL Day 60
+
+- **Class:** produced
+- **Date:** 2026-03-02 (archived)
+- **Host/Source:** Zaal (@zaal) - WaveWarZ
+- **Brands:** WaveWarZ
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-03-02-wavewarz-day-60-live-battle/
+- **URLs:**
+  - YouTube: https://youtu.be/tT3VzEFgrck
+  - WaveWarZ: https://wavewarz.com
+- **Topics/summary:** Live WaveWarZ battle streamed on day 60 of the Year of the ZABAL run.
 - **Clip candidates:**
 
 
@@ -722,6 +1092,22 @@
 - **URLs:**
   - YouTube: https://youtu.be/0tyVpLGVxkA
 - **Topics/summary:** In this episode of BCZ YapZ, Zaal sits down with Adrian (aka Divifly), the lead developer behind Empire Builder, for a deep dive into the technical infrastructure and future roadmap of the platform. Adrian shares his long history in the cryptocurrency space-from mining Dogecoin on a laptop in 2013 and navigating the 2017 ICO boom to his work as a technical writer for major protocols like Scroll and Rootstock.
+- **Clip candidates:**
+
+
+---
+
+### Yoshiro vs Geek Myth - Electronic Music Battle
+
+- **Class:** produced
+- **Date:** 2026-01-29 (archived)
+- **Host/Source:** Zaal (@zaal) - WaveWarZ
+- **Brands:** WaveWarZ
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-01-29-wavewarz-yoshiro-vs-geek-myth/
+- **URLs:**
+  - YouTube: https://youtu.be/Hw4CQmMztgI
+  - WaveWarZ: https://wavewarz.com
+- **Topics/summary:** Electronic music battle - Yoshiro versus Geek Myth.
 - **Clip candidates:**
 
 
@@ -1167,6 +1553,22 @@
 
 ---
 
+### WaveWarZ Song v Song Battle ft. Jango UU
+
+- **Class:** produced
+- **Date:** 2025-07-02 (archived)
+- **Host/Source:** Zaal (@zaal) - WaveWarZ
+- **Brands:** WaveWarZ
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2025-07-02-wavewarz-song-v-song-jango-uu/
+- **URLs:**
+  - YouTube: https://youtu.be/ZOKPOYEndVs
+  - WaveWarZ: https://wavewarz.com
+- **Topics/summary:** Song-versus-song battle featuring Jango UU.
+- **Clip candidates:**
+
+
+---
+
 ### Let's Talk About Web3 - Ep. 8
 
 - **Class:** produced
@@ -1226,6 +1628,22 @@
   - Pods.media archive: https://pods.media/lets-talk-about-web3/
   - Spotify: https://open.spotify.com/show/1Bk6bsMYciOMyJohMVZUgt
 - **Topics/summary:** Weekly co-hosted live web3 show (Zaal, Ohnahji B, EZinCrypto), streamed live on Twitch. Runtime 16:05. Three seasons of this show became Let's Talk About Ethereum.
+- **Clip candidates:**
+
+
+---
+
+### WaveWarZ: Chill Music Hub v. PKMN CTO - Live Traded Music Battle
+
+- **Class:** produced
+- **Date:** 2025-06-06 (archived)
+- **Host/Source:** Zaal (@zaal) - WaveWarZ
+- **Brands:** WaveWarZ
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2025-06-06-wavewarz-chill-music-hub-v-pkmn/
+- **URLs:**
+  - YouTube: https://youtu.be/KPf4nTOzNl8
+  - WaveWarZ: https://wavewarz.com
+- **Topics/summary:** Live-traded music battle on Solana.
 - **Clip candidates:**
 
 

@@ -1,0 +1,33 @@
+{
+  "slug": "2026-06-22-zabal-fireside-minted-merch",
+  "status": "archived",
+  "host": "Zaal",
+  "hostHandle": "@zaal",
+  "hostUrl": "https://farcaster.xyz/zaal",
+  "guestOrg": "Minted Merch",
+  "points": [],
+  "chapters": [],
+  "related": [],
+  "hasTranscript": false,
+  "class": "produced",
+  "title": "ZABAL Gamez Fireside w/svvvg3.eth and katkartel.eth from Minted Merch",
+  "date": "2026-06-22",
+  "show": "ZABAL Gamez Firesides",
+  "youtubeId": "Iq9bSlazT-k",
+  "guest": "svvvg3.eth and katkartel.eth",
+  "brands": [
+    "ZABAL Games",
+    "The ZAO"
+  ],
+  "summary": "ZABAL Gamez fireside session with svvvg3.eth and katkartel.eth (Minted Merch) - conversations from the ZABAL Games buildathon summer.",
+  "links": [
+    {
+      "label": "YouTube",
+      "url": "https://youtu.be/Iq9bSlazT-k"
+    },
+    {
+      "label": "ZABAL Games",
+      "url": "https://zabalgamez.com"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "2026-06-29-zabal-fireside-los-fomos",
+  "status": "archived",
+  "host": "Zaal",
+  "hostHandle": "@zaal",
+  "hostUrl": "https://farcaster.xyz/zaal",
+  "guestOrg": "",
+  "points": [],
+  "chapters": [],
+  "related": [],
+  "hasTranscript": false,
+  "class": "produced",
+  "title": "ZABAL Gamez Workshop with Los Fomos",
+  "date": "2026-06-29",
+  "show": "ZABAL Gamez Firesides",
+  "youtubeId": "RpBfj1cJNwU",
+  "guest": "Los Fomos",
+  "brands": [
+    "ZABAL Games",
+    "The ZAO"
+  ],
+  "summary": "ZABAL Gamez fireside session with Los Fomos - conversations from the ZABAL Games buildathon summer.",
+  "links": [
+    {
+      "label": "YouTube",
+      "url": "https://youtu.be/RpBfj1cJNwU"
+    },
+    {
+      "label": "ZABAL Games",
+      "url": "https://zabalgamez.com"
+    }
+  ]
+}

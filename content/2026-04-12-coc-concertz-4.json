@@ -1,0 +1,29 @@
+{
+  "slug": "2026-04-12-coc-concertz-4",
+  "status": "archived",
+  "host": "Zaal",
+  "hostHandle": "@zaal",
+  "hostUrl": "https://farcaster.xyz/zaal",
+  "guestOrg": "",
+  "points": [],
+  "chapters": [],
+  "related": [],
+  "hasTranscript": false,
+  "class": "community",
+  "title": "COC Concertz #4",
+  "date": "2026-04-12",
+  "show": "COC Concertz",
+  "youtubeId": "oqdxFclvOdg",
+  "brands": [
+    "COC Concertz",
+    "The ZAO"
+  ],
+  "guest": "",
+  "summary": "Community concert #4 - segments include Joseph Goats, Tom Fellenz, and Stilo World (transcripts exist in the CoCConcertZ repo).",
+  "links": [
+    {
+      "label": "YouTube",
+      "url": "https://youtu.be/oqdxFclvOdg"
+    }
+  ]
+}
