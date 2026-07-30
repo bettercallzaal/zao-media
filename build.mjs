@@ -119,7 +119,7 @@ function hubPage(items) {
   <p class="kicker">ZM - ZAO Media - ZAO Morning</p>
   <h1>The media home for The ZAO.</h1>
   <p class="lead">Everything the ZAO produces or appears in - podcasts, shows, Spaces, streams, and earned-media appearances. One place, logged once, shared everywhere. Every morning is a ZAO Media moment.</p>
-  <p class="lead" style="margin-top:10px"><a href="https://github.com/bettercallzaal/zao-media/issues/new?template=add-media.yml">+ Add media to ZM</a> - anyone can submit an appearance, stream, or show. <a href="./tracker.html">Tracker</a> - the distribution CRM.</p>
+  <p class="lead" style="margin-top:10px"><a href="https://github.com/bettercallzaal/zao-media/issues/new?template=add-media.yml">+ Add media to ZM</a> - anyone can submit an appearance, stream, or show. <a href="./tracker.html">Tracker</a> - the distribution CRM. <a href="./feed.xml">RSS</a>.</p>
 </header>
 <main>
   <input id="q" type="search" placeholder="Search ${items.length} media items - title, guest, show, topic..." aria-label="Search media"

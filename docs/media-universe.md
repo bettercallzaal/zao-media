@@ -20,7 +20,20 @@ Research snapshot 2026-07-30, compiled from ZAOOS docs 2135 (channel inventory),
 - 4 Farcaster Batches sessions (June 2026, GM Farcaster's show) - Day 3 logged as EARNED (Zaal presented The ZAO + ZABAL Gamez), days 1/2/5 as community; transcripts attached
 - COC extras: Community of Communities Book reveal video; segment transcripts attached to COC Concertz #4 and #5 entries
 
-Total: 117 items. Earned section now 3 (Just DAO It, Crypto Magic Hour Ep. 50, Farcaster Batches Day 3). Full raw channel listings in docs/youtube-catalog.md: @bettercallzaal 48 videos + 145 streams, @wavewarz 41 videos + 142 streams + 248 shorts (431 total - far bigger than docs 2135/2136 knew).
+- 3 more WaveWarZ interviews from the @wavewarz streams tab (Rocky2Grimey, Cannon Jones973, GodCloud) + the DRiP Hauz financial-impact special
+- First live-class entries: ZAO Fractal #56, B&Z Build, Metafide BTC prediction game
+- Site: hub search, tracker.html CRM, media-crm.csv, feed.xml RSS, add-media issue form, repository_dispatch API (docs/api.md)
+
+Total: 124 items across 15 shows. Earned section: 3 (Just DAO It, Crypto Magic Hour Ep. 50, Farcaster Batches Day 3).
+
+## What remains (blocked on Zaal or intentionally skipped)
+
+- Twitch: 62 VODs expiring ~14 days - BACKUP FIRST (doc 1560), then log. Blocked on backup decision.
+- COC Concertz #7 (Jul 18): VOD location unknown - ask Zaal.
+- ~130 daily WaveWarZ battle streams + 248 shorts: intentionally NOT one-entry-each; catalogued in docs/youtube-catalog.md.
+- ~40 misc @bettercallzaal streams (just-chatting, gaming, Year of the ZABAL day streams): low media value, skipped; in catalog doc.
+- LTAE + new shows: log as episodes land (web form / API / local).
+- Google Sheet snapshot is 117-row vintage; re-export media-crm.csv on request. Full raw channel listings in docs/youtube-catalog.md: @bettercallzaal 48 videos + 145 streams, @wavewarz 41 videos + 142 streams + 248 shorts (431 total - far bigger than docs 2135/2136 knew).
 
 ## Distribution CRM
 
