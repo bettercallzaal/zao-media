@@ -43,6 +43,14 @@ Total: 125 items across 16 shows. Earned section: 4 (Token for Your Thoughts Apr
 - ltaw3 intro.mp3 - the show intro asset
 Audius confirmed live: 3 tracks (WaveWarZ the Electric Vibez Nov 2025, UVR Anthems 1+2 May 2026) - logged in ZM.
 
+## Music platform sweep (2026-07-30)
+
+- Sound.xyz: DEAD - platform went offline 2026-01-16. ZAO Music's Sound.xyz lane is historical; collections survive on OpenSea for holders.
+- Zora, Juke public archives, BCZ YapZ RSS feed: nothing found. LTAW3 on pods.media is the only podcast-feed presence.
+- ltaw3.thezao.com - the show's community site (new URL captured).
+- thezao.com Music Releases page - community artist directory (Django/Jango UU, Songs of Eden, Hurric4n3Ike, Attabotty, Clejan, NessytheRilla, Jadyn Violet, Maxwell Aden). Community releases, not Zaal media items; potential future community-class entries.
+- Trivia for the record: Zaal won the first metal and rock showdown at WaveWarZ 44.
+
 ## Corrections to older docs
 
 - Doc 2136 lists "ZAO Live Podcast (@Zao.livepodcast)" as a Zaal channel - WRONG. That channel is "zao.live", an unrelated AI news-podcast app. Name collision; not ZAO media.
