@@ -14,8 +14,12 @@
     "ZABAL Games",
     "The ZAO"
   ],
-  "youtubeId": null,
+  "youtubeId": "VsSLEF8O9yI",
   "links": [
+    {
+      "label": "YouTube",
+      "url": "https://youtu.be/VsSLEF8O9yI"
+    },
     {
       "label": "ZABAL Games",
       "url": "https://zabalgamez.com"

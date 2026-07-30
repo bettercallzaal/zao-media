@@ -32,6 +32,7 @@
 - **Brands:** ZABAL Games, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-30-duo-do-workshop/
 - **URLs:**
+  - YouTube: https://youtu.be/iI4gdfDOLno
   - ZABAL Games: https://zabalgamez.com
 - **Topics/summary:** ZABAL Gamez workshop session with Duo Do @duodomusica (Clementine and Santiago).
 - **Clip candidates:**
@@ -47,6 +48,7 @@
 - **Brands:** ZABAL Games, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-30-ceci-unlock-protocol-workshop/
 - **URLs:**
+  - YouTube: https://youtu.be/91nwS2212nA
   - ZABAL Games: https://zabalgamez.com
 - **Topics/summary:** ZABAL Gamez workshop session with Ceci Sakura (Unlock Protocol).
 - **Clip candidates:**
@@ -62,6 +64,7 @@
 - **Brands:** ZABAL Games, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-30-adrienne-gm-farcaster-warpy-workshop/
 - **URLs:**
+  - YouTube: https://youtu.be/t0LntX592vQ
   - ZABAL Games: https://zabalgamez.com
 - **Topics/summary:** ZABAL Gamez workshop session with Adrienne Shulman @adrienne (GM Farcaster).
 - **Clip candidates:**
@@ -77,6 +80,7 @@
 - **Brands:** ZABAL Games, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-28-matt-lee-tortoise-workshop/
 - **URLs:**
+  - YouTube: https://youtu.be/kbUZIRBM2Gw
   - ZABAL Games: https://zabalgamez.com
 - **Topics/summary:** ZABAL Gamez workshop session with Matt Lee @mattlee (Tortoise).
 - **Clip candidates:**
@@ -92,6 +96,7 @@
 - **Brands:** ZABAL Games, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-28-building-flowstage-workshop/
 - **URLs:**
+  - YouTube: https://youtu.be/U_Eubs-2_Yo
   - ZABAL Games: https://zabalgamez.com
 - **Topics/summary:** ZABAL Gamez workshop session with AZKAL (FlowStage).
 - **Clip candidates:**
@@ -107,6 +112,7 @@
 - **Brands:** ZABAL Games, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-27-james-mental-wealth-academy-workshop/
 - **URLs:**
+  - YouTube: https://youtu.be/PghbLCx38t8
   - ZABAL Games: https://zabalgamez.com
 - **Topics/summary:** ZABAL Gamez workshop session with James @jamesdesign.eth (Mental Wealth Academy).
 - **Clip candidates:**
@@ -122,6 +128,7 @@
 - **Brands:** ZABAL Games, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-25-music-generative-ai-ableton-workshop/
 - **URLs:**
+  - YouTube: https://youtu.be/p8ctV40HsyM
   - ZABAL Games: https://zabalgamez.com
 - **Topics/summary:** ZABAL Gamez workshop session with Teresa Marrin Nakra (Stevens University).
 - **Clip candidates:**
@@ -137,6 +144,7 @@
 - **Brands:** ZABAL Games, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-23-snapchain-under-the-hood-workshop/
 - **URLs:**
+  - YouTube: https://youtu.be/lv70ErBQopY
   - ZABAL Games: https://zabalgamez.com
 - **Topics/summary:** ZABAL Gamez workshop session with topocount @topocount.eth (Neynar).
 - **Clip candidates:**
@@ -152,6 +160,7 @@
 - **Brands:** ZABAL Games, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-23-harness-and-joining-bankr-workshop/
 - **URLs:**
+  - YouTube: https://youtu.be/YmRfDeJyl0M
   - ZABAL Games: https://zabalgamez.com
 - **Topics/summary:** ZABAL Gamez workshop session with Saltorious @saltorious.eth (Bankr).
 - **Clip candidates:**
@@ -167,6 +176,7 @@
 - **Brands:** ZABAL Games, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-23-bizarre-pixel-studio-workshop/
 - **URLs:**
+  - YouTube: https://youtu.be/i_OX-nSnwkA
   - ZABAL Games: https://zabalgamez.com
 - **Topics/summary:** ZABAL Gamez workshop session with Dylan Yarter @bizarrebeast (BizarreBeasts).
 - **Clip candidates:**
@@ -197,6 +207,7 @@
 - **Brands:** ZABAL Games, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-21-meta-mu-add-value-workshop/
 - **URLs:**
+  - YouTube: https://youtu.be/0uLWSIME47U
   - ZABAL Games: https://zabalgamez.com
 - **Topics/summary:** ZABAL Gamez workshop session with Meta Mu @metamu (Rose City Web3).
 - **Clip candidates:**
@@ -212,6 +223,7 @@
 - **Brands:** ZABAL Games, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-20-previbecoding-workshop/
 - **URLs:**
+  - YouTube: https://youtu.be/C-va-jfaO1U
   - ZABAL Games: https://zabalgamez.com
 - **Topics/summary:** ZABAL Gamez workshop session with Ali Tiknazoglu @alitiknazoglu.
 - **Clip candidates:**
@@ -227,6 +239,7 @@
 - **Brands:** ZABAL Games, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-20-dan-singjoy-eden-fractal-workshop/
 - **URLs:**
+  - YouTube: https://youtu.be/drT2zp_V-tc
   - ZABAL Games: https://zabalgamez.com
 - **Topics/summary:** ZABAL Gamez workshop session with Dan Singjoy @dansingjoy (Eden Fractal).
 - **Clip candidates:**
@@ -257,6 +270,7 @@
 - **Brands:** ZABAL Games, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-16-diviflyy-empire-builder-v3-api-workshop/
 - **URLs:**
+  - YouTube: https://youtu.be/P4ypb4jvpog
   - ZABAL Games: https://zabalgamez.com
 - **Topics/summary:** ZABAL Gamez workshop session with Adrian (diviflyy) @diviflyy (Empire Builder).
 - **Clip candidates:**
@@ -272,6 +286,7 @@
 - **Brands:** ZABAL Games, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-15-kenny-poidh-workshop/
 - **URLs:**
+  - YouTube: https://youtu.be/EdfMN-lRI4E
   - ZABAL Games: https://zabalgamez.com
 - **Topics/summary:** ZABAL Gamez workshop session with Kenny @kenny (POIDH).
 - **Clip candidates:**
@@ -287,6 +302,7 @@
 - **Brands:** ZABAL Games, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-15-chris-dolinsky-vini-app-workshop/
 - **URLs:**
+  - YouTube: https://youtu.be/MHIiIvltLh4
   - ZABAL Games: https://zabalgamez.com
 - **Topics/summary:** ZABAL Gamez workshop session with Chris Dolinsky @1dolinski (Vini App).
 - **Clip candidates:**
@@ -302,6 +318,7 @@
 - **Brands:** ZABAL Games, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-14-aziz-motomoto-baraza-workshop/
 - **URLs:**
+  - YouTube: https://youtu.be/MAzecp9zVWA
   - ZABAL Games: https://zabalgamez.com
 - **Topics/summary:** ZABAL Gamez workshop session with Aziz (MotoMoto) @azizke (Build Africa DAO).
 - **Clip candidates:**
@@ -317,6 +334,7 @@
 - **Brands:** ZABAL Games, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-13-wavewarz-hurricane-workshop/
 - **URLs:**
+  - YouTube: https://youtu.be/2GLRrILYoo4
   - ZABAL Games: https://zabalgamez.com
 - **Topics/summary:** A ZABAL Gamez workshop. Lightly cleaned auto-transcript (filler removed; brand names
 - **Clip candidates:**
@@ -332,6 +350,7 @@
 - **Brands:** ZABAL Games, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-12-cassie-farcaster-protocol-workshop/
 - **URLs:**
+  - YouTube: https://youtu.be/FZxzc2ieT4w
   - ZABAL Games: https://zabalgamez.com
 - **Topics/summary:** A ZABAL Gamez workshop. Lightly cleaned auto-transcript (filler removed; brand names
 - **Clip candidates:**
@@ -347,6 +366,7 @@
 - **Brands:** ZABAL Games, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-12-adam-miller-midao-workshop/
 - **URLs:**
+  - YouTube: https://youtu.be/-Fzy0b3RCDQ
   - ZABAL Games: https://zabalgamez.com
 - **Topics/summary:** A ZABAL Gamez conversation. Lightly cleaned, timestamped. Zaal with Adam "The Thriller" Miller (MIDAO + Beta Briefing). Find Adam on Farcaster as The Thriller and on X as 0xThriller.
 - **Clip candidates:**
@@ -362,6 +382,7 @@
 - **Brands:** ZABAL Games, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-10-will-t-kfmedia-workshop/
 - **URLs:**
+  - YouTube: https://youtu.be/pvH7ONG1yFU
   - ZABAL Games: https://zabalgamez.com
 - **Topics/summary:** ZABAL Gamez workshop session with Will T of Web3 @willtofweb3 (Kingfishers Media).
 - **Clip candidates:**
@@ -377,6 +398,7 @@
 - **Brands:** ZABAL Games, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-09-joseph-goats-digital-street-music-workshop/
 - **URLs:**
+  - YouTube: https://youtu.be/xZyrEeKQEz0
   - ZABAL Games: https://zabalgamez.com
 - **Topics/summary:** ZABAL Gamez workshop session with Joseph Goats.
 - **Clip candidates:**
@@ -407,6 +429,7 @@
 - **Brands:** ZABAL Games, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-02-ohnahji-livestreaming-workshop/
 - **URLs:**
+  - YouTube: https://youtu.be/VsSLEF8O9yI
   - ZABAL Games: https://zabalgamez.com
 - **Topics/summary:** Lightly cleaned from the live Twitch auto-transcript; timestamps preserved for navigation.
 - **Clip candidates:**
@@ -422,6 +445,7 @@
 - **Brands:** ZABAL Games, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-01-yerbearserker-empire-builder-workshop/
 - **URLs:**
+  - YouTube: https://youtu.be/Ej7Wm-v6WXo
   - ZABAL Games: https://zabalgamez.com
 - **Topics/summary:** ZABAL Gamez workshop session.
 - **Clip candidates:**
@@ -437,6 +461,7 @@
 - **Brands:** ZABAL Games, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-01-yerbearserker-empire-builder-part-2-workshop/
 - **URLs:**
+  - YouTube: https://youtu.be/RXYTCHRh_rY
   - ZABAL Games: https://zabalgamez.com
 - **Topics/summary:** ZABAL Gamez workshop session.
 - **Clip candidates:**
@@ -452,6 +477,7 @@
 - **Brands:** ZABAL Games, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-01-bonfire-josh-plat0x-workshop/
 - **URLs:**
+  - YouTube: https://youtu.be/3jKfYdOYxSw
   - ZABAL Games: https://zabalgamez.com
 - **Topics/summary:** ZABAL Gamez workshop session.
 - **Clip candidates:**
@@ -744,6 +770,118 @@
 
 ---
 
+### Let's Talk About Web3 - Ep. 18
+
+- **Class:** produced
+- **Date:** 2025-09-26 (archived)
+- **Host/Source:** Zaal, Ohnahji B, EZinCrypto (@zaal) - Let's Talk About Web3
+- **Brands:** Let's Talk About Web3, The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2025-09-26-lets-talk-about-web3-ep18/
+- **URLs:**
+  - Pods.media archive: https://pods.media/lets-talk-about-web3/
+  - Spotify: https://open.spotify.com/show/1Bk6bsMYciOMyJohMVZUgt
+- **Topics/summary:** Weekly co-hosted live web3 show (Zaal, Ohnahji B, EZinCrypto), streamed live on Twitch. Runtime 55:13. Three seasons of this show became Let's Talk About Ethereum.
+- **Clip candidates:**
+
+
+---
+
+### Let's Talk About Web3 - Ep. 17 w/GESD1
+
+- **Class:** produced
+- **Date:** 2025-09-23 (archived)
+- **Host/Source:** Let's Talk About Web3 - Zaal with GESD1
+- **Brands:** Let's Talk About Web3, The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2025-09-23-lets-talk-about-web3-ep17/
+- **URLs:**
+  - Pods.media archive: https://pods.media/lets-talk-about-web3/
+  - Spotify: https://open.spotify.com/show/1Bk6bsMYciOMyJohMVZUgt
+- **Topics/summary:** Weekly co-hosted live web3 show (Zaal, Ohnahji B, EZinCrypto), streamed live on Twitch - this episode with GESD1. Runtime 51:10. Three seasons of this show became Let's Talk About Ethereum.
+- **Clip candidates:**
+
+
+---
+
+### Let's Talk About Web3 - Ep. 16 w/HURRIC4N3IKE
+
+- **Class:** produced
+- **Date:** 2025-09-17 (archived)
+- **Host/Source:** Let's Talk About Web3 - Zaal with HURRIC4N3IKE
+- **Brands:** Let's Talk About Web3, The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2025-09-17-lets-talk-about-web3-ep16/
+- **URLs:**
+  - Pods.media archive: https://pods.media/lets-talk-about-web3/
+  - Spotify: https://open.spotify.com/show/1Bk6bsMYciOMyJohMVZUgt
+- **Topics/summary:** Weekly co-hosted live web3 show (Zaal, Ohnahji B, EZinCrypto), streamed live on Twitch - this episode with HURRIC4N3IKE. Runtime 53:21. Three seasons of this show became Let's Talk About Ethereum.
+- **Clip candidates:**
+
+
+---
+
+### Let's Talk About Web3 - Ep. 15
+
+- **Class:** produced
+- **Date:** 2025-09-05 (archived)
+- **Host/Source:** Zaal, Ohnahji B, EZinCrypto (@zaal) - Let's Talk About Web3
+- **Brands:** Let's Talk About Web3, The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2025-09-05-lets-talk-about-web3-ep15/
+- **URLs:**
+  - Pods.media archive: https://pods.media/lets-talk-about-web3/
+  - Spotify: https://open.spotify.com/show/1Bk6bsMYciOMyJohMVZUgt
+- **Topics/summary:** Weekly co-hosted live web3 show (Zaal, Ohnahji B, EZinCrypto), streamed live on Twitch. Runtime 53:21. Three seasons of this show became Let's Talk About Ethereum.
+- **Clip candidates:**
+
+
+---
+
+### Let's Talk About Web3 - Ep. 14 w/Pichi
+
+- **Class:** produced
+- **Date:** 2025-09-04 (archived)
+- **Host/Source:** Let's Talk About Web3 - Zaal with Pichi
+- **Brands:** Let's Talk About Web3, The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2025-09-04-lets-talk-about-web3-ep14/
+- **URLs:**
+  - Pods.media archive: https://pods.media/lets-talk-about-web3/
+  - Spotify: https://open.spotify.com/show/1Bk6bsMYciOMyJohMVZUgt
+- **Topics/summary:** Weekly co-hosted live web3 show (Zaal, Ohnahji B, EZinCrypto), streamed live on Twitch - this episode with Pichi. Runtime 1:09:13. Three seasons of this show became Let's Talk About Ethereum.
+- **Clip candidates:**
+
+
+---
+
+### Let's Talk About Web3 - Ep. 13
+
+- **Class:** produced
+- **Date:** 2025-09-03 (archived)
+- **Host/Source:** Zaal, Ohnahji B, EZinCrypto (@zaal) - Let's Talk About Web3
+- **Brands:** Let's Talk About Web3, The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2025-09-03-lets-talk-about-web3-ep13/
+- **URLs:**
+  - Pods.media archive: https://pods.media/lets-talk-about-web3/
+  - Spotify: https://open.spotify.com/show/1Bk6bsMYciOMyJohMVZUgt
+- **Topics/summary:** Weekly co-hosted live web3 show (Zaal, Ohnahji B, EZinCrypto), streamed live on Twitch. Runtime 54:20. Three seasons of this show became Let's Talk About Ethereum.
+- **Clip candidates:**
+
+
+---
+
+### Let's Talk About Web3 - Ep. 12
+
+- **Class:** produced
+- **Date:** 2025-08-27 (archived)
+- **Host/Source:** Zaal, Ohnahji B, EZinCrypto (@zaal) - Let's Talk About Web3
+- **Brands:** Let's Talk About Web3, The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2025-08-27-lets-talk-about-web3-ep12/
+- **URLs:**
+  - Pods.media archive: https://pods.media/lets-talk-about-web3/
+  - Spotify: https://open.spotify.com/show/1Bk6bsMYciOMyJohMVZUgt
+- **Topics/summary:** Weekly co-hosted live web3 show (Zaal, Ohnahji B, EZinCrypto), streamed live on Twitch. Runtime 40:29. Three seasons of this show became Let's Talk About Ethereum.
+- **Clip candidates:**
+
+
+---
+
 ### BCZ YapZ w/Deepa
 
 - **Class:** produced
@@ -759,6 +897,198 @@
 
 ---
 
+### Let's Talk About Web3 - Ep. 11 w/DuoDoMusica
+
+- **Class:** produced
+- **Date:** 2025-07-30 (archived)
+- **Host/Source:** Let's Talk About Web3 - Zaal with DuoDoMusica
+- **Brands:** Let's Talk About Web3, The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2025-07-30-lets-talk-about-web3-ep11/
+- **URLs:**
+  - Pods.media archive: https://pods.media/lets-talk-about-web3/
+  - Spotify: https://open.spotify.com/show/1Bk6bsMYciOMyJohMVZUgt
+- **Topics/summary:** Weekly co-hosted live web3 show (Zaal, Ohnahji B, EZinCrypto), streamed live on Twitch - this episode with DuoDoMusica. Runtime 1:04:57. Three seasons of this show became Let's Talk About Ethereum.
+- **Clip candidates:**
+
+
+---
+
+### Let's Talk About Web3 - Ep. 10
+
+- **Class:** produced
+- **Date:** 2025-07-12 (archived)
+- **Host/Source:** Zaal, Ohnahji B, EZinCrypto (@zaal) - Let's Talk About Web3
+- **Brands:** Let's Talk About Web3, The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2025-07-12-lets-talk-about-web3-ep10/
+- **URLs:**
+  - Pods.media archive: https://pods.media/lets-talk-about-web3/
+  - Spotify: https://open.spotify.com/show/1Bk6bsMYciOMyJohMVZUgt
+- **Topics/summary:** Weekly co-hosted live web3 show (Zaal, Ohnahji B, EZinCrypto), streamed live on Twitch. Runtime 28:26. Three seasons of this show became Let's Talk About Ethereum.
+- **Clip candidates:**
+
+
+---
+
+### Let's Talk About Web3 - Ep. 9
+
+- **Class:** produced
+- **Date:** 2025-07-05 (archived)
+- **Host/Source:** Zaal, Ohnahji B, EZinCrypto (@zaal) - Let's Talk About Web3
+- **Brands:** Let's Talk About Web3, The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2025-07-05-lets-talk-about-web3-ep9/
+- **URLs:**
+  - Pods.media archive: https://pods.media/lets-talk-about-web3/
+  - Spotify: https://open.spotify.com/show/1Bk6bsMYciOMyJohMVZUgt
+- **Topics/summary:** Weekly co-hosted live web3 show (Zaal, Ohnahji B, EZinCrypto), streamed live on Twitch. Runtime 30:15. Three seasons of this show became Let's Talk About Ethereum.
+- **Clip candidates:**
+
+
+---
+
+### Let's Talk About Web3 - Ep. 8
+
+- **Class:** produced
+- **Date:** 2025-07-02 (archived)
+- **Host/Source:** Zaal, Ohnahji B, EZinCrypto (@zaal) - Let's Talk About Web3
+- **Brands:** Let's Talk About Web3, The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2025-07-02-lets-talk-about-web3-ep8/
+- **URLs:**
+  - Pods.media archive: https://pods.media/lets-talk-about-web3/
+  - Spotify: https://open.spotify.com/show/1Bk6bsMYciOMyJohMVZUgt
+- **Topics/summary:** Weekly co-hosted live web3 show (Zaal, Ohnahji B, EZinCrypto), streamed live on Twitch. Runtime 57:32. Three seasons of this show became Let's Talk About Ethereum.
+- **Clip candidates:**
+
+
+---
+
+### Let's Talk About Web3 - Ep. 7 w/Will T
+
+- **Class:** produced
+- **Date:** 2025-06-25 (archived)
+- **Host/Source:** Let's Talk About Web3 - Zaal with Will T
+- **Brands:** Let's Talk About Web3, The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2025-06-25-lets-talk-about-web3-ep7/
+- **URLs:**
+  - Pods.media archive: https://pods.media/lets-talk-about-web3/
+  - Spotify: https://open.spotify.com/show/1Bk6bsMYciOMyJohMVZUgt
+- **Topics/summary:** Weekly co-hosted live web3 show (Zaal, Ohnahji B, EZinCrypto), streamed live on Twitch - this episode with Will T. Runtime 1:01:55. Three seasons of this show became Let's Talk About Ethereum.
+- **Clip candidates:**
+
+
+---
+
+### Let's Talk About Web3 - Ep. 6
+
+- **Class:** produced
+- **Date:** 2025-06-13 (archived)
+- **Host/Source:** Zaal, Ohnahji B, EZinCrypto (@zaal) - Let's Talk About Web3
+- **Brands:** Let's Talk About Web3, The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2025-06-13-lets-talk-about-web3-ep6/
+- **URLs:**
+  - Pods.media archive: https://pods.media/lets-talk-about-web3/
+  - Spotify: https://open.spotify.com/show/1Bk6bsMYciOMyJohMVZUgt
+- **Topics/summary:** Weekly co-hosted live web3 show (Zaal, Ohnahji B, EZinCrypto), streamed live on Twitch. Runtime 59:44. Three seasons of this show became Let's Talk About Ethereum.
+- **Clip candidates:**
+
+
+---
+
+### Let's Talk About Web3 - Ep. 5
+
+- **Class:** produced
+- **Date:** 2025-06-11 (archived)
+- **Host/Source:** Zaal, Ohnahji B, EZinCrypto (@zaal) - Let's Talk About Web3
+- **Brands:** Let's Talk About Web3, The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2025-06-11-lets-talk-about-web3-ep5/
+- **URLs:**
+  - Pods.media archive: https://pods.media/lets-talk-about-web3/
+  - Spotify: https://open.spotify.com/show/1Bk6bsMYciOMyJohMVZUgt
+- **Topics/summary:** Weekly co-hosted live web3 show (Zaal, Ohnahji B, EZinCrypto), streamed live on Twitch. Runtime 16:05. Three seasons of this show became Let's Talk About Ethereum.
+- **Clip candidates:**
+
+
+---
+
+### Let's Talk About Web3 - Ep. 4
+
+- **Class:** produced
+- **Date:** 2025-05-28 (archived)
+- **Host/Source:** Zaal, Ohnahji B, EZinCrypto (@zaal) - Let's Talk About Web3
+- **Brands:** Let's Talk About Web3, The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2025-05-28-lets-talk-about-web3-ep4/
+- **URLs:**
+  - Pods.media archive: https://pods.media/lets-talk-about-web3/
+  - Spotify: https://open.spotify.com/show/1Bk6bsMYciOMyJohMVZUgt
+- **Topics/summary:** Weekly co-hosted live web3 show (Zaal, Ohnahji B, EZinCrypto), streamed live on Twitch. Runtime 55:04. Three seasons of this show became Let's Talk About Ethereum.
+- **Clip candidates:**
+
+
+---
+
+### Let's Talk About Web3 - Ep. 3
+
+- **Class:** produced
+- **Date:** 2025-05-19 (archived)
+- **Host/Source:** Zaal, Ohnahji B, EZinCrypto (@zaal) - Let's Talk About Web3
+- **Brands:** Let's Talk About Web3, The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2025-05-19-lets-talk-about-web3-ep3/
+- **URLs:**
+  - Pods.media archive: https://pods.media/lets-talk-about-web3/
+  - Spotify: https://open.spotify.com/show/1Bk6bsMYciOMyJohMVZUgt
+- **Topics/summary:** Weekly co-hosted live web3 show (Zaal, Ohnahji B, EZinCrypto), streamed live on Twitch. Runtime 58:01. Three seasons of this show became Let's Talk About Ethereum.
+- **Clip candidates:**
+
+
+---
+
+### Let's Talk About Web3 - Ep. 2
+
+- **Class:** produced
+- **Date:** 2025-04-24 (archived)
+- **Host/Source:** Zaal, Ohnahji B, EZinCrypto (@zaal) - Let's Talk About Web3
+- **Brands:** Let's Talk About Web3, The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2025-04-24-lets-talk-about-web3-ep2/
+- **URLs:**
+  - Pods.media archive: https://pods.media/lets-talk-about-web3/
+  - Spotify: https://open.spotify.com/show/1Bk6bsMYciOMyJohMVZUgt
+- **Topics/summary:** Weekly co-hosted live web3 show (Zaal, Ohnahji B, EZinCrypto), streamed live on Twitch. Runtime 44:38. Three seasons of this show became Let's Talk About Ethereum.
+- **Clip candidates:**
+
+
+---
+
+### Let's Talk About Web3 - Ep. 1
+
+- **Class:** produced
+- **Date:** 2025-04-22 (archived)
+- **Host/Source:** Zaal, Ohnahji B, EZinCrypto (@zaal) - Let's Talk About Web3
+- **Brands:** Let's Talk About Web3, The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2025-04-22-lets-talk-about-web3-ep1/
+- **URLs:**
+  - Pods.media archive: https://pods.media/lets-talk-about-web3/
+  - Spotify: https://open.spotify.com/show/1Bk6bsMYciOMyJohMVZUgt
+- **Topics/summary:** Weekly co-hosted live web3 show (Zaal, Ohnahji B, EZinCrypto), streamed live on Twitch. Runtime 56:38. Three seasons of this show became Let's Talk About Ethereum.
+- **Clip candidates:**
+
+
+---
+
+### Let's Talk About Web3 - Ep. 0
+
+- **Class:** produced
+- **Date:** 2025-04-14 (archived)
+- **Host/Source:** Zaal, Ohnahji B, EZinCrypto (@zaal) - Let's Talk About Web3
+- **Brands:** Let's Talk About Web3, The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2025-04-14-lets-talk-about-web3-ep0/
+- **URLs:**
+  - Pods.media archive: https://pods.media/lets-talk-about-web3/
+  - Spotify: https://open.spotify.com/show/1Bk6bsMYciOMyJohMVZUgt
+- **Topics/summary:** Weekly co-hosted live web3 show (Zaal, Ohnahji B, EZinCrypto), streamed live on Twitch. Runtime 27:37. Three seasons of this show became Let's Talk About Ethereum.
+- **Clip candidates:**
+
+
+---
+
 ### 2026-06-08-sopha-chris-building-curation-workshop
 
 - **Class:** produced
@@ -767,6 +1097,7 @@
 - **Brands:** ZABAL Games, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-08-sopha-chris-building-curation-workshop/
 - **URLs:**
+  - YouTube: https://youtu.be/Z9yAFxUVW-g
   - ZABAL Games: https://zabalgamez.com
 - **Topics/summary:** A ZABAL Gamez workshop. Timestamped transcript (filler lightly trimmed; brand names
 - **Clip candidates:**
@@ -782,6 +1113,7 @@
 - **Brands:** ZABAL Games, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-01-zao-fractal-zaal-workshop/
 - **URLs:**
+  - YouTube: https://youtu.be/N6tgsuBOXBU
   - ZABAL Games: https://zabalgamez.com
 - **Topics/summary:** A ZABAL Gamez workshop. Zaal's weekly introduction to the ZAO Fractal, given before the
 - **Clip candidates:**
