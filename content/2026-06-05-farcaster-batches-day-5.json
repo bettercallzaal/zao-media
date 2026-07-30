@@ -24,5 +24,10 @@
   "brands": [
     "The ZAO"
   ],
-  "summary": "Farcaster Batches Day 5 - builder showcase, hosted by GM Farcaster - ZAO ecosystem builders featured: Node (DEKEY), Max baseddesigner.eth (POWER), Toady Hawk (betrmint), Darko (Runner). Transcript captured for the ZABAL data streams."
+  "summary": "Farcaster Batches Day 5 - builder showcase, hosted by GM Farcaster - ZAO ecosystem builders featured: Node (DEKEY), Max baseddesigner.eth (POWER), Toady Hawk (betrmint), Darko (Runner). Transcript captured for the ZABAL data streams.",
+  "dist": {
+    "socials": false,
+    "clips": false,
+    "notes": ""
+  }
 }

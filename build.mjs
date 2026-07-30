@@ -119,7 +119,7 @@ function hubPage(items) {
   <p class="kicker">ZM - ZAO Media - ZAO Morning</p>
   <h1>The media home for The ZAO.</h1>
   <p class="lead">Everything the ZAO produces or appears in - podcasts, shows, Spaces, streams, and earned-media appearances. One place, logged once, shared everywhere. Every morning is a ZAO Media moment.</p>
-  <p class="lead" style="margin-top:10px"><a href="https://github.com/bettercallzaal/zao-media/issues/new?template=add-media.yml">+ Add media to ZM</a> - anyone can submit an appearance, stream, or show.</p>
+  <p class="lead" style="margin-top:10px"><a href="https://github.com/bettercallzaal/zao-media/issues/new?template=add-media.yml">+ Add media to ZM</a> - anyone can submit an appearance, stream, or show. <a href="./tracker.html">Tracker</a> - the distribution CRM.</p>
 </header>
 <main>
   <input id="q" type="search" placeholder="Search ${items.length} media items - title, guest, show, topic..." aria-label="Search media"
@@ -178,6 +178,84 @@ ${chapters}
 ${entries}`;
 }
 
+// --- CRM: distribution tracker (tracker.html + media-crm.csv) ---
+// Per item: auto-derived (video live, audio live, transcript, needs publish)
+// + manual flags from content JSON "dist": { socials, clips, notes }.
+function crmRows(items) {
+  return items.map((m) => {
+    const audio = (m.links || []).some((l) => /spotify|pods\.media|listen|transistor/i.test(l.label + l.url));
+    const video = !!m.youtubeId;
+    const d = m.dist || {};
+    return {
+      slug: m.slug, title: m.title, class: m.class, show: m.show || '', date: m.date,
+      video, audio, transcript: !!m.hasTranscript,
+      socials: !!d.socials, clips: !!d.clips,
+      needsPublish: !video && !audio,
+      lives: [video ? 'YouTube' : '', audio ? 'Audio' : '', 'ZM'].filter(Boolean).join(' + '),
+      notes: d.notes || '',
+      zm: `https://bettercallzaal.github.io/zao-media/appearances/${m.slug}/`,
+    };
+  });
+}
+
+function trackerPage(items) {
+  const rows = crmRows(items);
+  const yn = (b) => `<td class="${b ? 'y' : 'n'}">${b ? 'YES' : 'NO'}</td>`;
+  const tr = rows
+    .map(
+      (r) => `<tr>
+  <td><a href="./appearances/${r.slug}/">${esc(r.title).slice(0, 60)}</a></td>
+  <td>${esc(r.class)}</td><td>${esc(r.show)}</td><td>${esc(r.date)}</td><td>${esc(r.lives)}</td>
+  ${yn(r.video)}${yn(r.transcript)}${yn(r.socials)}${yn(r.clips)}
+  <td class="${r.needsPublish ? 'n' : 'y'}">${r.needsPublish ? 'PUBLISH' : 'live'}</td>
+  <td>${esc(r.notes)}</td>
+</tr>`,
+    )
+    .join('\n');
+  const stats = {
+    total: rows.length,
+    noVideo: rows.filter((r) => r.needsPublish).length,
+    noSocials: rows.filter((r) => !r.socials).length,
+    noClips: rows.filter((r) => !r.clips).length,
+  };
+  return `${HEAD('ZM Tracker - media CRM', 'Distribution tracker for every ZM media item - what is live, what still needs publishing, socials, clips.', '')}
+<header>
+  <a class="kicker" href="./">ZM - ZAO Media</a>
+  <h1>Media tracker.</h1>
+  <p class="lead">${stats.total} items. ${stats.noVideo} still need publishing. ${stats.noSocials} without socials. ${stats.noClips} without clips.
+  Flip a flag by editing the item's <code>content/*.json</code> "dist" block (socials / clips / notes), or download <a href="./media-crm.csv">media-crm.csv</a> for Google Sheets.</p>
+  <input id="q" type="search" placeholder="Filter..." aria-label="Filter tracker"
+    style="width:100%;padding:10px 14px;border-radius:10px;border:1px solid rgba(224,221,170,.25);background:var(--navy2);color:var(--ink);font-size:1rem;margin:6px 0 4px">
+</header>
+<main style="max-width:1160px">
+<div style="overflow-x:auto">
+<table id="crm" style="font-size:.85rem">
+<tr><th>Title</th><th>Class</th><th>Show</th><th>Date</th><th>Lives at</th><th>Video</th><th>Transcript</th><th>Socials</th><th>Clips</th><th>Status</th><th>Notes</th></tr>
+${tr}
+</table>
+</div>
+</main>
+<footer>ZM tracker - generated from content/*.json. Edit the JSON, never this page.</footer>
+<style>.y{color:#7fc98a}.n{color:#e0a3a3}td,th{white-space:nowrap}td:first-child{white-space:normal;min-width:220px}</style>
+<script>
+  const q = document.getElementById('q');
+  q.addEventListener('input', () => {
+    const t = q.value.toLowerCase();
+    document.querySelectorAll('#crm tr').forEach((r, i) => { if (i) r.style.display = r.textContent.toLowerCase().includes(t) ? '' : 'none'; });
+  });
+</script>
+</body></html>`;
+}
+
+function crmCsv(items) {
+  const esc2 = (s) => `"${String(s).replace(/"/g, '""')}"`;
+  const head = ['Title', 'Class', 'Show', 'Date', 'Lives at', 'ZM page', 'Video live', 'Transcript', 'Socials posted', 'Clips made', 'Needs publish', 'Notes'];
+  const rows = crmRows(items).map((r) =>
+    [r.title, r.class, r.show, r.date, r.lives, r.zm, r.video ? 'YES' : 'NO', r.transcript ? 'YES' : 'NO', r.socials ? 'YES' : 'NO', r.clips ? 'YES' : 'NO', r.needsPublish ? 'YES' : 'NO', r.notes].map(esc2).join(','),
+  );
+  return [head.map(esc2).join(','), ...rows].join('\n') + '\n';
+}
+
 // --- run ---
 const files = readdirSync(CONTENT).filter((f) => f.endsWith('.json'));
 const items = files
@@ -191,5 +269,7 @@ for (const m of items) {
 }
 writeFileSync(join(ROOT, 'index.html'), hubPage(items));
 writeFileSync(join(ROOT, 'media-log.md'), mediaLog(items));
+writeFileSync(join(ROOT, 'tracker.html'), trackerPage(items));
+writeFileSync(join(ROOT, 'media-crm.csv'), crmCsv(items));
 
-console.log(`ZM build: ${items.length} item(s) -> hub + ${items.length} page(s) + media-log.md`);
+console.log(`ZM build: ${items.length} item(s) -> hub + ${items.length} page(s) + media-log.md + tracker.html + media-crm.csv`);

@@ -28,5 +28,10 @@
       "label": "WaveWarZ",
       "url": "https://wavewarz.com"
     }
-  ]
+  ],
+  "dist": {
+    "socials": false,
+    "clips": false,
+    "notes": ""
+  }
 }

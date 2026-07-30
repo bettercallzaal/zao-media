@@ -25,5 +25,10 @@
       "label": "YouTube",
       "url": "https://youtu.be/dGXR-if9wMA"
     }
-  ]
+  ],
+  "dist": {
+    "socials": false,
+    "clips": false,
+    "notes": ""
+  }
 }

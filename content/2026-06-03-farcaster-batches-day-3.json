@@ -25,5 +25,10 @@
     "The ZAO",
     "ZABAL Games"
   ],
-  "summary": "Zaal presented The ZAO and ZABAL Gamez on the Farcaster Batches builder showcase, hosted by Adrienne and Nounish Prof of GM Farcaster (organized by JubJub). Alongside yerbearserker (Empire Builder), AZ Flynn, Cashless Man, and Duckfax."
+  "summary": "Zaal presented The ZAO and ZABAL Gamez on the Farcaster Batches builder showcase, hosted by Adrienne and Nounish Prof of GM Farcaster (organized by JubJub). Alongside yerbearserker (Empire Builder), AZ Flynn, Cashless Man, and Duckfax.",
+  "dist": {
+    "socials": false,
+    "clips": false,
+    "notes": ""
+  }
 }

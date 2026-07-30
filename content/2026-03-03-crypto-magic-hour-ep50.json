@@ -28,5 +28,10 @@
       "url": "https://wavewarz.com"
     }
   ],
-  "hasTranscript": false
+  "hasTranscript": false,
+  "dist": {
+    "socials": false,
+    "clips": false,
+    "notes": ""
+  }
 }

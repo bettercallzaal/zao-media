@@ -21,9 +21,14 @@
       "url": "https://youtu.be/43GPWLE6W5Q"
     }
   ],
-  "summary": "BetterCallZaal sits down with Rock Opera, an engineer, pianist, and on-chain artist from Boston, to explore the intersection of art, code, and identity. Rock shares how a fascination with color naming became a blockchain project for tokenized color, what “natively on-chain” really means, and how composability is shaping the next wave of digital art. The conversation moves from the philosophy of ownership to practical coding, AI as a creative assistant, and the future of artist provenance.",
+  "summary": "BetterCallZaal sits down with Rock Opera, an engineer, pianist, and on-chain artist from Boston, to explore the intersection of art, code, and identity. Rock shares how a fascination with color naming became a blockchain project for tokenized color, what \u201cnatively on-chain\u201d really means, and how composability is shaping the next wave of digital art. The conversation moves from the philosophy of ownership to practical coding, AI as a creative assistant, and the future of artist provenance.",
   "points": [],
   "chapters": [],
   "related": [],
-  "hasTranscript": true
+  "hasTranscript": true,
+  "dist": {
+    "socials": false,
+    "clips": false,
+    "notes": ""
+  }
 }

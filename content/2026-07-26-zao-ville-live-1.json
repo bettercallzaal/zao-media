@@ -24,5 +24,10 @@
       "label": "YouTube",
       "url": "https://youtu.be/VazokBw_4Fo"
     }
-  ]
+  ],
+  "dist": {
+    "socials": false,
+    "clips": false,
+    "notes": ""
+  }
 }

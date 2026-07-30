@@ -29,5 +29,10 @@
       "label": "ZABAL Games",
       "url": "https://zabalgamez.com"
     }
-  ]
+  ],
+  "dist": {
+    "socials": false,
+    "clips": false,
+    "notes": ""
+  }
 }

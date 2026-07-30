@@ -24,5 +24,10 @@
   "brands": [
     "The ZAO"
   ],
-  "summary": "Farcaster Batches Day 1 - builder showcase, hosted by GM Farcaster - ZAO ecosystem builders featured: Chris Dolinsky (Vini App), Kenny (POIDH), Nikki Sapp (Juke), Jonathan Colton (Fotocaster), Dr. Deeks. Transcript captured for the ZABAL data streams."
+  "summary": "Farcaster Batches Day 1 - builder showcase, hosted by GM Farcaster - ZAO ecosystem builders featured: Chris Dolinsky (Vini App), Kenny (POIDH), Nikki Sapp (Juke), Jonathan Colton (Fotocaster), Dr. Deeks. Transcript captured for the ZABAL data streams.",
+  "dist": {
+    "socials": false,
+    "clips": false,
+    "notes": ""
+  }
 }

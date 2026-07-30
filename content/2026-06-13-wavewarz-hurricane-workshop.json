@@ -29,5 +29,10 @@
   "points": [],
   "chapters": [],
   "related": [],
-  "hasTranscript": true
+  "hasTranscript": true,
+  "dist": {
+    "socials": false,
+    "clips": false,
+    "notes": ""
+  }
 }

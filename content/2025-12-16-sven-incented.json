@@ -21,9 +21,14 @@
       "url": "https://youtu.be/O7-1weR0Qog"
     }
   ],
-  "summary": "ZM we’re yapping with Sven, founder of Incented - the on-chain protocol redefining how communities coordinate, reward, and create together. From his early experiments in DAOs to engineering a system for equitable contribution, Sven’s approach to decentralized collaboration blends real-world management principles with Web3’s open ethos.",
+  "summary": "ZM we\u2019re yapping with Sven, founder of Incented - the on-chain protocol redefining how communities coordinate, reward, and create together. From his early experiments in DAOs to engineering a system for equitable contribution, Sven\u2019s approach to decentralized collaboration blends real-world management principles with Web3\u2019s open ethos.",
   "points": [],
   "chapters": [],
   "related": [],
-  "hasTranscript": true
+  "hasTranscript": true,
+  "dist": {
+    "socials": false,
+    "clips": false,
+    "notes": ""
+  }
 }
