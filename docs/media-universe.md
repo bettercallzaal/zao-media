@@ -26,6 +26,11 @@ Research snapshot 2026-07-30, compiled from ZAOOS docs 2135 (channel inventory),
 
 Total: 124 items across 15 shows. Earned section: 3 (Just DAO It, Crypto Magic Hour Ep. 50, Farcaster Batches Day 3).
 
+## Corrections to older docs
+
+- Doc 2136 lists "ZAO Live Podcast (@Zao.livepodcast)" as a Zaal channel - WRONG. That channel is "zao.live", an unrelated AI news-podcast app. Name collision; not ZAO media.
+- Twitch VOD IDs now captured in docs/youtube-catalog.md (60 VODs) - download-ready for the backup run.
+
 ## What remains (blocked on Zaal or intentionally skipped)
 
 - Twitch: 62 VODs expiring ~14 days - BACKUP FIRST (doc 1560), then log. Blocked on backup decision.
@@ -64,6 +69,7 @@ Tracker page: https://bettercallzaal.github.io/zao-media/tracker.html (yes/no pe
 | Farcaster | @zaal (FID 19640), /zao, @thezao | PRIMARY home |
 | X | @bettercallzaal (4,990 followers), @zaal | active, biggest reach |
 | YouTube | @bettercallzaal (57 subs / 193 videos) | active, underleveraged - biggest repurpose target |
+| YouTube | @wavewarz + CandyToyBox (Candy's channel, hosts some WaveWarZ interviews) | active |
 | Twitch | @bettercallzaal | active, VODs at-risk |
 | Paragraph | @zaoonparagraph | newsletter |
 | Juke | ZAO spaces | Farcaster-native live audio (docs 695/710/712) |

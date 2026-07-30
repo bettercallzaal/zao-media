@@ -650,3 +650,70 @@ Research data for the ZM import backlog. Hand-written artifact, safe to edit. It
 | f5LivGt4u94 | Music x Trading = Gains FAST #CryptoTrading#WaveWarZ#NewMeta #musicbattle #trading |
 | 58QB6Wa3yt8 | How To Trade Music on WaveWarz - Timed Music Battles - SOL on The Line #solana #trader #musicbattle |
 | WAfqvYR43js | CRAZY Crypto x Music Comeback #CrazyComeback #WaveWarZ #MusicBattle #solana |
+
+## Twitch VODs - twitch.tv/bettercallzaal (fetched 2026-07-30, EXPIRING ~14 days)
+
+Backup priority per doc 1560. Download: yt-dlp https://www.twitch.tv/videos/<id-without-v>
+
+| VOD ID | Title |
+|--------|-------|
+| v2829121257 | ZAO-VILLE LIVE |
+| v2829040159 | ZAO-VILLE LIVE |
+| v2827423854 | Testing in flight |
+| v2826447905 | ZABAL GAMEZ Brainstorm w/Nounish Prof |
+| v2825855680 | Solana TrencheZ - Song BattleZ, TraderZ & DegenZ |
+| v2825737966 | Streaming with Freeze |
+| v2824202635 | AI Music Tourney Semi-FinalZ: LUI vs. Geek Myth |
+| v2822613382 | Just chatting |
+| v2822609400 | Just chatting |
+| v2814676838 | ZABAL GAMEZ Coding w/Diviflyy |
+| v2813744378 | Prepping for ZAO Fractal |
+| v2812863232 | Vibing and testing overlays |
+| v2811456717 | COC space chatting |
+| v2810334577 | testing morning stream things |
+| v2809939394 | ZABAL GAMEZ Building with InitiumBuilders |
+| v2809249657 | ZABAL WORKSHOP w/Dúo Dø |
+| v2809149434 | ZABAL WORKSHOP w/Ceci from Unlock Protocol |
+| v2808942078 | ZABAL WORKSHOP w/ Adrienne from GM Farcaster |
+| v2808045867 | ZABAL GAMEZ WORKSHOP with Los Fomos |
+| v2807466043 | free talk sunday: discussing art, curation, and whatever comes up on f |
+| v2807425353 | ZABAL GAMEZ Workshop w/Matt Lee from Tortoise |
+| v2807394589 | ZABAL Gamez Workshop: Building FlowStage - with AZKAL |
+| v2806908784 | fort with friends |
+| v2806824843 | ZABAL GAMEZ Fireside Talking Vendyz with hammallama |
+| v2806783177 | ZABAL GAMEZ Workshop w/James from Mental Wealth Academy |
+| v2806170685 | ZABAL GAMEZ Fireside w/Luciano and fam |
+| v2805341579 | ZABAL GAMEZ Workshop - Making Music with Generative AI in Ableton - w/ |
+| v2803889735 | ZABAL GAMEZ Workshop w/Saltorius.eth about Harness and Bankr |
+| v2803753620 | ZABAL GAMEZ Workshop: Snapchain Under the Hood,  w/Topocount from Neyn |
+| v2803533409 | ZABAL GAMEZ Workshop: Building Bizarre Pixel Studio with Dylan Yarter |
+| v2802333756 | ZABAL GAMEZ Fireside w/svvvg3.eth and katkartel.eth from Minted Merch |
+| v2802183948 | ZABAL GAMEZ Workshop w/Meta Mu adding value as a Community Member |
+| v2801296506 | ZABAL GAMEZ Workshop w/Dan Singjoy : Fractals and more |
+| v2801250766 | ZABAL GAMEZ Workshop w/Ali : Pre-Vibecoding |
+| v2800444970 | ZABAL GAMEZ: Listening to Zaal's Music NFTs |
+| v2798144026 | Yapping With B |
+| v2798094251 | ZABAL GAMEZ Workshop w/diviflyy from Empire Builder |
+| v2797516063 | ZABAL GAMEZ Workshop w/1dolinski from Viniapp |
+| v2797486653 | ZABAL GAMEZ Workshop w/Kenny from Poidh |
+| v2796594620 | ZABAL GAMEZ Workshop w/Aziz from Baraza Protocol |
+| v2795944222 | COC Concertz #6 |
+| v2795731227 | Listnening to my music nfts |
+| v2795261369 | ZABAL Gamez Workshop w/Cassie about Farcaster |
+| v2795183513 | ZABAL Gamez Workshop w/Adam from MiDAO and Beta Briefing |
+| v2794280288 | ZABAL Gamez Fireside w/Rizzle from WIP |
+| v2793683389 | ZABAL Gamez Workshop w/Will T of web 3 |
+| v2793581698 | ZABAL Gamez Fireside w/bribe |
+| v2792773801 | ZABAL Gamez Workshop: Joseph Goats |
+| v2792173349 | ZABAL Week 1 Recap. |
+| v2791964958 | Cobuilding on ZABAL GAMEZ. Come Say hi |
+| v2791789149 | ZABAL GAMEZ Workshop w/Chris from Sopha |
+| v2791350921 | ZABAL GAMEZ Week 1 Recap |
+| v2787885916 | Workshop postponed listening to music nfts |
+| v2787128710 | ZABAL GameZ Workshop w/OhnahjiB (OHNAHJI) |
+| v2786394596 | ZABAL GameZ Workshop w/Zaal (ZAO FRACTAL) |
+| v2786348920 | ZABAL GameZ Workshop w/Josh and Plat0x (Bonfires) |
+| v2785976898 | ZABAL GameZ Workshop w/Yerberserker (Empire Builder) |
+| v2754719990 | Nouns DAO Starting Bid Price Proposal Passes. New nouns auctioned are  |
+| v2754719987 | Kelp DAO Hack and Arbitrum Security Counsel |
+| v2754719985 | Web3 Governance with Zaal |
