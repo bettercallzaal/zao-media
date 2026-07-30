@@ -24,7 +24,7 @@ Research snapshot 2026-07-30, compiled from ZAOOS docs 2135 (channel inventory),
 - First live-class entries: ZAO Fractal #56, B&Z Build, Metafide BTC prediction game
 - Site: hub search, tracker.html CRM, media-crm.csv, feed.xml RSS, add-media issue form, repository_dispatch API (docs/api.md)
 
-Total: 124 items across 15 shows. Earned section: 3 (Just DAO It, Crypto Magic Hour Ep. 50, Farcaster Batches Day 3).
+Total: 125 items across 16 shows. Earned section: 4 (Token for Your Thoughts Apr 2025, Crypto Magic Hour Ep. 50, Farcaster Batches Day 3, Just DAO It). NOTE: Token for Your Thoughts is an independent third-party podcast - together with Crypto Magic Hour this may satisfy the 2-independent-sources bar from press map doc 1340 (Wikipedia eligibility). Worth a check against doc 1330 criteria.
 
 ## Corrections to older docs
 
