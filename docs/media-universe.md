@@ -26,6 +26,12 @@ Research snapshot 2026-07-30, compiled from ZAOOS docs 2135 (channel inventory),
 
 Total: 125 items across 16 shows. Earned section: 4 (Token for Your Thoughts Apr 2025, Crypto Magic Hour Ep. 50, Farcaster Batches Day 3, Just DAO It). NOTE: Token for Your Thoughts is an independent third-party podcast - together with Crypto Magic Hour this may satisfy the 2-independent-sources bar from press map doc 1340 (Wikipedia eligibility). Worth a check against doc 1330 criteria.
 
+## Round 3 research finds (2026-07-30, evening)
+
+- THE ZAO YOUTUBE CHANNEL EXISTS: youtube.com/@thezaodao (93 videos) - in NO prior doc. Holds: LTAW3 eps 0-18 video versions (now attached to ZM entries), LTAW3 SEASON 3 eps 1-9 (now logged: SVVVG3, Maceo, 9Bapa, Mumbo, Reid/Paragraph, Blue2Black, Attabotty+Danici, dabus+1dre, Tyler McNair), edited Let's Talk About ETH eps 1-4 (ZM entries updated; Pablo = Ep 3), COC ConcertZ #2 + #3 + #4 per-performance videos, CLEJAN 13-song set + Attabotty 7-song set from the 2025-03-29 metaverse ConcertZ.
+- X Spaces archive: spacesdashboard.com/u/bettercallzaal - 155 hosted + 118 co-hosted + 1,357 spoken-in spaces. Page 1 captured; full scrape pending (Cloudflare rate-limits, go slow). Notable: ZABAL AMA 2 (Dec 8 2025), ZAO network token space (Apr 4, 52 listeners), ETH Boulder recap (Feb 16), COC ConcertZ #3 space.
+- Paragraph correction: the newsletter is @thezao "Year of the ZAO" DAILY posts (Day 1-329+), not @zaoonparagraph. Mirror.xyz: zero published (matches plan).
+
 ## Corrections to older docs
 
 - Doc 2136 lists "ZAO Live Podcast (@Zao.livepodcast)" as a Zaal channel - WRONG. That channel is "zao.live", an unrelated AI news-podcast app. Name collision; not ZAO media.

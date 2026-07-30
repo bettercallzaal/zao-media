@@ -7,7 +7,32 @@
   "guestOrg": "",
   "points": [],
   "chapters": [],
-  "related": [],
+  "related": [
+    {
+      "label": "Intro",
+      "url": "https://youtu.be/Toa4hnkn54E"
+    },
+    {
+      "label": "Duo Do performance",
+      "url": "https://youtu.be/YGRkJSGrgNg"
+    },
+    {
+      "label": "Joseph Goats performance",
+      "url": "https://youtu.be/XNZC0B-97dU"
+    },
+    {
+      "label": "Stilo vs Stilo - live WaveWarZ battle",
+      "url": "https://youtu.be/WkuDVtZSYaE"
+    },
+    {
+      "label": "Community reflections and closing jam",
+      "url": "https://youtu.be/LF7qcZnF7XY"
+    },
+    {
+      "label": "Outro",
+      "url": "https://youtu.be/lqFhoBl2jHo"
+    }
+  ],
   "hasTranscript": false,
   "class": "community",
   "title": "COC Concertz #3 ft. Duo Do, Joseph Goats, and Dope Stilo",

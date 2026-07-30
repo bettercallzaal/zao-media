@@ -1,0 +1,46 @@
+{
+  "slug": "2026-03-07-coc-concertz-2",
+  "class": "community",
+  "title": "COC ConcertZ #2",
+  "date": "2026-03-07",
+  "status": "archived",
+  "show": "COC Concertz",
+  "host": "Zaal",
+  "hostHandle": "@zaal",
+  "hostUrl": "https://farcaster.xyz/zaal",
+  "guest": "",
+  "guestOrg": "",
+  "brands": [
+    "COC Concertz",
+    "The ZAO"
+  ],
+  "youtubeId": "TTflDDtpXkg",
+  "links": [
+    {
+      "label": "Intro",
+      "url": "https://youtu.be/TTflDDtpXkg"
+    },
+    {
+      "label": "Attabotty performance",
+      "url": "https://youtu.be/YYyBFasvkuM"
+    },
+    {
+      "label": "Dope Stilo WaveWarZ battle",
+      "url": "https://youtu.be/-nx9gZtK8ug"
+    },
+    {
+      "label": "Fellenz performance",
+      "url": "https://youtu.be/zYm3g_YUYjE"
+    }
+  ],
+  "summary": "Community concert #2 - Attabotty and Tom Fellenz performances plus a Dope Stilo WaveWarZ battle. Segment videos on The ZAO channel; date is the YouTube upload date, event date TBC.",
+  "points": [],
+  "chapters": [],
+  "related": [],
+  "hasTranscript": false,
+  "dist": {
+    "socials": false,
+    "clips": false,
+    "notes": "event date TBC"
+  }
+}

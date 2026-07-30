@@ -14,8 +14,12 @@
     "Let's Talk About Web3",
     "The ZAO"
   ],
-  "youtubeId": null,
+  "youtubeId": "8COGReLkIWs",
   "links": [
+    {
+      "label": "YouTube",
+      "url": "https://youtu.be/8COGReLkIWs"
+    },
     {
       "label": "Pods.media archive",
       "url": "https://pods.media/lets-talk-about-web3/"

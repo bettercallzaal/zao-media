@@ -14,7 +14,7 @@
   "date": "2026-03-05",
   "show": "Let's Talk About Ethereum",
   "guest": "Kenny",
-  "youtubeId": "jpKojnyjfeM",
+  "youtubeId": "3hjDxLC7k1o",
   "brands": [
     "Let's Talk About Ethereum",
     "The ZAO"
@@ -22,7 +22,11 @@
   "summary": "Episode 1 of the rebranded show - Kenny (POIDH) on bounties and the Ethereum ecosystem. Weekly co-hosted live show on the Ethereum ecosystem - successor to Let's Talk About Web3.",
   "links": [
     {
-      "label": "YouTube",
+      "label": "YouTube (edited)",
+      "url": "https://youtu.be/3hjDxLC7k1o"
+    },
+    {
+      "label": "Stream VOD",
       "url": "https://youtu.be/jpKojnyjfeM"
     }
   ],

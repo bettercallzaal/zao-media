@@ -7,7 +7,24 @@
   "guestOrg": "",
   "points": [],
   "chapters": [],
-  "related": [],
+  "related": [
+    {
+      "label": "Intro",
+      "url": "https://youtu.be/-SOwQ5xR714"
+    },
+    {
+      "label": "Joseph Goats performance",
+      "url": "https://youtu.be/uvURHoFXoVs"
+    },
+    {
+      "label": "Tom Fellenz performance",
+      "url": "https://youtu.be/iwkDtZHuQPE"
+    },
+    {
+      "label": "Stilo World performance",
+      "url": "https://youtu.be/gGAQ_tkBMpQ"
+    }
+  ],
   "hasTranscript": true,
   "class": "community",
   "title": "COC Concertz #4",

@@ -987,7 +987,8 @@
 - **Brands:** Let's Talk About Ethereum, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-04-09-lets-talk-about-ethereum-ep4-fidesio/
 - **URLs:**
-  - YouTube: https://youtu.be/zJGwH-upy5A
+  - YouTube (edited): https://youtu.be/agtNstnokG8
+  - Stream VOD: https://youtu.be/zJGwH-upy5A
 - **Topics/summary:** Episode 4 with Fidesio. Weekly co-hosted live show on the Ethereum ecosystem - successor to Let's Talk About Web3.
 - **Clip candidates:**
 
@@ -1024,7 +1025,7 @@
 
 ---
 
-### Let's Talk About Ethereum w/Pablo
+### Let's Talk About Ethereum Ep. 3 w/Pablo
 
 - **Class:** produced
 - **Date:** 2026-03-29 (archived)
@@ -1032,7 +1033,8 @@
 - **Brands:** Let's Talk About Ethereum, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-03-29-lets-talk-about-ethereum-pablo/
 - **URLs:**
-  - YouTube: https://youtu.be/dGXR-if9wMA
+  - YouTube (edited): https://youtu.be/Ua86acr_f8k
+  - Stream VOD: https://youtu.be/dGXR-if9wMA
 - **Topics/summary:** LTAE session with Pablo (Day 8 of the 100-day streaming run). Weekly co-hosted live show on the Ethereum ecosystem - successor to Let's Talk About Web3.
 - **Clip candidates:**
 
@@ -1094,7 +1096,8 @@
 - **Brands:** Let's Talk About Ethereum, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-03-19-lets-talk-about-ethereum-ep2-swarthy-hatter/
 - **URLs:**
-  - YouTube: https://youtu.be/lIJ0MacsA2w
+  - YouTube (edited): https://youtu.be/K79nO_nHL8U
+  - Stream VOD: https://youtu.be/lIJ0MacsA2w
 - **Topics/summary:** Episode 2 with Swarthy Hatter. Weekly co-hosted live show on the Ethereum ecosystem - successor to Let's Talk About Web3.
 - **Clip candidates:**
 
@@ -1162,6 +1165,24 @@
 
 ---
 
+### COC ConcertZ #2
+
+- **Class:** community
+- **Date:** 2026-03-07 (archived)
+- **Host/Source:** Zaal (@zaal) - COC Concertz
+- **Brands:** COC Concertz, The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-03-07-coc-concertz-2/
+- **URLs:**
+  - Intro: https://youtu.be/TTflDDtpXkg
+  - Attabotty performance: https://youtu.be/YYyBFasvkuM
+  - Dope Stilo WaveWarZ battle: https://youtu.be/-nx9gZtK8ug
+  - Fellenz performance: https://youtu.be/zYm3g_YUYjE
+- **Topics/summary:** Community concert #2 - Attabotty and Tom Fellenz performances plus a Dope Stilo WaveWarZ battle. Segment videos on The ZAO channel; date is the YouTube upload date, event date TBC.
+- **Clip candidates:**
+
+
+---
+
 ### Let's Talk About Ethereum Ep. 1 w/Kenny
 
 - **Class:** produced
@@ -1170,7 +1191,8 @@
 - **Brands:** Let's Talk About Ethereum, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-03-05-lets-talk-about-ethereum-ep1-kenny/
 - **URLs:**
-  - YouTube: https://youtu.be/jpKojnyjfeM
+  - YouTube (edited): https://youtu.be/3hjDxLC7k1o
+  - Stream VOD: https://youtu.be/jpKojnyjfeM
 - **Topics/summary:** Episode 1 of the rebranded show - Kenny (POIDH) on bounties and the Ethereum ecosystem. Weekly co-hosted live show on the Ethereum ecosystem - successor to Let's Talk About Web3.
 - **Clip candidates:**
 
@@ -1329,6 +1351,54 @@
 
 ---
 
+### Let's Talk About Web3 - Season 3, Ep. 9 w/Tyler McNair
+
+- **Class:** produced
+- **Date:** 2026-01-04 (archived)
+- **Host/Source:** Let's Talk About Web3 - Zaal with Tyler McNair
+- **Brands:** Let's Talk About Web3, The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-01-04-lets-talk-about-web3-s3e9/
+- **URLs:**
+  - YouTube: https://youtu.be/b5sXxD8ipQw
+  - Pods.media archive: https://pods.media/lets-talk-about-web3/
+- **Topics/summary:** Season 3 of the weekly co-hosted web3 show - with Tyler McNair. Date is the YouTube upload date on The ZAO channel.
+- **Clip candidates:**
+
+
+---
+
+### Let's Talk About Web3 - Season 3, Ep. 8 w/dabus and 1dre
+
+- **Class:** produced
+- **Date:** 2026-01-04 (archived)
+- **Host/Source:** Let's Talk About Web3 - Zaal with dabus and 1dre
+- **Brands:** Let's Talk About Web3, The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-01-04-lets-talk-about-web3-s3e8/
+- **URLs:**
+  - YouTube: https://youtu.be/TkAJLla3L_A
+  - Pods.media archive: https://pods.media/lets-talk-about-web3/
+- **Topics/summary:** Season 3 of the weekly co-hosted web3 show - with dabus and 1dre. Date is the YouTube upload date on The ZAO channel.
+- **Clip candidates:**
+
+
+---
+
+### Let's Talk About Web3 - Season 3, Ep. 7 w/Attabotty and Danici
+
+- **Class:** produced
+- **Date:** 2026-01-04 (archived)
+- **Host/Source:** Let's Talk About Web3 - Zaal with Attabotty and Danici
+- **Brands:** Let's Talk About Web3, The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-01-04-lets-talk-about-web3-s3e7/
+- **URLs:**
+  - YouTube: https://youtu.be/SX0zSgHegCA
+  - Pods.media archive: https://pods.media/lets-talk-about-web3/
+- **Topics/summary:** Season 3 of the weekly co-hosted web3 show - with Attabotty and Danici. Date is the YouTube upload date on The ZAO channel.
+- **Clip candidates:**
+
+
+---
+
 ### BCZ Yaps w/Sven (Incented)
 
 - **Class:** produced
@@ -1374,6 +1444,54 @@
 
 ---
 
+### Let's Talk About Web3 - Season 3, Ep. 6 w/Blue2Black
+
+- **Class:** produced
+- **Date:** 2025-11-19 (archived)
+- **Host/Source:** Let's Talk About Web3 - Zaal with Blue2Black (Web3 Artists)
+- **Brands:** Let's Talk About Web3, The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2025-11-19-lets-talk-about-web3-s3e6/
+- **URLs:**
+  - YouTube: https://youtu.be/z6PSU4J76rU
+  - Pods.media archive: https://pods.media/lets-talk-about-web3/
+- **Topics/summary:** Season 3 of the weekly co-hosted web3 show - with Blue2Black (Web3 Artists). Date is the YouTube upload date on The ZAO channel.
+- **Clip candidates:**
+
+
+---
+
+### Let's Talk About Web3 - Season 3, Ep. 5 w/Reid
+
+- **Class:** produced
+- **Date:** 2025-11-19 (archived)
+- **Host/Source:** Let's Talk About Web3 - Zaal with Reid (Paragraph)
+- **Brands:** Let's Talk About Web3, The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2025-11-19-lets-talk-about-web3-s3e5/
+- **URLs:**
+  - YouTube: https://youtu.be/pOkfJ4rlo3k
+  - Pods.media archive: https://pods.media/lets-talk-about-web3/
+- **Topics/summary:** Season 3 of the weekly co-hosted web3 show - with Reid (Paragraph). Date is the YouTube upload date on The ZAO channel.
+- **Clip candidates:**
+
+
+---
+
+### Let's Talk About Web3 - Season 3, Ep. 4 w/Mumbo
+
+- **Class:** produced
+- **Date:** 2025-11-19 (archived)
+- **Host/Source:** Let's Talk About Web3 - Zaal with Mumbo
+- **Brands:** Let's Talk About Web3, The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2025-11-19-lets-talk-about-web3-s3e4/
+- **URLs:**
+  - YouTube: https://youtu.be/C0RHhWyELA4
+  - Pods.media archive: https://pods.media/lets-talk-about-web3/
+- **Topics/summary:** Season 3 of the weekly co-hosted web3 show - with Mumbo. Date is the YouTube upload date on The ZAO channel.
+- **Clip candidates:**
+
+
+---
+
 ### WaveWarZ Community Battles
 
 - **Class:** community
@@ -1384,6 +1502,54 @@
 - **URLs:**
   - WaveWarZ: https://wavewarz.com
 - **Topics/summary:** Community battle night on WaveWarZ - live-traded music battles on Solana where the community picks sides and artists earn from every trade.
+- **Clip candidates:**
+
+
+---
+
+### Let's Talk About Web3 - Season 3, Ep. 3 w/9Bapa
+
+- **Class:** produced
+- **Date:** 2025-11-12 (archived)
+- **Host/Source:** Let's Talk About Web3 - Zaal with 9Bapa
+- **Brands:** Let's Talk About Web3, The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2025-11-12-lets-talk-about-web3-s3e3/
+- **URLs:**
+  - YouTube: https://youtu.be/gp9hgOw8cDw
+  - Pods.media archive: https://pods.media/lets-talk-about-web3/
+- **Topics/summary:** Season 3 of the weekly co-hosted web3 show - with 9Bapa. Date is the YouTube upload date on The ZAO channel.
+- **Clip candidates:**
+
+
+---
+
+### Let's Talk About Web3 - Season 3, Ep. 2 w/Maceo
+
+- **Class:** produced
+- **Date:** 2025-11-12 (archived)
+- **Host/Source:** Let's Talk About Web3 - Zaal with Maceo (We Them Media)
+- **Brands:** Let's Talk About Web3, The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2025-11-12-lets-talk-about-web3-s3e2/
+- **URLs:**
+  - YouTube: https://youtu.be/W64m1eEkroU
+  - Pods.media archive: https://pods.media/lets-talk-about-web3/
+- **Topics/summary:** Season 3 of the weekly co-hosted web3 show - with Maceo (We Them Media). Date is the YouTube upload date on The ZAO channel.
+- **Clip candidates:**
+
+
+---
+
+### Let's Talk About Web3 - Season 3, Ep. 1 w/SVVVG3
+
+- **Class:** produced
+- **Date:** 2025-10-22 (archived)
+- **Host/Source:** Let's Talk About Web3 - Zaal with SVVVG3 (Minted Merch)
+- **Brands:** Let's Talk About Web3, The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2025-10-22-lets-talk-about-web3-s3e1/
+- **URLs:**
+  - YouTube: https://youtu.be/7W5LrHPVr-s
+  - Pods.media archive: https://pods.media/lets-talk-about-web3/
+- **Topics/summary:** Season 3 of the weekly co-hosted web3 show - with SVVVG3 (Minted Merch). Date is the YouTube upload date on The ZAO channel.
 - **Clip candidates:**
 
 
@@ -1523,6 +1689,7 @@
 - **Brands:** Let's Talk About Web3, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2025-09-26-lets-talk-about-web3-ep18/
 - **URLs:**
+  - YouTube: https://youtu.be/HuTZRREkMJs
   - Pods.media archive: https://pods.media/lets-talk-about-web3/
   - Spotify: https://open.spotify.com/show/1Bk6bsMYciOMyJohMVZUgt
 - **Topics/summary:** Weekly co-hosted live web3 show (Zaal, Ohnahji B, EZinCrypto), streamed live on Twitch. Runtime 55:13. Three seasons of this show became Let's Talk About Ethereum.
@@ -1539,6 +1706,7 @@
 - **Brands:** Let's Talk About Web3, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2025-09-23-lets-talk-about-web3-ep17/
 - **URLs:**
+  - YouTube: https://youtu.be/CwbhO-GS-8g
   - Pods.media archive: https://pods.media/lets-talk-about-web3/
   - Spotify: https://open.spotify.com/show/1Bk6bsMYciOMyJohMVZUgt
 - **Topics/summary:** Weekly co-hosted live web3 show (Zaal, Ohnahji B, EZinCrypto), streamed live on Twitch - this episode with GESD1. Runtime 51:10. Three seasons of this show became Let's Talk About Ethereum.
@@ -1555,6 +1723,7 @@
 - **Brands:** Let's Talk About Web3, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2025-09-17-lets-talk-about-web3-ep16/
 - **URLs:**
+  - YouTube: https://youtu.be/8COGReLkIWs
   - Pods.media archive: https://pods.media/lets-talk-about-web3/
   - Spotify: https://open.spotify.com/show/1Bk6bsMYciOMyJohMVZUgt
 - **Topics/summary:** Weekly co-hosted live web3 show (Zaal, Ohnahji B, EZinCrypto), streamed live on Twitch - this episode with HURRIC4N3IKE. Runtime 53:21. Three seasons of this show became Let's Talk About Ethereum.
@@ -1603,6 +1772,7 @@
 - **Brands:** Let's Talk About Web3, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2025-09-05-lets-talk-about-web3-ep15/
 - **URLs:**
+  - YouTube: https://youtu.be/jjyyaoXHCf8
   - Pods.media archive: https://pods.media/lets-talk-about-web3/
   - Spotify: https://open.spotify.com/show/1Bk6bsMYciOMyJohMVZUgt
 - **Topics/summary:** Weekly co-hosted live web3 show (Zaal, Ohnahji B, EZinCrypto), streamed live on Twitch. Runtime 53:21. Three seasons of this show became Let's Talk About Ethereum.
@@ -1635,6 +1805,7 @@
 - **Brands:** Let's Talk About Web3, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2025-09-04-lets-talk-about-web3-ep14/
 - **URLs:**
+  - YouTube: https://youtu.be/mWveJRuj5ZM
   - Pods.media archive: https://pods.media/lets-talk-about-web3/
   - Spotify: https://open.spotify.com/show/1Bk6bsMYciOMyJohMVZUgt
 - **Topics/summary:** Weekly co-hosted live web3 show (Zaal, Ohnahji B, EZinCrypto), streamed live on Twitch - this episode with Pichi. Runtime 1:09:13. Three seasons of this show became Let's Talk About Ethereum.
@@ -1651,6 +1822,7 @@
 - **Brands:** Let's Talk About Web3, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2025-09-03-lets-talk-about-web3-ep13/
 - **URLs:**
+  - YouTube: https://youtu.be/CbLKmhiS2hI
   - Pods.media archive: https://pods.media/lets-talk-about-web3/
   - Spotify: https://open.spotify.com/show/1Bk6bsMYciOMyJohMVZUgt
 - **Topics/summary:** Weekly co-hosted live web3 show (Zaal, Ohnahji B, EZinCrypto), streamed live on Twitch. Runtime 54:20. Three seasons of this show became Let's Talk About Ethereum.
@@ -1683,6 +1855,7 @@
 - **Brands:** Let's Talk About Web3, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2025-08-27-lets-talk-about-web3-ep12/
 - **URLs:**
+  - YouTube: https://youtu.be/mTXlYdmdz0I
   - Pods.media archive: https://pods.media/lets-talk-about-web3/
   - Spotify: https://open.spotify.com/show/1Bk6bsMYciOMyJohMVZUgt
 - **Topics/summary:** Weekly co-hosted live web3 show (Zaal, Ohnahji B, EZinCrypto), streamed live on Twitch. Runtime 40:29. Three seasons of this show became Let's Talk About Ethereum.
@@ -1714,6 +1887,7 @@
 - **Brands:** Let's Talk About Web3, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2025-07-30-lets-talk-about-web3-ep11/
 - **URLs:**
+  - YouTube: https://youtu.be/M-K4h3EXHWk
   - Pods.media archive: https://pods.media/lets-talk-about-web3/
   - Spotify: https://open.spotify.com/show/1Bk6bsMYciOMyJohMVZUgt
 - **Topics/summary:** Weekly co-hosted live web3 show (Zaal, Ohnahji B, EZinCrypto), streamed live on Twitch - this episode with DuoDoMusica. Runtime 1:04:57. Three seasons of this show became Let's Talk About Ethereum.
@@ -1730,6 +1904,7 @@
 - **Brands:** Let's Talk About Web3, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2025-07-12-lets-talk-about-web3-ep10/
 - **URLs:**
+  - YouTube: https://youtu.be/JLU5rxriGks
   - Pods.media archive: https://pods.media/lets-talk-about-web3/
   - Spotify: https://open.spotify.com/show/1Bk6bsMYciOMyJohMVZUgt
 - **Topics/summary:** Weekly co-hosted live web3 show (Zaal, Ohnahji B, EZinCrypto), streamed live on Twitch. Runtime 28:26. Three seasons of this show became Let's Talk About Ethereum.
@@ -1746,6 +1921,7 @@
 - **Brands:** Let's Talk About Web3, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2025-07-05-lets-talk-about-web3-ep9/
 - **URLs:**
+  - YouTube: https://youtu.be/PpTagFsCICQ
   - Pods.media archive: https://pods.media/lets-talk-about-web3/
   - Spotify: https://open.spotify.com/show/1Bk6bsMYciOMyJohMVZUgt
 - **Topics/summary:** Weekly co-hosted live web3 show (Zaal, Ohnahji B, EZinCrypto), streamed live on Twitch. Runtime 30:15. Three seasons of this show became Let's Talk About Ethereum.
@@ -1778,6 +1954,7 @@
 - **Brands:** Let's Talk About Web3, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2025-07-02-lets-talk-about-web3-ep8/
 - **URLs:**
+  - YouTube: https://youtu.be/PqaDxmTDFG0
   - Pods.media archive: https://pods.media/lets-talk-about-web3/
   - Spotify: https://open.spotify.com/show/1Bk6bsMYciOMyJohMVZUgt
 - **Topics/summary:** Weekly co-hosted live web3 show (Zaal, Ohnahji B, EZinCrypto), streamed live on Twitch. Runtime 57:32. Three seasons of this show became Let's Talk About Ethereum.
@@ -1794,6 +1971,7 @@
 - **Brands:** Let's Talk About Web3, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2025-06-25-lets-talk-about-web3-ep7/
 - **URLs:**
+  - YouTube: https://youtu.be/CastF9aHWzo
   - Pods.media archive: https://pods.media/lets-talk-about-web3/
   - Spotify: https://open.spotify.com/show/1Bk6bsMYciOMyJohMVZUgt
 - **Topics/summary:** Weekly co-hosted live web3 show (Zaal, Ohnahji B, EZinCrypto), streamed live on Twitch - this episode with Will T. Runtime 1:01:55. Three seasons of this show became Let's Talk About Ethereum.
@@ -1825,8 +2003,10 @@
 - **Brands:** Let's Talk About Web3, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2025-06-13-lets-talk-about-web3-ep6/
 - **URLs:**
+  - YouTube: https://youtu.be/USg92D16Gd8
   - Pods.media archive: https://pods.media/lets-talk-about-web3/
   - Spotify: https://open.spotify.com/show/1Bk6bsMYciOMyJohMVZUgt
+  - Pods.media episode: https://pods.media/lets-talk-about-web3/the-zao-presents-lets-talk-about-web-3-ep-6-wohnahji-ezincrypto-bettercallzaal
 - **Topics/summary:** Weekly co-hosted live web3 show (Zaal, Ohnahji B, EZinCrypto), streamed live on Twitch. Runtime 59:44. Three seasons of this show became Let's Talk About Ethereum.
 - **Clip candidates:**
 
@@ -1841,6 +2021,7 @@
 - **Brands:** Let's Talk About Web3, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2025-06-11-lets-talk-about-web3-ep5/
 - **URLs:**
+  - YouTube: https://youtu.be/K3L0IiAU7TE
   - Pods.media archive: https://pods.media/lets-talk-about-web3/
   - Spotify: https://open.spotify.com/show/1Bk6bsMYciOMyJohMVZUgt
 - **Topics/summary:** Weekly co-hosted live web3 show (Zaal, Ohnahji B, EZinCrypto), streamed live on Twitch. Runtime 16:05. Three seasons of this show became Let's Talk About Ethereum.
@@ -1873,6 +2054,7 @@
 - **Brands:** Let's Talk About Web3, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2025-05-28-lets-talk-about-web3-ep4/
 - **URLs:**
+  - YouTube: https://youtu.be/tFsreL_YsAE
   - Pods.media archive: https://pods.media/lets-talk-about-web3/
   - Spotify: https://open.spotify.com/show/1Bk6bsMYciOMyJohMVZUgt
 - **Topics/summary:** Weekly co-hosted live web3 show (Zaal, Ohnahji B, EZinCrypto), streamed live on Twitch. Runtime 55:04. Three seasons of this show became Let's Talk About Ethereum.
@@ -1889,6 +2071,7 @@
 - **Brands:** Let's Talk About Web3, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2025-05-19-lets-talk-about-web3-ep3/
 - **URLs:**
+  - YouTube: https://youtu.be/uUMJg0EOgRI
   - Pods.media archive: https://pods.media/lets-talk-about-web3/
   - Spotify: https://open.spotify.com/show/1Bk6bsMYciOMyJohMVZUgt
 - **Topics/summary:** Weekly co-hosted live web3 show (Zaal, Ohnahji B, EZinCrypto), streamed live on Twitch. Runtime 58:01. Three seasons of this show became Let's Talk About Ethereum.
@@ -1905,6 +2088,7 @@
 - **Brands:** Let's Talk About Web3, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2025-04-24-lets-talk-about-web3-ep2/
 - **URLs:**
+  - YouTube: https://youtu.be/VJ5zI3DgQjg
   - Pods.media archive: https://pods.media/lets-talk-about-web3/
   - Spotify: https://open.spotify.com/show/1Bk6bsMYciOMyJohMVZUgt
 - **Topics/summary:** Weekly co-hosted live web3 show (Zaal, Ohnahji B, EZinCrypto), streamed live on Twitch. Runtime 44:38. Three seasons of this show became Let's Talk About Ethereum.
@@ -1921,6 +2105,7 @@
 - **Brands:** Let's Talk About Web3, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2025-04-22-lets-talk-about-web3-ep1/
 - **URLs:**
+  - YouTube: https://youtu.be/0YXqnESol3Y
   - Pods.media archive: https://pods.media/lets-talk-about-web3/
   - Spotify: https://open.spotify.com/show/1Bk6bsMYciOMyJohMVZUgt
 - **Topics/summary:** Weekly co-hosted live web3 show (Zaal, Ohnahji B, EZinCrypto), streamed live on Twitch. Runtime 56:38. Three seasons of this show became Let's Talk About Ethereum.
@@ -1937,8 +2122,10 @@
 - **Brands:** Let's Talk About Web3, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2025-04-14-lets-talk-about-web3-ep0/
 - **URLs:**
+  - YouTube: https://youtu.be/jIxrFx2lQ0Y
   - Pods.media archive: https://pods.media/lets-talk-about-web3/
   - Spotify: https://open.spotify.com/show/1Bk6bsMYciOMyJohMVZUgt
+  - Pods.media episode: https://pods.media/lets-talk-about-web3/the-zao-presents-lets-talk-about-web-3-ep-0-wohnahji-b-ezincrypto-bettercallzaal
 - **Topics/summary:** Weekly co-hosted live web3 show (Zaal, Ohnahji B, EZinCrypto), streamed live on Twitch. Runtime 27:37. Three seasons of this show became Let's Talk About Ethereum.
 - **Clip candidates:**
 
@@ -1957,5 +2144,22 @@
   - Apple Podcasts: https://podcasts.apple.com/sg/podcast/token-for-your-thoughts/id1799063494
   - Show site: https://www.tokenforyourthoughts.com
 - **Topics/summary:** Zaal on the Token for Your Thoughts podcast (48 min) - how Web3 reshapes the music industry: The ZAO helping artists reclaim ownership, data, and creative freedom; flipping the label model where labels take 70 percent; soulbound governance tokens; music battles; and onchain reputation building.
+- **Clip candidates:**
+
+
+---
+
+### COC ConcertZ Metaverse Concert - CLEJAN and Attabotty
+
+- **Class:** community
+- **Date:** 2025-03-29 (archived)
+- **Host/Source:** Zaal (@zaal) - COC Concertz
+- **Brands:** COC Concertz, The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2025-03-29-coc-concertz-metaverse/
+- **URLs:**
+  - Metaverse Memories (Thyrevolution edit): https://youtu.be/RpNjGxUMMjk
+  - CLEJAN set intro: https://youtu.be/4n1dFs5T4T4
+  - Attabotty set intro: https://youtu.be/-ggYAdu4KRE
+- **Topics/summary:** Metaverse COC ConcertZ from 2025-03-29 - full CLEJAN set (13 songs) and Attabotty set (7 songs plus lore), archived song-by-song on The ZAO channel with a Thyrevolution highlight edit.
 - **Clip candidates:**
 

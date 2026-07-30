@@ -14,8 +14,12 @@
     "Let's Talk About Web3",
     "The ZAO"
   ],
-  "youtubeId": null,
+  "youtubeId": "USg92D16Gd8",
   "links": [
+    {
+      "label": "YouTube",
+      "url": "https://youtu.be/USg92D16Gd8"
+    },
     {
       "label": "Pods.media archive",
       "url": "https://pods.media/lets-talk-about-web3/"
@@ -23,6 +27,10 @@
     {
       "label": "Spotify",
       "url": "https://open.spotify.com/show/1Bk6bsMYciOMyJohMVZUgt"
+    },
+    {
+      "label": "Pods.media episode",
+      "url": "https://pods.media/lets-talk-about-web3/the-zao-presents-lets-talk-about-web-3-ep-6-wohnahji-ezincrypto-bettercallzaal"
     }
   ],
   "summary": "Weekly co-hosted live web3 show (Zaal, Ohnahji B, EZinCrypto), streamed live on Twitch. Runtime 59:44. Three seasons of this show became Let's Talk About Ethereum.",

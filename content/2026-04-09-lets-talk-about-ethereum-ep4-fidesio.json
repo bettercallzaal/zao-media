@@ -14,7 +14,7 @@
   "date": "2026-04-09",
   "show": "Let's Talk About Ethereum",
   "guest": "Fidesio",
-  "youtubeId": "zJGwH-upy5A",
+  "youtubeId": "agtNstnokG8",
   "brands": [
     "Let's Talk About Ethereum",
     "The ZAO"
@@ -22,7 +22,11 @@
   "summary": "Episode 4 with Fidesio. Weekly co-hosted live show on the Ethereum ecosystem - successor to Let's Talk About Web3.",
   "links": [
     {
-      "label": "YouTube",
+      "label": "YouTube (edited)",
+      "url": "https://youtu.be/agtNstnokG8"
+    },
+    {
+      "label": "Stream VOD",
       "url": "https://youtu.be/zJGwH-upy5A"
     }
   ],

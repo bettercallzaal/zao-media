@@ -10,11 +10,11 @@
   "related": [],
   "hasTranscript": false,
   "class": "produced",
-  "title": "Let's Talk About Ethereum w/Pablo",
+  "title": "Let's Talk About Ethereum Ep. 3 w/Pablo",
   "date": "2026-03-29",
   "show": "Let's Talk About Ethereum",
   "guest": "Pablo",
-  "youtubeId": "dGXR-if9wMA",
+  "youtubeId": "Ua86acr_f8k",
   "brands": [
     "Let's Talk About Ethereum",
     "The ZAO"
@@ -22,7 +22,11 @@
   "summary": "LTAE session with Pablo (Day 8 of the 100-day streaming run). Weekly co-hosted live show on the Ethereum ecosystem - successor to Let's Talk About Web3.",
   "links": [
     {
-      "label": "YouTube",
+      "label": "YouTube (edited)",
+      "url": "https://youtu.be/Ua86acr_f8k"
+    },
+    {
+      "label": "Stream VOD",
       "url": "https://youtu.be/dGXR-if9wMA"
     }
   ],

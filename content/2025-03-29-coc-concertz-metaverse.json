@@ -1,0 +1,42 @@
+{
+  "slug": "2025-03-29-coc-concertz-metaverse",
+  "class": "community",
+  "title": "COC ConcertZ Metaverse Concert - CLEJAN and Attabotty",
+  "date": "2025-03-29",
+  "status": "archived",
+  "show": "COC Concertz",
+  "host": "Zaal",
+  "hostHandle": "@zaal",
+  "hostUrl": "https://farcaster.xyz/zaal",
+  "guest": "",
+  "guestOrg": "",
+  "brands": [
+    "COC Concertz",
+    "The ZAO"
+  ],
+  "youtubeId": "RpNjGxUMMjk",
+  "links": [
+    {
+      "label": "Metaverse Memories (Thyrevolution edit)",
+      "url": "https://youtu.be/RpNjGxUMMjk"
+    },
+    {
+      "label": "CLEJAN set intro",
+      "url": "https://youtu.be/4n1dFs5T4T4"
+    },
+    {
+      "label": "Attabotty set intro",
+      "url": "https://youtu.be/-ggYAdu4KRE"
+    }
+  ],
+  "summary": "Metaverse COC ConcertZ from 2025-03-29 - full CLEJAN set (13 songs) and Attabotty set (7 songs plus lore), archived song-by-song on The ZAO channel with a Thyrevolution highlight edit.",
+  "points": [],
+  "chapters": [],
+  "related": [],
+  "hasTranscript": false,
+  "dist": {
+    "socials": false,
+    "clips": false,
+    "notes": "21 per-song videos on @thezaodao"
+  }
+}

@@ -14,7 +14,7 @@
   "date": "2026-03-19",
   "show": "Let's Talk About Ethereum",
   "guest": "Swarthy Hatter",
-  "youtubeId": "lIJ0MacsA2w",
+  "youtubeId": "K79nO_nHL8U",
   "brands": [
     "Let's Talk About Ethereum",
     "The ZAO"
@@ -22,7 +22,11 @@
   "summary": "Episode 2 with Swarthy Hatter. Weekly co-hosted live show on the Ethereum ecosystem - successor to Let's Talk About Web3.",
   "links": [
     {
-      "label": "YouTube",
+      "label": "YouTube (edited)",
+      "url": "https://youtu.be/K79nO_nHL8U"
+    },
+    {
+      "label": "Stream VOD",
       "url": "https://youtu.be/lIJ0MacsA2w"
     }
   ],
