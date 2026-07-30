@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ZM - ZAO Media</title>
+<meta name="description" content="The media home for The ZAO - podcasts, shows, Spaces, streams, and earned-media appearances. One place for everything the ZAO produces or appears in.">
+<meta property="og:title" content="ZM - ZAO Media">
+<meta property="og:description" content="The media home for The ZAO. Podcasts, shows, Spaces, streams, appearances.">
+<meta property="og:type" content="website">
+<style>
+  :root { --navy:#141e27; --navy2:#1c2a36; --gold:#e0ddaa; --ink:#eef2f6; --dim:#93a3b5; }
+  * { margin:0; padding:0; box-sizing:border-box; }
+  body { background:var(--navy); color:var(--ink); font:16px/1.6 system-ui,-apple-system,sans-serif; -webkit-font-smoothing:antialiased; }
+  a { color:var(--gold); text-decoration:none; }
+  a:hover { text-decoration:underline; }
+  header { max-width:860px; margin:0 auto; padding:56px 20px 24px; }
+  .kicker { text-transform:uppercase; letter-spacing:.18em; font-size:.72rem; color:var(--dim); }
+  h1 { font-size:2.6rem; line-height:1.1; margin:6px 0 10px; }
+  .lead { font-size:1.15rem; color:var(--ink); max-width:640px; }
+  main { max-width:860px; margin:0 auto; padding:16px 20px 80px; }
+  h2 { font-size:1rem; text-transform:uppercase; letter-spacing:.1em; color:var(--gold); margin:36px 0 14px; }
+  .card { display:block; background:var(--navy2); border:1px solid rgba(224,221,170,.14); border-radius:14px; padding:20px 22px; margin:12px 0; transition:border-color .15s, transform .15s; }
+  .card:hover { border-color:rgba(224,221,170,.4); transform:translateY(-1px); text-decoration:none; }
+  .card .class { font-size:.7rem; text-transform:uppercase; letter-spacing:.12em; color:var(--dim); }
+  .card h3 { font-size:1.2rem; margin:6px 0; color:var(--ink); }
+  .card .meta { font-size:.9rem; color:var(--dim); }
+  .taxo { display:grid; gap:10px; grid-template-columns:1fr; }
+  @media (min-width:620px){ .taxo{ grid-template-columns:1fr 1fr; } }
+  .taxo div { background:var(--navy2); border:1px solid rgba(224,221,170,.1); border-radius:10px; padding:12px 14px; }
+  .taxo strong { color:var(--gold); }
+  footer { max-width:860px; margin:0 auto; padding:24px 20px 60px; color:var(--dim); font-size:.85rem; border-top:1px solid rgba(224,221,170,.1); }
+</style>
+</head>
+<body>
+<header>
+  <p class="kicker">ZM - ZAO Media</p>
+  <h1>The media home for The ZAO.</h1>
+  <p class="lead">Everything the ZAO produces or appears in - podcasts, shows, Spaces, streams, and earned-media appearances. One place, logged once, shared everywhere.</p>
+</header>
+<main>
+  <h2>Latest</h2>
+  <a class="card" href="./appearances/2026-07-30-just-dao-it/">
+    <span class="class">Earned - podcast</span>
+    <h3>Preventing DAO Governance Attacks + Building a Music DAO and AI Agent Legal Entities</h3>
+    <p class="meta">Just DAO It with Adam Miller - 2026-07-30. DAO governance attacks, ZAO's soulbound Respect defense, WaveWarZ, AI-agent legal entities.</p>
+  </a>
+
+  <h2>What ZM covers</h2>
+  <div class="taxo">
+    <div><strong>Earned</strong> - podcast guest spots, features, press</div>
+    <div><strong>Live</strong> - Farcaster Spaces, Twitch and Restream streams</div>
+    <div><strong>Produced</strong> - ZAOstock recaps, WaveWarZ battles, ZABAL Games sessions</div>
+    <div><strong>Community</strong> - member casts, COC Concertz sets, artist spotlights</div>
+  </div>
+</main>
+<footer>
+  ZM - the media home for <a href="https://thezao.com">The ZAO</a>. Built in the open - <a href="https://github.com/bettercallzaal/zao-media">github.com/bettercallzaal/zao-media</a>.
+</footer>
+</body>
+</html>
