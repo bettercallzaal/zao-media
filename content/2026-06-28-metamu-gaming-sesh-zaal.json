@@ -1,0 +1,33 @@
+{
+  "slug": "2026-06-28-metamu-gaming-sesh-zaal",
+  "status": "archived",
+  "guestOrg": "",
+  "points": [],
+  "chapters": [],
+  "related": [],
+  "hasTranscript": false,
+  "dist": {
+    "socials": false,
+    "clips": false,
+    "notes": ""
+  },
+  "class": "community",
+  "title": "Gaming Sesh - MetaMu x BetterCallZaal",
+  "date": "2026-06-28",
+  "show": "MetaMu's channel",
+  "host": "MetaMu",
+  "hostHandle": "@Metam00",
+  "hostUrl": "https://www.youtube.com/watch?v=Xt7a3vOvht8",
+  "guest": "",
+  "brands": [
+    "The ZAO"
+  ],
+  "youtubeId": "Xt7a3vOvht8",
+  "links": [
+    {
+      "label": "YouTube",
+      "url": "https://youtu.be/Xt7a3vOvht8"
+    }
+  ],
+  "summary": "Gaming session stream - MetaMu with Zaal during ZABAL Games summer."
+}

@@ -1,0 +1,33 @@
+{
+  "slug": "2026-01-29-metamu-building-with-ohnahji-zaal",
+  "status": "archived",
+  "guestOrg": "",
+  "points": [],
+  "chapters": [],
+  "related": [],
+  "hasTranscript": false,
+  "dist": {
+    "socials": false,
+    "clips": false,
+    "notes": ""
+  },
+  "class": "community",
+  "title": "Building With Ohnahji and BetterCallZaal (MetaMu)",
+  "date": "2026-01-29",
+  "show": "MetaMu's channel",
+  "host": "MetaMu",
+  "hostHandle": "@Metam00",
+  "hostUrl": "https://www.youtube.com/watch?v=h4QWekVpkGQ",
+  "guest": "",
+  "brands": [
+    "The ZAO"
+  ],
+  "youtubeId": "h4QWekVpkGQ",
+  "links": [
+    {
+      "label": "YouTube",
+      "url": "https://youtu.be/h4QWekVpkGQ"
+    }
+  ],
+  "summary": "MetaMu streams a build session with Ohnahji and Zaal - community collab on MetaMu channel."
+}

@@ -102,6 +102,14 @@
     <description>ZABAL Gamez Firesides - ZABAL Gamez fireside session with hammallama (Vendyz) - conversations from the ZABAL Games buildathon summer.</description>
   </item>
   <item>
+    <title>Gaming Sesh - MetaMu x BetterCallZaal</title>
+    <link>https://bettercallzaal.github.io/zao-media/appearances/2026-06-28-metamu-gaming-sesh-zaal/</link>
+    <guid>https://bettercallzaal.github.io/zao-media/appearances/2026-06-28-metamu-gaming-sesh-zaal/</guid>
+    <pubDate>Sun, 28 Jun 2026 12:00:00 GMT</pubDate>
+    <category>community</category>
+    <description>MetaMu's channel - Gaming session stream - MetaMu with Zaal during ZABAL Games summer.</description>
+  </item>
+  <item>
     <title>ZABAL GAMEZ Workshop w/Matt Lee from Tortoise</title>
     <link>https://bettercallzaal.github.io/zao-media/appearances/2026-06-28-matt-lee-tortoise-workshop/</link>
     <guid>https://bettercallzaal.github.io/zao-media/appearances/2026-06-28-matt-lee-tortoise-workshop/</guid>
@@ -396,14 +404,6 @@
     <pubDate>Mon, 01 Jun 2026 12:00:00 GMT</pubDate>
     <category>produced</category>
     <description>ZABAL Gamez Workshops - ZABAL Gamez workshop session.</description>
-  </item>
-  <item>
-    <title>BCZ YapZ w/Erik and Jonathan (Fotocaster)</title>
-    <link>https://bettercallzaal.github.io/zao-media/appearances/2026-05-12-eriks-jonathan-fotocaster/</link>
-    <guid>https://bettercallzaal.github.io/zao-media/appearances/2026-05-12-eriks-jonathan-fotocaster/</guid>
-    <pubDate>Tue, 12 May 2026 12:00:00 GMT</pubDate>
-    <category>produced</category>
-    <description>BCZ YapZ - Zaal sits with Erik and Jonathan (JC), the two builders behind Fotocaster, a Farcaster mini app for putting photography on chain. Both came to Farcaster as photographers - Erik as a nomadic investor who picked up a camera, JC as a working photographer and former co-host of I Took A Photo. They walk through why they built Fotocaster: frustration with high take rates and low ownership on existing NFT apps, and a thesis that putting something on chain should be separated from selling it - not everything needs to be a marketplace, some things are just collected. The app gives creators full control over editions, pricing, and titling, with artists keeping 99% and 1% routed back to fund free on-chain deployment. Two weeks post-launch: 371 creators, 787 collectors, 4,000 photos collected. Open questions discussed on air: moving storage from IPFS to Arweave, and how to make the public-good model self-sustaining long term.</description>
   </item>
 </channel>
 </rss>

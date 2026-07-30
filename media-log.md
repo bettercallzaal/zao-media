@@ -197,6 +197,21 @@
 
 ---
 
+### Gaming Sesh - MetaMu x BetterCallZaal
+
+- **Class:** community
+- **Date:** 2026-06-28 (archived)
+- **Host/Source:** MetaMu (@Metam00) - MetaMu's channel
+- **Brands:** The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-28-metamu-gaming-sesh-zaal/
+- **URLs:**
+  - YouTube: https://youtu.be/Xt7a3vOvht8
+- **Topics/summary:** Gaming session stream - MetaMu with Zaal during ZABAL Games summer.
+- **Clip candidates:**
+
+
+---
+
 ### ZABAL GAMEZ Workshop w/Matt Lee from Tortoise
 
 - **Class:** produced
@@ -1336,6 +1351,21 @@
 
 ---
 
+### Building With Ohnahji and BetterCallZaal (MetaMu)
+
+- **Class:** community
+- **Date:** 2026-01-29 (archived)
+- **Host/Source:** MetaMu (@Metam00) - MetaMu's channel
+- **Brands:** The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-01-29-metamu-building-with-ohnahji-zaal/
+- **URLs:**
+  - YouTube: https://youtu.be/h4QWekVpkGQ
+- **Topics/summary:** MetaMu streams a build session with Ohnahji and Zaal - community collab on MetaMu channel.
+- **Clip candidates:**
+
+
+---
+
 ### BCZ YapZ w/Yerbearserker
 
 - **Class:** produced
@@ -1346,6 +1376,21 @@
 - **URLs:**
   - YouTube: https://youtu.be/EH-FWD7ySKk
 - **Topics/summary:** In this episode of BCZ YapZ, Zaal sits down with Jordan (aka Yerbearserker), co-founder of Empire Builder, for a wide-ranging conversation on building sustainable onchain ecosystems. Jordan walks through his unconventional path into Web3 - from outdoor education and digital media to token design - and lays out the philosophy behind Empire Builder: helping creators and communities move from idea to durable, generative infrastructure. The discussion digs deep into digital scarcity, creator tokens, incentives, and why value should be built in products and communities first, not price charts.
+- **Clip candidates:**
+
+
+---
+
+### ZABAL Presents: Metaverse Meetups w/Attabotty and GodCloud
+
+- **Class:** produced
+- **Date:** 2026-01-05 (archived)
+- **Host/Source:** Metaverse Meetups - Zaal with Attabotty and GodCloud
+- **Brands:** ZABAL Games, The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-01-05-metaverse-meetups-attabotty-godcloud/
+- **URLs:**
+  - YouTube: https://youtu.be/C1W_hEMGFdQ
+- **Topics/summary:** ZABAL Presents: Metaverse Meetups - Zaal with Attabotty and GodCloud in the metaverse.
 - **Clip candidates:**
 
 
@@ -1681,6 +1726,21 @@
 
 ---
 
+### Undivided Attention - Season 2 Episode 5 w/BetterCallZaal
+
+- **Class:** earned
+- **Date:** 2025-09-28 (archived)
+- **Host/Source:** Ohnahji B (@ohnahji) - Undivided Attention
+- **Brands:** The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2025-09-28-undivided-attention-s2e5/
+- **URLs:**
+  - YouTube: https://youtu.be/oJHfncSjjiY
+- **Topics/summary:** Zaal as the guest on Undivided Attention (Ohnahji University Network), season 2 episode 5 - a 97-minute deep conversation on Ohnahji B's own show.
+- **Clip candidates:**
+
+
+---
+
 ### Let's Talk About Web3 - Ep. 18
 
 - **Class:** produced
@@ -1826,6 +1886,21 @@
   - Pods.media archive: https://pods.media/lets-talk-about-web3/
   - Spotify: https://open.spotify.com/show/1Bk6bsMYciOMyJohMVZUgt
 - **Topics/summary:** Weekly co-hosted live web3 show (Zaal, Ohnahji B, EZinCrypto), streamed live on Twitch. Runtime 54:20. Three seasons of this show became Let's Talk About Ethereum.
+- **Clip candidates:**
+
+
+---
+
+### Discussing GameStop, PowerPacks, and PSA Card with BetterCallZaal
+
+- **Class:** earned
+- **Date:** 2025-08-28 (archived)
+- **Host/Source:** Rich Bartuc (@RichBartuc) - Rich Bartuc's channel
+- **Brands:** The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2025-08-28-rich-bartuc-channel-gamestop/
+- **URLs:**
+  - YouTube: https://youtu.be/BNm7xsVkhTI
+- **Topics/summary:** Zaal joins Rich Bartuc on his channel to talk GameStop, PowerPacks, and PSA Card collecting - the flip side of the BCZ YapZ relationship (Rich was YapZ ep 2 guest).
 - **Clip candidates:**
 
 
