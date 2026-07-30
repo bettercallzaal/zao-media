@@ -8,6 +8,8 @@
 
 ## Watch / listen
 
+- **ZM page (canonical share link):** https://bettercallzaal.github.io/zao-media/appearances/2026-07-30-just-dao-it/
+
 - YouTube: https://youtu.be/rTQ7nYdh0YI
 - Audio (Transistor): https://justdaoit.transistor.fm/episodes/just-dao-it-with-zaal
 - Host announce (X): https://x.com/JustDAOItPod/status/2081879495259431030
