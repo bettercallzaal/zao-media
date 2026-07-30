@@ -1,0 +1,33 @@
+{
+  "slug": "2026-05-16-audius-uvr-anthem-2",
+  "class": "produced",
+  "title": "UVR Anthem 2",
+  "date": "2026-05-16",
+  "status": "archived",
+  "show": "Audius releases",
+  "host": "Zaal",
+  "hostHandle": "@bettercallzaal",
+  "hostUrl": "https://audius.co/bettercallzaal",
+  "guest": "",
+  "guestOrg": "",
+  "brands": [
+    "The ZAO"
+  ],
+  "youtubeId": null,
+  "links": [
+    {
+      "label": "Audius",
+      "url": "https://audius.co/bettercallzaal/uvr-anthem-2"
+    }
+  ],
+  "summary": "UVR Anthem 2 on Audius.",
+  "points": [],
+  "chapters": [],
+  "related": [],
+  "hasTranscript": false,
+  "dist": {
+    "socials": false,
+    "clips": false,
+    "notes": ""
+  }
+}

@@ -1772,6 +1772,36 @@
 
 ---
 
+### UVR Anthem 2
+
+- **Class:** produced
+- **Date:** 2026-05-16 (archived)
+- **Host/Source:** Zaal (@bettercallzaal) - Audius releases
+- **Brands:** The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-05-16-audius-uvr-anthem-2/
+- **URLs:**
+  - Audius: https://audius.co/bettercallzaal/uvr-anthem-2
+- **Topics/summary:** UVR Anthem 2 on Audius.
+- **Clip candidates:**
+
+
+---
+
+### UVR Anthem 1
+
+- **Class:** produced
+- **Date:** 2026-05-16 (archived)
+- **Host/Source:** Zaal (@bettercallzaal) - Audius releases
+- **Brands:** The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-05-16-audius-uvr-anthem-1/
+- **URLs:**
+  - Audius: https://audius.co/bettercallzaal/uvr-anthem-1
+- **Topics/summary:** UVR Anthem 1 on Audius.
+- **Clip candidates:**
+
+
+---
+
 ### Music x crypto connect sesh x BCZ strategies
 
 - **Class:** live
@@ -4524,6 +4554,21 @@
   - Listen on X: https://x.com/i/spaces/1yNxabmMQgvKj
   - Spaces Dashboard: https://spacesdashboard.com/space/1yNxabmMQgvKj/web3-coc-ft-world-of-woman-led-by-woman-built-for-everyone
 - **Topics/summary:** X Space (duration unknown) - hosted, co-hosted, or spoken in by Zaal. Auto-logged from the spacesdashboard archive sweep of 2026-07-30.
+- **Clip candidates:**
+
+
+---
+
+### WaveWarZ, the Electric Vibez
+
+- **Class:** produced
+- **Date:** 2025-11-21 (archived)
+- **Host/Source:** Zaal (@bettercallzaal) - Audius releases
+- **Brands:** WaveWarZ, The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2025-11-21-audius-wavewarz-the-electric-vibez/
+- **URLs:**
+  - Audius: https://audius.co/bettercallzaal/wavewarz-the-electric-vibez
+- **Topics/summary:** WaveWarZ anthem track released on Audius - 92 plays and counting.
 - **Clip candidates:**
 
 

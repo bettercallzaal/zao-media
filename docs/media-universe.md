@@ -34,6 +34,15 @@ Total: 125 items across 16 shows. Earned section: 4 (Token for Your Thoughts Apr
 - X SPACES FULL SWEEP DONE (2026-07-30): all 1,500 spaces from spacesdashboard (155 hosted + 118 co-hosted + 1,357 spoken-in, deduped) captured to docs/spaces-catalog.md with x.com listen links. 443 ZAO-ecosystem spaces (10+ min, non-test) auto-logged as ZM live entries under show "X Spaces" - includes ZAO-CHELLA night show (Sep 6 2024), WaveWarZ Episode 5 (Jun 2024), COC spaces back to Nov 2023. Non-ZAO spoken-in spaces stay catalog-only.
 - Paragraph correction: the newsletter is @thezao "Year of the ZAO" DAILY posts (Day 1-329+), not @zaoonparagraph. Mirror.xyz: zero published (matches plan).
 
+## Movies vault inventory (2026-07-30, ~13GB)
+
+- ~/Movies/"to post" (4.7GB) - UNPOSTED content queue: ali.mp4 (1.6GB), ZABAL dirs (2.6GB), quakey, zaal
+- ~/Movies/cocconcer6.mp4 (2.2GB) - COC Concertz #6 raw + cocconcertz6timelapse.MP4
+- ~/Movies/bandpractice (3.8GB) - thecrownvics practice footage (IMG_*.MOV)
+- ~/Movies/craig-aobWYvWS0JOC (2.2GB) - Craig recording unassigned
+- ltaw3 intro.mp3 - the show intro asset
+Audius confirmed live: 3 tracks (WaveWarZ the Electric Vibez Nov 2025, UVR Anthems 1+2 May 2026) - logged in ZM.
+
 ## Corrections to older docs
 
 - Doc 2136 lists "ZAO Live Podcast (@Zao.livepodcast)" as a Zaal channel - WRONG. That channel is "zao.live", an unrelated AI news-podcast app. Name collision; not ZAO media.
