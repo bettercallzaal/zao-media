@@ -30,6 +30,7 @@ Total: 125 items across 16 shows. Earned section: 4 (Token for Your Thoughts Apr
 
 - THE ZAO YOUTUBE CHANNEL EXISTS: youtube.com/@thezaodao (93 videos) - in NO prior doc. Holds: LTAW3 eps 0-18 video versions (now attached to ZM entries), LTAW3 SEASON 3 eps 1-9 (now logged: SVVVG3, Maceo, 9Bapa, Mumbo, Reid/Paragraph, Blue2Black, Attabotty+Danici, dabus+1dre, Tyler McNair), edited Let's Talk About ETH eps 1-4 (ZM entries updated; Pablo = Ep 3), COC ConcertZ #2 + #3 + #4 per-performance videos, CLEJAN 13-song set + Attabotty 7-song set from the 2025-03-29 metaverse ConcertZ.
 - X Spaces archive: spacesdashboard.com/u/bettercallzaal - 155 hosted + 118 co-hosted + 1,357 spoken-in spaces. Page 1 captured; full scrape pending (Cloudflare rate-limits, go slow). Notable: ZABAL AMA 2 (Dec 8 2025), ZAO network token space (Apr 4, 52 listeners), ETH Boulder recap (Feb 16), COC ConcertZ #3 space.
+- FOURTH owned channel: youtube.com/@zaofestivals (21 videos) - ZAO-PALOOZA Apr 3 2024 (8 performances: Attabotty, Hurric4n3Ike, Mojo the Ghost, Christiano, Jango UU + Smokewavy, Nessy the Rilla, Maxwell Aden, Jadyn Violet), ZAO-PALOOZA Sep 4 2024 (Maxwell Aden, GX Universe), ZAO-CHELLA 12-week countdown series. All logged; ZAO-PALOOZA Apr 2024 is now the earliest item in ZM. ZAO-CHELLA event footage itself NOT found - ask Zaal if it was recorded.
 - Paragraph correction: the newsletter is @thezao "Year of the ZAO" DAILY posts (Day 1-329+), not @zaoonparagraph. Mirror.xyz: zero published (matches plan).
 
 ## Corrections to older docs
