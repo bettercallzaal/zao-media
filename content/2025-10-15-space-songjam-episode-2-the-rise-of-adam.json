@@ -1,0 +1,37 @@
+{
+  "slug": "2025-10-15-space-songjam-episode-2-the-rise-of-adam",
+  "class": "live",
+  "title": "SongJam episode 2 the rise of adam",
+  "date": "2025-10-15",
+  "status": "archived",
+  "show": "X Spaces",
+  "host": "Zaal",
+  "hostHandle": "@bettercallzaal",
+  "hostUrl": "https://x.com/bettercallzaal",
+  "guest": "",
+  "guestOrg": "",
+  "brands": [
+    "The ZAO"
+  ],
+  "youtubeId": null,
+  "links": [
+    {
+      "label": "Listen on X",
+      "url": "https://x.com/i/spaces/1LyxBXZVvwzGN"
+    },
+    {
+      "label": "Spaces Dashboard",
+      "url": "https://spacesdashboard.com/space/1LyxBXZVvwzGN/songjam-episode-2-the-rise-of-adam"
+    }
+  ],
+  "summary": "X Space (16 minutes, 40 seconds 60) - hosted, co-hosted, or spoken in by Zaal. Auto-logged from the spacesdashboard archive sweep of 2026-07-30.",
+  "points": [],
+  "chapters": [],
+  "related": [],
+  "hasTranscript": false,
+  "dist": {
+    "socials": false,
+    "clips": false,
+    "notes": "auto-logged from spaces sweep"
+  }
+}

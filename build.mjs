@@ -106,7 +106,7 @@ function hubPage(items) {
   // earned first (credibility), then everything else grouped by show, newest first within groups
   const earned = items.filter((m) => m.class === 'earned');
   const rest = items.filter((m) => m.class !== 'earned');
-  const shows = [...new Set(rest.map((m) => m.show || 'Other'))];
+  const shows = [...new Set(rest.map((m) => m.show || 'Other'))].sort((a, b) => (a === 'X Spaces') - (b === 'X Spaces'));
   const sections = [
     earned.length ? `  <h2>Earned - appearances (${earned.length})</h2>\n${earned.map(card).join('\n')}` : '',
     ...shows.map((s) => {
