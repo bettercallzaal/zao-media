@@ -625,6 +625,36 @@
 
 ---
 
+### Farcaster Batches Day 5 - builder showcase
+
+- **Class:** community
+- **Date:** 2026-06-05 (archived)
+- **Host/Source:** Adrienne and Nounish Prof (@gmfarcaster) - Farcaster Batches
+- **Brands:** The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-05-farcaster-batches-day-5/
+- **URLs:**
+  - GM Farcaster: https://www.youtube.com/@gmfarcaster
+- **Topics/summary:** Farcaster Batches Day 5 - builder showcase, hosted by GM Farcaster - ZAO ecosystem builders featured: Node (DEKEY), Max baseddesigner.eth (POWER), Toady Hawk (betrmint), Darko (Runner). Transcript captured for the ZABAL data streams.
+- **Clip candidates:**
+
+
+---
+
+### Farcaster Batches Day 3 - Zaal presents The ZAO and ZABAL Gamez
+
+- **Class:** earned
+- **Date:** 2026-06-03 (archived)
+- **Host/Source:** Adrienne and Nounish Prof (@gmfarcaster) - Farcaster Batches
+- **Brands:** The ZAO, ZABAL Games
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-03-farcaster-batches-day-3/
+- **URLs:**
+  - GM Farcaster: https://www.youtube.com/@gmfarcaster
+- **Topics/summary:** Zaal presented The ZAO and ZABAL Gamez on the Farcaster Batches builder showcase, hosted by Adrienne and Nounish Prof of GM Farcaster (organized by JubJub). Alongside yerbearserker (Empire Builder), AZ Flynn, Cashless Man, and Duckfax.
+- **Clip candidates:**
+
+
+---
+
 ### Starting and growing your own livestream - Ohnahji (ZABAL Gamez Day 2, creator track)
 
 - **Class:** produced
@@ -636,6 +666,21 @@
   - YouTube: https://youtu.be/VsSLEF8O9yI
   - ZABAL Games: https://zabalgamez.com
 - **Topics/summary:** Lightly cleaned from the live Twitch auto-transcript; timestamps preserved for navigation.
+- **Clip candidates:**
+
+
+---
+
+### Farcaster Batches Day 2 - Founder Check workshop
+
+- **Class:** community
+- **Date:** 2026-06-02 (archived)
+- **Host/Source:** Adrienne and Nounish Prof (@gmfarcaster) - Farcaster Batches
+- **Brands:** The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-02-farcaster-batches-day-2/
+- **URLs:**
+  - GM Farcaster: https://www.youtube.com/@gmfarcaster
+- **Topics/summary:** Farcaster Batches Day 2 - Founder Check workshop, hosted by GM Farcaster - ZAO ecosystem builders featured: Jonathan Colton (Founder Check / Fotocaster), Kenny (POIDH). Transcript captured for the ZABAL data streams.
 - **Clip candidates:**
 
 
@@ -668,6 +713,21 @@
   - YouTube: https://youtu.be/RXYTCHRh_rY
   - ZABAL Games: https://zabalgamez.com
 - **Topics/summary:** ZABAL Gamez workshop session.
+- **Clip candidates:**
+
+
+---
+
+### Farcaster Batches Day 1 - builder showcase
+
+- **Class:** community
+- **Date:** 2026-06-01 (archived)
+- **Host/Source:** Adrienne and Nounish Prof (@gmfarcaster) - Farcaster Batches
+- **Brands:** The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-01-farcaster-batches-day-1/
+- **URLs:**
+  - GM Farcaster: https://www.youtube.com/@gmfarcaster
+- **Topics/summary:** Farcaster Batches Day 1 - builder showcase, hosted by GM Farcaster - ZAO ecosystem builders featured: Chris Dolinsky (Vini App), Kenny (POIDH), Nikki Sapp (Juke), Jonathan Colton (Fotocaster), Dr. Deeks. Transcript captured for the ZABAL data streams.
 - **Clip candidates:**
 
 
@@ -1077,6 +1137,21 @@
 - **URLs:**
   - YouTube: https://youtu.be/loSOniPcJx0
 - **Topics/summary:** Juliano (GIU) from Pinetree on his path from Brazilian Math Olympiads to MIT AI Lab (Minsky, Winston), writing a viral GPT-2 explainer, Transcend director of engineering, and building Pinetree - an on-chain platform for video creators with creator-owned monetization and distribution.
+- **Clip candidates:**
+
+
+---
+
+### Opening the COC Book - The Community of Communities Reveal
+
+- **Class:** community
+- **Date:** 2026-02-23 (archived)
+- **Host/Source:** Zaal (@zaal) - COC Concertz
+- **Brands:** COC Concertz, The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-02-23-coc-book-reveal/
+- **URLs:**
+  - YouTube: https://youtu.be/vxjFDVFlBYo
+- **Topics/summary:** The Community of Communities book reveal - opening the COC Book on stream.
 - **Clip candidates:**
 
 

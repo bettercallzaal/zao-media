@@ -17,7 +17,10 @@ Research snapshot 2026-07-30, compiled from ZAOOS docs 2135 (channel inventory),
 - 8 ZABAL Gamez Firesides (bribe, Rizzle/WIP, Minted Merch, Luciano, hammallama/Vendyz, Los Fomos, InitiumBuilders, Nounish Prof)
 - 2 ZAO-VILLE LIVE streams + Solana TrencheZ (July 2026)
 
-Total: 112 items across 11 shows. Full raw channel listings in docs/youtube-catalog.md: @bettercallzaal 48 videos + 145 streams, @wavewarz 41 videos + 142 streams + 248 shorts (431 total - far bigger than docs 2135/2136 knew).
+- 4 Farcaster Batches sessions (June 2026, GM Farcaster's show) - Day 3 logged as EARNED (Zaal presented The ZAO + ZABAL Gamez), days 1/2/5 as community; transcripts attached
+- COC extras: Community of Communities Book reveal video; segment transcripts attached to COC Concertz #4 and #5 entries
+
+Total: 117 items. Earned section now 3 (Just DAO It, Crypto Magic Hour Ep. 50, Farcaster Batches Day 3). Full raw channel listings in docs/youtube-catalog.md: @bettercallzaal 48 videos + 145 streams, @wavewarz 41 videos + 142 streams + 248 shorts (431 total - far bigger than docs 2135/2136 knew).
 
 ## Import backlog (known media NOT yet in ZM)
 
@@ -29,8 +32,7 @@ Total: 112 items across 11 shows. Full raw channel listings in docs/youtube-cata
 | ZAO Live Podcast channel | Shorts | @Zao.livepodcast | needs listing |
 | X Spaces recordings | 4+ space_*.mp4 on Mac (Jun-Jul 2026) + farcaster-intern-ama.ogg | ~/Downloads | unprocessed, no transcripts |
 | 1:1 recordings unprocessed | 13 files (William, Sifat, Zach L, Vishnu, Greg, Jeff, Viniapp, gho-st, chrisdol, nounish, Rishabh...) | ~/Downloads | need /meeting pass first |
-| CoC Concertz transcripts | segment transcripts for #4 + #5 (Joseph Goats, Tom Fellenz, Stilo World, Rev) | Documents/cocconcertz/CoCConcertZ/content/transcripts | VODs now logged; attach transcripts to the ZM entries |
-| COC Concertz #7 | happened 2026-07-18 per content calendar doc 1432 | TBC | find VOD, log |
+| COC Concertz #7 | happened 2026-07-18 per content calendar doc 1432; no VOD on @bettercallzaal or @wavewarz channels | TBC - ask Zaal where it was recorded | find VOD, log |
 | Farcaster Batches sessions | 4 transcripts (June 2026) | zabalgamez-all/data/streams/farcaster-batches | decide class + whether to log |
 | Ohnahji streams | future stream series | TBD | not started (1 workshop ep already in ZM) |
 | WaveWarZ battle streams | 1,289 battles since launch | wavewarz.com + footage in ~/Movies | pick highlights; footage backup critical |
