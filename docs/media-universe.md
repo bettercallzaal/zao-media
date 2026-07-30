@@ -48,19 +48,14 @@ Tracker page: https://bettercallzaal.github.io/zao-media/tracker.html (yes/no pe
 
 | Source | Count / size | Where it lives | Blocker |
 |--------|--------------|----------------|---------|
-| Twitch VODs (@bettercallzaal) | 62 past broadcasts (ZAO-VILLE LIVE, ZABAL GAMEZ, Solana TrencheZ, AI Music Tourney) | twitch.tv/bettercallzaal | VODs expire ~14 days - backup first (doc 1560) |
-| YouTube back-catalog | 193 videos on @bettercallzaal | youtube.com/@bettercallzaal | needs listing + mapping to items |
-| WaveWarZ YouTube channel | unknown count | channel UC4CTlM4Y6EZF0G9MBBAjwZQ | needs listing |
-| ZAO Live Podcast channel | Shorts | @Zao.livepodcast | needs listing |
-| X Spaces recordings | 4+ space_*.mp4 on Mac (Jun-Jul 2026) + farcaster-intern-ama.ogg | ~/Downloads | unprocessed, no transcripts |
+| Twitch VODs (@bettercallzaal) | 60 listed in docs/youtube-catalog.md | twitch.tv/bettercallzaal | VODs expire ~14 days - backup first (doc 1560); mostly mirror YouTube streams |
+| X Spaces recordings | 4+ space_*.mp4 on Mac (Jun-Jul 2026) + farcaster-intern-ama.ogg | ~/Downloads | unprocessed, no transcripts, no public URL |
 | 1:1 recordings unprocessed | 13 files (William, Sifat, Zach L, Vishnu, Greg, Jeff, Viniapp, gho-st, chrisdol, nounish, Rishabh...) | ~/Downloads | need /meeting pass first |
 | COC Concertz #7 | happened 2026-07-18 per content calendar doc 1432; no VOD on @bettercallzaal or @wavewarz channels | TBC - ask Zaal where it was recorded | find VOD, log |
-| Farcaster Batches sessions | 4 transcripts (June 2026) | zabalgamez-all/data/streams/farcaster-batches | decide class + whether to log |
-| Ohnahji streams | future stream series | TBD | not started (1 workshop ep already in ZM) |
-| WaveWarZ battle streams | 1,289 battles since launch | wavewarz.com + footage in ~/Movies | pick highlights; footage backup critical |
-| Let's Talk About Ethereum (LTAE) | successor show to Let's Talk About Web3 - Zaal co-hosts with Ohnahji B and Maceo; live build-with-Claude segments | pods.media + github.com/bettercallzaal/B-ZBUILD2 | log episodes as they land |
-| @bettercallzaal streams back-catalog | 145 stream VODs on YouTube | docs/youtube-catalog.md | triage: which deserve ZM entries (ZAO-VILLE LIVE, Solana TrencheZ, AI Music Tourney...) |
-| @wavewarz streams + battles | 142 stream VODs + 248 shorts | docs/youtube-catalog.md | triage battle highlights |
+| Ohnahji streams | future stream series (day ~288 of her 365-day run) | twitch.tv/ohnahji | log collabs featuring ZAO as they land |
+| WaveWarZ battle streams | 1,289 battles since launch; ~130 daily VODs catalogued | wavewarz.com + docs/youtube-catalog.md + footage in ~/Movies | highlights only; footage backup critical |
+| Let's Talk About Ethereum (LTAE) | ongoing - 7 sessions logged; new eps land weekly | pods.media + github.com/bettercallzaal/B-ZBUILD2 | log episodes as they land |
+| Green Pill Network episode | pitched Jul 2026, not yet landed (web-checked 2026-07-30) | greenpill.network/podcast | log as earned when it airs |
 
 ## Every platform ZAO is on (docs 2135/2136)
 
