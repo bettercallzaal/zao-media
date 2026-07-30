@@ -1,0 +1,84 @@
+name: Media API (repository_dispatch)
+
+# Programmatic submission endpoint for the team. POST a media item as JSON:
+#
+#   curl -X POST https://api.github.com/repos/bettercallzaal/zao-media/dispatches \
+#     -H "Authorization: Bearer <TOKEN>" -H "Accept: application/vnd.github+json" \
+#     -d '{"event_type":"add-media","client_payload":{"media":{"title":"...","date":"2026-07-30",...}}}'
+#
+# Default: opens a PR with the new content/*.json. Pass "publish": true at the
+# top level of client_payload to commit straight to main (instant publish).
+# Full field reference: docs/api.md.
+on:
+  repository_dispatch:
+    types: [add-media]
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  add:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate payload and write content JSON
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const p = context.payload.client_payload || {};
+            const m = p.media || {};
+            const date = String(m.date || '').match(/^\d{4}-\d{2}-\d{2}$/) ? m.date : null;
+            if (!m.title || !date) {
+              core.setFailed('media.title and media.date (YYYY-MM-DD) are required');
+              return;
+            }
+            const slugBase = (m.slug || m.title).toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '').slice(0, 60);
+            const slug = m.slug || `${date}-${slugBase}`;
+            const ytId = m.youtubeId || ((String(m.youtubeUrl || '').match(/(?:youtu\.be\/|v=)([\w-]{6,})/) || [])[1] || null);
+            const item = {
+              slug,
+              class: ['earned', 'live', 'produced', 'community'].includes(m.class) ? m.class : 'community',
+              title: String(m.title),
+              date,
+              status: m.status || 'archived',
+              show: m.show || '',
+              host: m.host || '',
+              hostHandle: m.hostHandle || '',
+              hostUrl: m.hostUrl || '',
+              guest: m.guest || '',
+              guestOrg: m.guestOrg || '',
+              brands: Array.isArray(m.brands) ? m.brands.map(String) : [],
+              youtubeId: ytId,
+              links: (Array.isArray(m.links) ? m.links : []).filter((l) => l && l.label && String(l.url || '').startsWith('http')).map((l) => ({ label: String(l.label), url: String(l.url) })),
+              summary: m.summary || String(m.title),
+              points: Array.isArray(m.points) ? m.points.map(String) : [],
+              chapters: [],
+              related: [],
+              hasTranscript: false,
+            };
+            const fs = require('fs');
+            fs.writeFileSync(`content/${slug}.json`, JSON.stringify(item, null, 2) + '\n');
+            core.exportVariable('MEDIA_SLUG', slug);
+            core.exportVariable('DIRECT_PUBLISH', p.publish === true ? 'yes' : 'no');
+      - name: Commit or PR
+        run: |
+          [ -z "$MEDIA_SLUG" ] && exit 0
+          git config user.name "Zaal Panthaki"
+          git config user.email "zaalp99@gmail.com"
+          if [ "$DIRECT_PUBLISH" = "yes" ]; then
+            git add "content/${MEDIA_SLUG}.json"
+            git commit -m "feat(content): add ${MEDIA_SLUG} via media API"
+            git push
+          else
+            BRANCH="media/${MEDIA_SLUG}"
+            git checkout -B "$BRANCH"
+            git add "content/${MEDIA_SLUG}.json"
+            git commit -m "feat(content): add ${MEDIA_SLUG} via media API"
+            git push -f origin "$BRANCH"
+            gh pr create --title "Add media: ${MEDIA_SLUG}" \
+              --body "Submitted via the ZM media API (repository_dispatch). Merging publishes the page." \
+              --base main --head "$BRANCH" || echo "PR may already exist"
+          fi
+        env:
+          GH_TOKEN: ${{ github.token }}
