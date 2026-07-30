@@ -256,6 +256,30 @@ function crmCsv(items) {
   return [head.map(esc2).join(','), ...rows].join('\n') + '\n';
 }
 
+// --- RSS feed (feed.xml) ---
+function rssFeed(items) {
+  const SITE = 'https://bettercallzaal.github.io/zao-media';
+  const entries = items.slice(0, 50).map((m) => `  <item>
+    <title>${esc(m.title)}</title>
+    <link>${SITE}/appearances/${m.slug}/</link>
+    <guid>${SITE}/appearances/${m.slug}/</guid>
+    <pubDate>${new Date(m.date + 'T12:00:00Z').toUTCString()}</pubDate>
+    <category>${esc(m.class)}</category>
+    <description>${esc(`${m.show ? m.show + ' - ' : ''}${m.summary}`)}</description>
+  </item>`).join('\n');
+  return `<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>ZM - ZAO Media</title>
+  <link>${SITE}/</link>
+  <description>The media home for The ZAO - podcasts, shows, Spaces, streams, and earned-media appearances. Logged once, shared everywhere.</description>
+  <language>en</language>
+${entries}
+</channel>
+</rss>
+`;
+}
+
 // --- run ---
 const files = readdirSync(CONTENT).filter((f) => f.endsWith('.json'));
 const items = files
@@ -271,5 +295,6 @@ writeFileSync(join(ROOT, 'index.html'), hubPage(items));
 writeFileSync(join(ROOT, 'media-log.md'), mediaLog(items));
 writeFileSync(join(ROOT, 'tracker.html'), trackerPage(items));
 writeFileSync(join(ROOT, 'media-crm.csv'), crmCsv(items));
+writeFileSync(join(ROOT, 'feed.xml'), rssFeed(items));
 
 console.log(`ZM build: ${items.length} item(s) -> hub + ${items.length} page(s) + media-log.md + tracker.html + media-crm.csv`);

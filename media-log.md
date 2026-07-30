@@ -856,6 +856,22 @@
 
 ---
 
+### The Financial Impact of WaveWarZ with DRiP Hauz
+
+- **Class:** produced
+- **Date:** 2026-04-25 (archived)
+- **Host/Source:** WaveWarZ - Zaal with DRiP Hauz
+- **Brands:** WaveWarZ
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-04-25-wavewarz-drip-hauz-financial-impact/
+- **URLs:**
+  - YouTube: https://youtu.be/IXRlqQrTbdg
+  - WaveWarZ: https://wavewarz.com
+- **Topics/summary:** How live-trading is changing the music industry - the financial impact of WaveWarZ, with DRiP Hauz.
+- **Clip candidates:**
+
+
+---
+
 ### BCZ YapZ w/Hannah (Farm Drop)
 
 - **Class:** produced
@@ -947,6 +963,22 @@
 
 ---
 
+### WaveWarZ Artist Interview: Rocky2Grimey
+
+- **Class:** produced
+- **Date:** 2026-04-11 (archived)
+- **Host/Source:** WaveWarZ Artist Interviews - Zaal with Rocky2Grimey
+- **Brands:** WaveWarZ
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-04-11-wavewarz-interview-rocky2grimey/
+- **URLs:**
+  - YouTube: https://youtu.be/I1jIu1P2b_s
+  - WaveWarZ: https://wavewarz.com
+- **Topics/summary:** WaveWarZ artist interview with Rocky2Grimey ahead of the Rocky2Grimey vs Kata7yst faceoff.
+- **Clip candidates:**
+
+
+---
+
 ### Let's Talk About Ethereum Ep. 4 w/Fidesio
 
 - **Class:** produced
@@ -1017,6 +1049,38 @@
 - **URLs:**
   - YouTube: https://youtu.be/WTyafqHKQqM
 - **Topics/summary:** In Episode 13 of BCZ YapZ, Zaal sits down with Ali, founder of Inflynce, to break down how one of the earliest Farcaster marketing tools came to life. Ali shares his journey from trading crypto and losing everything to contributing in a Discord, earning a role through pure effort, and eventually building Inflynce after getting rejected from over 180 job applications. The conversation highlights how real opportunity in Web3 often comes from participation, not credentials.
+- **Clip candidates:**
+
+
+---
+
+### Music, Drugs, Jail, Redemption - GodCloud Interview
+
+- **Class:** produced
+- **Date:** 2026-03-22 (archived)
+- **Host/Source:** WaveWarZ Artist Interviews - Zaal with GodCloud
+- **Brands:** WaveWarZ
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-03-22-wavewarz-interview-godcloud/
+- **URLs:**
+  - YouTube: https://youtu.be/-VdGyp4qSec
+  - WaveWarZ: https://wavewarz.com
+- **Topics/summary:** WaveWarZ artist interview with GodCloud - a redemption story through music.
+- **Clip candidates:**
+
+
+---
+
+### Battle Rap, Anime, Art, Merch - Cannon Jones973 Interview
+
+- **Class:** produced
+- **Date:** 2026-03-22 (archived)
+- **Host/Source:** WaveWarZ Artist Interviews - Zaal with Cannon Jones973
+- **Brands:** WaveWarZ
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-03-22-wavewarz-interview-cannon-jones973/
+- **URLs:**
+  - YouTube: https://youtu.be/1X8WObV0pXU
+  - WaveWarZ: https://wavewarz.com
+- **Topics/summary:** WaveWarZ artist interview with Cannon Jones973 - battle rap, anime, art, and merch.
 - **Clip candidates:**
 
 
@@ -1189,6 +1253,21 @@
 
 ---
 
+### B and Z BUILD
+
+- **Class:** live
+- **Date:** 2026-02-18 (archived)
+- **Host/Source:** Zaal and Ohnahji B (@zaal) - B&Z Builds
+- **Brands:** The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-02-18-b-and-z-build/
+- **URLs:**
+  - YouTube: https://youtu.be/UyCWXzldowg
+- **Topics/summary:** B&Z Builds live session - Zaal and Ohnahji B building together on stream (the live build-with-Claude format that feeds Let's Talk About Ethereum).
+- **Clip candidates:**
+
+
+---
+
 ### BCZ YapZ w/Diviflyy
 
 - **Class:** produced
@@ -1199,6 +1278,21 @@
 - **URLs:**
   - YouTube: https://youtu.be/0tyVpLGVxkA
 - **Topics/summary:** In this episode of BCZ YapZ, Zaal sits down with Adrian (aka Divifly), the lead developer behind Empire Builder, for a deep dive into the technical infrastructure and future roadmap of the platform. Adrian shares his long history in the cryptocurrency space-from mining Dogecoin on a laptop in 2013 and navigating the 2017 ICO boom to his work as a technical writer for major protocols like Scroll and Rootstock.
+- **Clip candidates:**
+
+
+---
+
+### Metafide Live BTC Prediction Game
+
+- **Class:** live
+- **Date:** 2026-02-06 (archived)
+- **Host/Source:** Zaal (@zaal) - BetterCallZaal streams
+- **Brands:** The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-02-06-metafide-btc-prediction/
+- **URLs:**
+  - YouTube: https://youtu.be/Q8KyBPD_MZg
+- **Topics/summary:** Live BTC prediction game session with Metafide on the BetterCallZaal stream.
 - **Clip candidates:**
 
 
@@ -1703,6 +1797,21 @@
   - Pods.media archive: https://pods.media/lets-talk-about-web3/
   - Spotify: https://open.spotify.com/show/1Bk6bsMYciOMyJohMVZUgt
 - **Topics/summary:** Weekly co-hosted live web3 show (Zaal, Ohnahji B, EZinCrypto), streamed live on Twitch - this episode with Will T. Runtime 1:01:55. Three seasons of this show became Let's Talk About Ethereum.
+- **Clip candidates:**
+
+
+---
+
+### ZAO Fractal #56 LIVE
+
+- **Class:** live
+- **Date:** 2025-06-24 (archived)
+- **Host/Source:** Zaal (@zaal) - ZAO Fractal
+- **Brands:** The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2025-06-24-zao-fractal-56-live/
+- **URLs:**
+  - YouTube: https://youtu.be/bm3oAPTwNVA
+- **Topics/summary:** Live stream of ZAO Fractal session #56 - the weekly Respect Game governance meeting of The ZAO.
 - **Clip candidates:**
 
 

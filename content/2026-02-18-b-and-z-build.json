@@ -1,0 +1,33 @@
+{
+  "slug": "2026-02-18-b-and-z-build",
+  "status": "archived",
+  "hostUrl": "https://farcaster.xyz/zaal",
+  "guestOrg": "",
+  "points": [],
+  "chapters": [],
+  "related": [],
+  "hasTranscript": false,
+  "dist": {
+    "socials": false,
+    "clips": false,
+    "notes": ""
+  },
+  "class": "live",
+  "title": "B and Z BUILD",
+  "date": "2026-02-18",
+  "show": "B&Z Builds",
+  "host": "Zaal and Ohnahji B",
+  "hostHandle": "@zaal",
+  "guest": "",
+  "brands": [
+    "The ZAO"
+  ],
+  "youtubeId": "UyCWXzldowg",
+  "links": [
+    {
+      "label": "YouTube",
+      "url": "https://youtu.be/UyCWXzldowg"
+    }
+  ],
+  "summary": "B&Z Builds live session - Zaal and Ohnahji B building together on stream (the live build-with-Claude format that feeds Let's Talk About Ethereum)."
+}

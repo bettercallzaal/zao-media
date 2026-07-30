@@ -1,0 +1,33 @@
+{
+  "slug": "2025-06-24-zao-fractal-56-live",
+  "status": "archived",
+  "hostUrl": "https://farcaster.xyz/zaal",
+  "guestOrg": "",
+  "points": [],
+  "chapters": [],
+  "related": [],
+  "hasTranscript": false,
+  "dist": {
+    "socials": false,
+    "clips": false,
+    "notes": ""
+  },
+  "class": "live",
+  "title": "ZAO Fractal #56 LIVE",
+  "date": "2025-06-24",
+  "show": "ZAO Fractal",
+  "host": "Zaal",
+  "hostHandle": "@zaal",
+  "guest": "",
+  "brands": [
+    "The ZAO"
+  ],
+  "youtubeId": "bm3oAPTwNVA",
+  "links": [
+    {
+      "label": "YouTube",
+      "url": "https://youtu.be/bm3oAPTwNVA"
+    }
+  ],
+  "summary": "Live stream of ZAO Fractal session #56 - the weekly Respect Game governance meeting of The ZAO."
+}
