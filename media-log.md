@@ -2163,3 +2163,58 @@
 - **Topics/summary:** Metaverse COC ConcertZ from 2025-03-29 - full CLEJAN set (13 songs) and Attabotty set (7 songs plus lore), archived song-by-song on The ZAO channel with a Thyrevolution highlight edit.
 - **Clip candidates:**
 
+
+---
+
+### ZAO-CHELLA countdown series (12 weekly episodes)
+
+- **Class:** produced
+- **Date:** 2025-01-15 (archived)
+- **Host/Source:** Zaal (@zaal) - ZAO Festivals
+- **Brands:** ZAO Festivals, The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2025-01-15-zao-chella-countdown/
+- **URLs:**
+  - 12 weeks out: https://youtu.be/STJ1N6EkSfc
+  - 2 weeks out: https://youtu.be/hnILhJUHs-k
+  - ZAO Festivals channel (full series): https://www.youtube.com/@zaofestivals
+- **Topics/summary:** Weekly countdown series to ZAO-CHELLA - 12 episodes (12 weeks out through 2 weeks out) on the ZAO Festivals channel. Date approximate; series dates TBC.
+- **Clip candidates:**
+
+
+---
+
+### ZAO-PALOOZA (September 2024)
+
+- **Class:** community
+- **Date:** 2024-09-04 (archived)
+- **Host/Source:** Zaal (@zaal) - ZAO Festivals
+- **Brands:** ZAO Festivals, The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2024-09-04-zao-palooza-september/
+- **URLs:**
+  - Maxwell Aden: https://youtu.be/svUqgeTUqPo
+  - GX Universe: https://youtu.be/p4w_gTGskTw
+- **Topics/summary:** ZAO-PALOOZA September 4 2024 edition - Maxwell Aden and GX Universe sets on the ZAO Festivals channel.
+- **Clip candidates:**
+
+
+---
+
+### ZAO-PALOOZA (April 2024)
+
+- **Class:** community
+- **Date:** 2024-04-03 (archived)
+- **Host/Source:** Zaal (@zaal) - ZAO Festivals
+- **Brands:** ZAO Festivals, The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2024-04-03-zao-palooza/
+- **URLs:**
+  - Attabotty: https://youtu.be/4hKFDocg4Ss
+  - Hurric4n3Ike: https://youtu.be/zOFSaRw24JM
+  - Mojo the Ghost: https://youtu.be/b0wy2Ojdbp4
+  - Christiano: https://youtu.be/7aMfabtYO1A
+  - Jango UU and Smokewavy: https://youtu.be/BDJDAQ8yTP4
+  - Nessy the Rilla: https://youtu.be/XhA4NDZWKOo
+  - Maxwell Aden: https://youtu.be/ks58ng56blI
+  - Jadyn Violet: https://youtu.be/OflM1gb5p6Y
+- **Topics/summary:** ZAO-PALOOZA, April 3 2024 - the earliest archived ZAO festival. Eight performances on the ZAO Festivals channel: Attabotty, Hurric4n3Ike, Mojo the Ghost, Christiano, Jango UU and Smokewavy, Nessy the Rilla, Maxwell Aden, Jadyn Violet.
+- **Clip candidates:**
+

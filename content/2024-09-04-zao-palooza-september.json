@@ -1,0 +1,43 @@
+{
+  "slug": "2024-09-04-zao-palooza-september",
+  "status": "archived",
+  "show": "ZAO Festivals",
+  "host": "Zaal",
+  "hostHandle": "@zaal",
+  "hostUrl": "https://farcaster.xyz/zaal",
+  "guest": "",
+  "guestOrg": "",
+  "points": [],
+  "chapters": [],
+  "hasTranscript": false,
+  "dist": {
+    "socials": false,
+    "clips": false,
+    "notes": ""
+  },
+  "class": "community",
+  "title": "ZAO-PALOOZA (September 2024)",
+  "date": "2024-09-04",
+  "brands": [
+    "ZAO Festivals",
+    "The ZAO"
+  ],
+  "youtubeId": "svUqgeTUqPo",
+  "links": [
+    {
+      "label": "Maxwell Aden",
+      "url": "https://youtu.be/svUqgeTUqPo"
+    },
+    {
+      "label": "GX Universe",
+      "url": "https://youtu.be/p4w_gTGskTw"
+    }
+  ],
+  "summary": "ZAO-PALOOZA September 4 2024 edition - Maxwell Aden and GX Universe sets on the ZAO Festivals channel.",
+  "related": [
+    {
+      "label": "ZAO Festivals channel",
+      "url": "https://www.youtube.com/@zaofestivals"
+    }
+  ]
+}

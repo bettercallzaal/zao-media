@@ -1,0 +1,42 @@
+{
+  "slug": "2025-01-15-zao-chella-countdown",
+  "status": "archived",
+  "show": "ZAO Festivals",
+  "host": "Zaal",
+  "hostHandle": "@zaal",
+  "hostUrl": "https://farcaster.xyz/zaal",
+  "guest": "",
+  "guestOrg": "",
+  "points": [],
+  "chapters": [],
+  "hasTranscript": false,
+  "dist": {
+    "socials": false,
+    "clips": false,
+    "notes": ""
+  },
+  "class": "produced",
+  "title": "ZAO-CHELLA countdown series (12 weekly episodes)",
+  "date": "2025-01-15",
+  "brands": [
+    "ZAO Festivals",
+    "The ZAO"
+  ],
+  "youtubeId": "hnILhJUHs-k",
+  "links": [
+    {
+      "label": "12 weeks out",
+      "url": "https://youtu.be/STJ1N6EkSfc"
+    },
+    {
+      "label": "2 weeks out",
+      "url": "https://youtu.be/hnILhJUHs-k"
+    },
+    {
+      "label": "ZAO Festivals channel (full series)",
+      "url": "https://www.youtube.com/@zaofestivals"
+    }
+  ],
+  "summary": "Weekly countdown series to ZAO-CHELLA - 12 episodes (12 weeks out through 2 weeks out) on the ZAO Festivals channel. Date approximate; series dates TBC.",
+  "related": []
+}
