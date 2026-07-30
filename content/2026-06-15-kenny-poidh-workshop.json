@@ -1,0 +1,29 @@
+{
+  "slug": "2026-06-15-kenny-poidh-workshop",
+  "class": "produced",
+  "title": "POIDH: the open bounty protocol",
+  "date": "2026-06-15",
+  "status": "archived",
+  "show": "ZABAL Gamez Workshops",
+  "host": "Zaal",
+  "hostHandle": "@zaal",
+  "hostUrl": "https://farcaster.xyz/zaal",
+  "guest": "Kenny @kenny",
+  "guestOrg": "POIDH",
+  "brands": [
+    "ZABAL Games",
+    "The ZAO"
+  ],
+  "youtubeId": null,
+  "links": [
+    {
+      "label": "ZABAL Games",
+      "url": "https://zabalgamez.com"
+    }
+  ],
+  "summary": "ZABAL Gamez workshop session with Kenny @kenny (POIDH).",
+  "points": [],
+  "chapters": [],
+  "related": [],
+  "hasTranscript": true
+}

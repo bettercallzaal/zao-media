@@ -15,6 +15,10 @@ Source of truth = `content/*.json` (one per media item). Run `node build.mjs` ->
 
 ## When adding media
 
+Two paths: (a) locally - steps below; (b) from the web - the "+ Add media" link on the hub opens a GitHub issue form; `.github/workflows/media-submission.yml` converts the issue into a `content/*.json` PR, and merging publishes.
+
+Produced items (own shows) use `guest`/`guestOrg` fields; earned items use `host`/`hostHandle`/`hostUrl`. Bulk imports so far: 20 BCZ YapZ episodes (from the bcz-yapz repo transcripts), 31 ZABAL Gamez Workshops sessions (from zabalgamez-all data streams).
+
 1. Add `content/<date>-<slug>.json` (copy an existing one for the schema).
 2. Earned appearance with a transcript? Put `transcript.md` in `appearances/<slug>/`.
 3. `npm run build` (or push - the Action rebuilds). Verify the generated page.

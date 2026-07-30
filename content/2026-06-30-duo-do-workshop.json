@@ -1,0 +1,29 @@
+{
+  "slug": "2026-06-30-duo-do-workshop",
+  "class": "produced",
+  "title": "ZABAL GAMEZ Workshop w/Duo Do",
+  "date": "2026-06-30",
+  "status": "archived",
+  "show": "ZABAL Gamez Workshops",
+  "host": "Zaal",
+  "hostHandle": "@zaal",
+  "hostUrl": "https://farcaster.xyz/zaal",
+  "guest": "Duo Do @duodomusica",
+  "guestOrg": "Clementine and Santiago",
+  "brands": [
+    "ZABAL Games",
+    "The ZAO"
+  ],
+  "youtubeId": null,
+  "links": [
+    {
+      "label": "ZABAL Games",
+      "url": "https://zabalgamez.com"
+    }
+  ],
+  "summary": "ZABAL Gamez workshop session with Duo Do @duodomusica (Clementine and Santiago).",
+  "points": [],
+  "chapters": [],
+  "related": [],
+  "hasTranscript": true
+}

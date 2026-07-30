@@ -1,0 +1,29 @@
+{
+  "slug": "2026-02-23-giu-pinetree",
+  "class": "produced",
+  "title": "BCZ YapZ w/GIU (Pinetree)",
+  "date": "2026-02-23",
+  "status": "archived",
+  "show": "BCZ YapZ",
+  "host": "Zaal",
+  "hostHandle": "@zaal",
+  "hostUrl": "https://farcaster.xyz/zaal",
+  "guest": "Juliano",
+  "guestOrg": "Pinetree",
+  "brands": [
+    "BCZ YapZ",
+    "The ZAO"
+  ],
+  "youtubeId": "loSOniPcJx0",
+  "links": [
+    {
+      "label": "YouTube",
+      "url": "https://youtu.be/loSOniPcJx0"
+    }
+  ],
+  "summary": "Juliano (GIU) from Pinetree on his path from Brazilian Math Olympiads to MIT AI Lab (Minsky, Winston), writing a viral GPT-2 explainer, Transcend director of engineering, and building Pinetree - an on-chain platform for video creators with creator-owned monetization and distribution.",
+  "points": [],
+  "chapters": [],
+  "related": [],
+  "hasTranscript": true
+}

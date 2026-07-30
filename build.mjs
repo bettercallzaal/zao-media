@@ -71,12 +71,16 @@ function itemPage(m) {
     : '';
   const transcript = m.hasTranscript ? `<a href="./transcript.md">Transcript</a>` : '';
   const ogImg = m.youtubeId ? `https://i.ytimg.com/vi/${m.youtubeId}/maxresdefault.jpg` : '';
+  const hostLink = m.hostUrl ? ` (<a href="${m.hostUrl}">${esc(m.hostHandle || m.host)}</a>)` : '';
+  const hostLine = m.guest
+    ? `${esc(m.show)} - hosted by ${esc(m.host || 'Zaal')}, Better Call Zaal - with ${esc(m.guest)}${m.guestOrg ? ` (${esc(m.guestOrg)})` : ''}.`
+    : `${esc(m.show)}, hosted by ${esc(m.host)}${hostLink} - with Zaal, Better Call Zaal.`;
   return `${HEAD(`${m.title} | ZM`, m.summary, ogImg)}
 <main>
   <a class="kicker" href="../../">ZM - ZAO Media</a>
   <p class="kicker">${CLASS_LABEL[m.class] || m.class} - ${esc(m.date)}</p>
   <h1>${esc(m.title)}</h1>
-  <p class="host">${esc(m.show)}, hosted by ${esc(m.host)} (<a href="${m.hostUrl}">${esc(m.hostHandle)}</a>) - with Zaal, Better Call Zaal.</p>
+  <p class="host">${hostLine}</p>
   ${embed}
   <div class="links">
     ${links}
@@ -84,9 +88,7 @@ function itemPage(m) {
   </div>
   <h2>What it covers</h2>
   <p>${esc(m.summary)}</p>
-  <ul>
-    ${points}
-  </ul>
+  ${points ? `<ul>\n    ${points}\n  </ul>` : ''}
   ${m.quote ? `<div class="quote">"${esc(m.quote)}" - ${esc(m.quoteBy || 'Zaal')}</div>` : ''}
   ${chapters}
   ${related}
@@ -96,24 +98,31 @@ function itemPage(m) {
 }
 
 function hubPage(items) {
-  const cards = items
-    .map(
-      (m) => `  <a class="card" href="./appearances/${m.slug}/">
-    <span class="cls">${CLASS_LABEL[m.class] || m.class}</span>
+  const card = (m) => `  <a class="card" href="./appearances/${m.slug}/">
+    <span class="cls">${CLASS_LABEL[m.class] || m.class}${m.show ? ' - ' + esc(m.show) : ''}</span>
     <h3>${esc(m.title)}</h3>
-    <p class="meta">${esc(m.show ? m.show + ' - ' : '')}${esc(m.date)}. ${esc(m.summary)}</p>
-  </a>`,
-    )
-    .join('\n');
+    <p class="meta">${esc(m.date)}. ${esc(m.summary).slice(0, 220)}</p>
+  </a>`;
+  // earned first (credibility), then everything else grouped by show, newest first within groups
+  const earned = items.filter((m) => m.class === 'earned');
+  const rest = items.filter((m) => m.class !== 'earned');
+  const shows = [...new Set(rest.map((m) => m.show || 'Other'))];
+  const sections = [
+    earned.length ? `  <h2>Earned - appearances (${earned.length})</h2>\n${earned.map(card).join('\n')}` : '',
+    ...shows.map((s) => {
+      const eps = rest.filter((m) => (m.show || 'Other') === s);
+      return `  <h2>${esc(s)} (${eps.length})</h2>\n${eps.map(card).join('\n')}`;
+    }),
+  ].filter(Boolean).join('\n');
   return `${HEAD('ZM - ZAO Media', 'The media home for The ZAO - podcasts, shows, Spaces, streams, and earned-media appearances. Logged once, shared everywhere.', '')}
 <header>
   <p class="kicker">ZM - ZAO Media - ZAO Morning</p>
   <h1>The media home for The ZAO.</h1>
   <p class="lead">Everything the ZAO produces or appears in - podcasts, shows, Spaces, streams, and earned-media appearances. One place, logged once, shared everywhere. Every morning is a ZAO Media moment.</p>
+  <p class="lead" style="margin-top:10px"><a href="https://github.com/bettercallzaal/zao-media/issues/new?template=add-media.yml">+ Add media to ZM</a> - anyone can submit an appearance, stream, or show.</p>
 </header>
 <main>
-  <h2>Latest</h2>
-${cards}
+${sections}
   <h2>What ZM covers</h2>
   <div class="taxo">
     <div><strong>Earned</strong> - podcast guest spots, features, press</div>
@@ -135,7 +144,7 @@ function mediaLog(items) {
 
 - **Class:** ${m.class}
 - **Date:** ${m.date} (${m.status})
-- **Host/Source:** ${m.host} (${m.hostHandle}) - ${m.show} (${m.showHandle || ''})
+- **Host/Source:** ${m.guest ? `${m.show} - Zaal with ${m.guest}${m.guestOrg ? ` (${m.guestOrg})` : ''}` : `${m.host}${m.hostHandle ? ` (${m.hostHandle})` : ''} - ${m.show}${m.showHandle ? ` (${m.showHandle})` : ''}`}
 - **Brands:** ${(m.brands || []).join(', ')}
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/${m.slug}/
 - **URLs:**

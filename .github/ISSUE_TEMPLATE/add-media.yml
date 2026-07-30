@@ -1,0 +1,70 @@
+name: Add media to ZM
+description: Log a podcast appearance, stream, show, or community media item. A bot turns this into a page on the ZM site.
+title: "[media] "
+labels: [media-submission]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Fill what you know - only title, class, and date are required. A maintainer merges the generated entry and the site rebuilds automatically.
+  - type: input
+    id: title
+    attributes:
+      label: Title
+      placeholder: "BCZ YapZ w/Kenny (POIDH)"
+    validations:
+      required: true
+  - type: dropdown
+    id: class
+    attributes:
+      label: Class
+      options:
+        - earned (guest spot on someone else's show)
+        - live (Space or stream)
+        - produced (a ZAO show or session)
+        - community (member media)
+    validations:
+      required: true
+  - type: input
+    id: date
+    attributes:
+      label: Date (YYYY-MM-DD)
+      placeholder: "2026-07-30"
+    validations:
+      required: true
+  - type: input
+    id: show
+    attributes:
+      label: Show or source name
+      placeholder: "Just DAO It"
+  - type: input
+    id: host
+    attributes:
+      label: Host (who runs the show)
+      placeholder: "Adam Miller (@0xthriller)"
+  - type: input
+    id: guest
+    attributes:
+      label: Guest (if a ZAO show with a guest)
+      placeholder: "Kenny (POIDH)"
+  - type: input
+    id: youtube
+    attributes:
+      label: YouTube URL
+      placeholder: "https://youtu.be/..."
+  - type: textarea
+    id: links
+    attributes:
+      label: Other links (one per line, "Label: URL")
+      placeholder: |
+        Listen (audio): https://...
+        Host announce: https://x.com/...
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary (what it covers, why it matters)
+  - type: input
+    id: brands
+    attributes:
+      label: Brands touched (comma-separated)
+      placeholder: "The ZAO, WaveWarZ, ZAOstock"

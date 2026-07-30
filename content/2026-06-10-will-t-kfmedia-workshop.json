@@ -1,0 +1,29 @@
+{
+  "slug": "2026-06-10-will-t-kfmedia-workshop",
+  "class": "produced",
+  "title": "Building KFMEDIA",
+  "date": "2026-06-10",
+  "status": "archived",
+  "show": "ZABAL Gamez Workshops",
+  "host": "Zaal",
+  "hostHandle": "@zaal",
+  "hostUrl": "https://farcaster.xyz/zaal",
+  "guest": "Will T of Web3 @willtofweb3",
+  "guestOrg": "Kingfishers Media",
+  "brands": [
+    "ZABAL Games",
+    "The ZAO"
+  ],
+  "youtubeId": null,
+  "links": [
+    {
+      "label": "ZABAL Games",
+      "url": "https://zabalgamez.com"
+    }
+  ],
+  "summary": "ZABAL Gamez workshop session with Will T of Web3 @willtofweb3 (Kingfishers Media).",
+  "points": [],
+  "chapters": [],
+  "related": [],
+  "hasTranscript": true
+}

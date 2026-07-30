@@ -1,0 +1,29 @@
+{
+  "slug": "2026-06-28-matt-lee-tortoise-workshop",
+  "class": "produced",
+  "title": "ZABAL GAMEZ Workshop w/Matt Lee from Tortoise",
+  "date": "2026-06-28",
+  "status": "archived",
+  "show": "ZABAL Gamez Workshops",
+  "host": "Zaal",
+  "hostHandle": "@zaal",
+  "hostUrl": "https://farcaster.xyz/zaal",
+  "guest": "Matt Lee @mattlee",
+  "guestOrg": "Tortoise",
+  "brands": [
+    "ZABAL Games",
+    "The ZAO"
+  ],
+  "youtubeId": null,
+  "links": [
+    {
+      "label": "ZABAL Games",
+      "url": "https://zabalgamez.com"
+    }
+  ],
+  "summary": "ZABAL Gamez workshop session with Matt Lee @mattlee (Tortoise).",
+  "points": [],
+  "chapters": [],
+  "related": [],
+  "hasTranscript": true
+}

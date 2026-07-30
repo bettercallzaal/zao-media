@@ -1,0 +1,29 @@
+{
+  "slug": "2026-05-12-eriks-jonathan-fotocaster",
+  "class": "produced",
+  "title": "BCZ YapZ w/Erik and Jonathan (Fotocaster)",
+  "date": "2026-05-12",
+  "status": "archived",
+  "show": "BCZ YapZ",
+  "host": "Zaal",
+  "hostHandle": "@zaal",
+  "hostUrl": "https://farcaster.xyz/zaal",
+  "guest": "Erik and Jonathan",
+  "guestOrg": "Fotocaster",
+  "brands": [
+    "BCZ YapZ",
+    "The ZAO"
+  ],
+  "youtubeId": "58_kbRsXvf4",
+  "links": [
+    {
+      "label": "YouTube",
+      "url": "https://www.youtube.com/watch?v=58_kbRsXvf4"
+    }
+  ],
+  "summary": "Zaal sits with Erik and Jonathan (JC), the two builders behind Fotocaster, a Farcaster mini app for putting photography on chain. Both came to Farcaster as photographers - Erik as a nomadic investor who picked up a camera, JC as a working photographer and former co-host of I Took A Photo. They walk through why they built Fotocaster: frustration with high take rates and low ownership on existing NFT apps, and a thesis that putting something on chain should be separated from selling it - not everything needs to be a marketplace, some things are just collected. The app gives creators full control over editions, pricing, and titling, with artists keeping 99% and 1% routed back to fund free on-chain deployment. Two weeks post-launch: 371 creators, 787 collectors, 4,000 photos collected. Open questions discussed on air: moving storage from IPFS to Arweave, and how to make the public-good model self-sustaining long term.",
+  "points": [],
+  "chapters": [],
+  "related": [],
+  "hasTranscript": true
+}

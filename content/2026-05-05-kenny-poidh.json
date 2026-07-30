@@ -1,0 +1,29 @@
+{
+  "slug": "2026-05-05-kenny-poidh",
+  "class": "produced",
+  "title": "BCZ YapZ w/Kenny (POIDH)",
+  "date": "2026-05-06",
+  "status": "archived",
+  "show": "BCZ YapZ",
+  "host": "Zaal",
+  "hostHandle": "@zaal",
+  "hostUrl": "https://farcaster.xyz/zaal",
+  "guest": "Kenny",
+  "guestOrg": "POIDH",
+  "brands": [
+    "BCZ YapZ",
+    "The ZAO"
+  ],
+  "youtubeId": "IFG_34K7Vig",
+  "links": [
+    {
+      "label": "YouTube",
+      "url": "https://www.youtube.com/watch?v=IFG_34K7Vig"
+    }
+  ],
+  "summary": "Zaal sits with Kenny (founder of POIDH - Picture or It Didn't Happen), introduced via Maceo on the Let's Talk About Eth podcast. Kenny walks through the origin of POIDH from healthcare-coordination + Seattle-trash ideation, why permissionless + laser-specific bounties are the wedge crypto unlocks that traditional org structures can't, and how SMART goals (Specific, Measurable, Achievable, Relevant, Time-bound) map onto bounty writing. Demo of the May best-bounty meta-bounty + Zaal's BCZ YapZ ep 17 clipping bounty with 11 submissions from 11 creators. Conversation closes on cosmo-localism - using internet tools to pull global resources into rural Maine - and the AI-agent opportunity to lower bounty-writing friction natively inside the POIDH UX.",
+  "points": [],
+  "chapters": [],
+  "related": [],
+  "hasTranscript": true
+}

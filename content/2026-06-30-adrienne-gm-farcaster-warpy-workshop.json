@@ -1,0 +1,29 @@
+{
+  "slug": "2026-06-30-adrienne-gm-farcaster-warpy-workshop",
+  "class": "produced",
+  "title": "ZABAL GAMEZ Workshop w/Adrienne from GM Farcaster",
+  "date": "2026-06-30",
+  "status": "archived",
+  "show": "ZABAL Gamez Workshops",
+  "host": "Zaal",
+  "hostHandle": "@zaal",
+  "hostUrl": "https://farcaster.xyz/zaal",
+  "guest": "Adrienne Shulman @adrienne",
+  "guestOrg": "GM Farcaster",
+  "brands": [
+    "ZABAL Games",
+    "The ZAO"
+  ],
+  "youtubeId": null,
+  "links": [
+    {
+      "label": "ZABAL Games",
+      "url": "https://zabalgamez.com"
+    }
+  ],
+  "summary": "ZABAL Gamez workshop session with Adrienne Shulman @adrienne (GM Farcaster).",
+  "points": [],
+  "chapters": [],
+  "related": [],
+  "hasTranscript": true
+}

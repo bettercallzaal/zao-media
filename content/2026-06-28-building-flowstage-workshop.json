@@ -1,0 +1,29 @@
+{
+  "slug": "2026-06-28-building-flowstage-workshop",
+  "class": "produced",
+  "title": "ZABAL GAMEZ Workshop w/AZKAL from FlowStage",
+  "date": "2026-06-28",
+  "status": "archived",
+  "show": "ZABAL Gamez Workshops",
+  "host": "Zaal",
+  "hostHandle": "@zaal",
+  "hostUrl": "https://farcaster.xyz/zaal",
+  "guest": "AZKAL",
+  "guestOrg": "FlowStage",
+  "brands": [
+    "ZABAL Games",
+    "The ZAO"
+  ],
+  "youtubeId": null,
+  "links": [
+    {
+      "label": "ZABAL Games",
+      "url": "https://zabalgamez.com"
+    }
+  ],
+  "summary": "ZABAL Gamez workshop session with AZKAL (FlowStage).",
+  "points": [],
+  "chapters": [],
+  "related": [],
+  "hasTranscript": true
+}

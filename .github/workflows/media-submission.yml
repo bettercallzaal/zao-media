@@ -1,0 +1,85 @@
+name: Media submission to PR
+
+# When someone files an "Add media" issue (label media-submission), parse the
+# form and open a PR adding content/<date>-<slug>.json. Merging the PR triggers
+# the build workflow, which regenerates and publishes the site.
+on:
+  issues:
+    types: [opened, edited]
+
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+
+jobs:
+  convert:
+    if: contains(github.event.issue.labels.*.name, 'media-submission')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Parse issue and write content JSON
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const issue = context.payload.issue;
+            // Issue Forms render as "### Label\n\nvalue" blocks.
+            const fields = {};
+            for (const m of issue.body.matchAll(/### ([^\n]+)\n+([\s\S]*?)(?=\n### |$)/g)) {
+              fields[m[1].trim()] = m[2].trim() === '_No response_' ? '' : m[2].trim();
+            }
+            const get = (k) => fields[k] || '';
+            const title = get('Title');
+            const date = (get('Date (YYYY-MM-DD)').match(/\d{4}-\d{2}-\d{2}/) || [''])[0];
+            if (!title || !date) {
+              await github.rest.issues.createComment({ ...context.repo, issue_number: issue.number,
+                body: 'Could not parse title or date - edit the issue so Title and Date (YYYY-MM-DD) are filled.' });
+              return;
+            }
+            const cls = (get('Class').split(' ')[0] || 'earned').toLowerCase();
+            const yt = get('YouTube URL');
+            const ytId = (yt.match(/(?:youtu\.be\/|v=)([\w-]{6,})/) || [])[1] || null;
+            const links = [];
+            if (yt) links.push({ label: 'YouTube', url: yt });
+            for (const line of get('Other links (one per line, "Label: URL")').split('\n')) {
+              const i = line.indexOf(': ');
+              if (i > 0 && line.slice(i + 2).startsWith('http')) links.push({ label: line.slice(0, i).trim(), url: line.slice(i + 2).trim() });
+            }
+            const slugBase = title.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '').slice(0, 60);
+            const slug = `${date}-${slugBase}`;
+            const hostRaw = get('Host (who runs the show)');
+            const handle = (hostRaw.match(/@[\w.]+/) || [''])[0];
+            const item = {
+              slug, class: cls, title, date, status: 'archived',
+              show: get('Show or source name'),
+              host: hostRaw.replace(/\s*\(?@[\w.]+\)?/, '').trim() || 'Zaal',
+              hostHandle: handle || '@zaal',
+              hostUrl: '',
+              guest: get('Guest (if a ZAO show with a guest)'),
+              guestOrg: '',
+              brands: get('Brands touched (comma-separated)').split(',').map(s => s.trim()).filter(Boolean),
+              youtubeId: ytId, links,
+              summary: get('Summary (what it covers, why it matters)') || title,
+              points: [], chapters: [], related: [], hasTranscript: false,
+            };
+            const fs = require('fs');
+            fs.mkdirSync('content', { recursive: true });
+            fs.writeFileSync(`content/${slug}.json`, JSON.stringify(item, null, 2) + '\n');
+            fs.writeFileSync('/tmp/slug.txt', slug);
+            core.exportVariable('MEDIA_SLUG', slug);
+            core.exportVariable('ISSUE_NUM', String(issue.number));
+      - name: Open PR
+        run: |
+          if [ ! -f "content/${MEDIA_SLUG}.json" ]; then echo "no file written"; exit 0; fi
+          git config user.name "Zaal Panthaki"
+          git config user.email "zaalp99@gmail.com"
+          BRANCH="media/${MEDIA_SLUG}"
+          git checkout -B "$BRANCH"
+          git add "content/${MEDIA_SLUG}.json"
+          git commit -m "feat(content): add ${MEDIA_SLUG} from issue #${ISSUE_NUM}"
+          git push -f origin "$BRANCH"
+          gh pr create --title "Add media: ${MEDIA_SLUG}" \
+            --body "From issue #${ISSUE_NUM}. Merging publishes the page automatically. Closes #${ISSUE_NUM}." \
+            --base main --head "$BRANCH" || echo "PR may already exist"
+        env:
+          GH_TOKEN: ${{ github.token }}

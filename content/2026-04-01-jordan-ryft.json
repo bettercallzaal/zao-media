@@ -1,0 +1,29 @@
+{
+  "slug": "2026-04-01-jordan-ryft",
+  "class": "produced",
+  "title": "BCZ YapZ w/Jordan (Ryft)",
+  "date": "2026-04-01",
+  "status": "archived",
+  "show": "BCZ YapZ",
+  "host": "Zaal",
+  "hostHandle": "@zaal",
+  "hostUrl": "https://farcaster.xyz/zaal",
+  "guest": "Jordan",
+  "guestOrg": "Ryft",
+  "brands": [
+    "BCZ YapZ",
+    "The ZAO"
+  ],
+  "youtubeId": "IbhHxFR4yxE",
+  "links": [
+    {
+      "label": "YouTube",
+      "url": "https://youtu.be/IbhHxFR4yxE"
+    }
+  ],
+  "summary": "This conversation dives deep into the evolution of building in Web3-from early crypto experiences and NFT markets to the emerging reality of agent-driven systems and mechanism design. Zaal sits down with Jordan (JK Charters) to unpack lessons from past cycles, including the rise of meme coins, NFT liquidity challenges, and the breakdown of long-term holding behavior.",
+  "points": [],
+  "chapters": [],
+  "related": [],
+  "hasTranscript": true
+}

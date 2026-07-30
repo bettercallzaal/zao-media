@@ -1,0 +1,29 @@
+{
+  "slug": "2026-04-21-hannah-farmdrop",
+  "class": "produced",
+  "title": "BCZ YapZ w/Hannah (Farm Drop)",
+  "date": "2026-04-21",
+  "status": "archived",
+  "show": "BCZ YapZ",
+  "host": "Zaal",
+  "hostHandle": "@zaal",
+  "hostUrl": "https://farcaster.xyz/zaal",
+  "guest": "Hannah",
+  "guestOrg": "Farm Drop",
+  "brands": [
+    "BCZ YapZ",
+    "The ZAO"
+  ],
+  "youtubeId": "hw-6IHaziV0",
+  "links": [
+    {
+      "label": "YouTube",
+      "url": "https://youtu.be/hw-6IHaziV0"
+    }
+  ],
+  "summary": "Hannah of Farm Drop on building a volunteer-driven local food network across Downeast Maine since 2011, the Food for Health mutual-aid program, and an upcoming slate of community solution events.",
+  "points": [],
+  "chapters": [],
+  "related": [],
+  "hasTranscript": true
+}

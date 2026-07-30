@@ -1,0 +1,29 @@
+{
+  "slug": "2026-04-21-dish-clanker",
+  "class": "produced",
+  "title": "BCZ YapZ w/Dish (Clanker)",
+  "date": "2026-04-21",
+  "status": "archived",
+  "show": "BCZ YapZ",
+  "host": "Zaal",
+  "hostHandle": "@zaal",
+  "hostUrl": "https://farcaster.xyz/zaal",
+  "guest": "Jack Dishman",
+  "guestOrg": "Clanker",
+  "brands": [
+    "BCZ YapZ",
+    "The ZAO"
+  ],
+  "youtubeId": "gHbktZC6HbA",
+  "links": [
+    {
+      "label": "YouTube",
+      "url": "https://youtu.be/gHbktZC6HbA"
+    }
+  ],
+  "summary": "Jack Dishman (Dish) on building Clanker - the Farcaster-native ERC20 token launcher - how an in-feed AI agent became a launchpad, the evolution from chat-bot to flagship + alt-clients, and why in-feed experiences win.",
+  "points": [],
+  "chapters": [],
+  "related": [],
+  "hasTranscript": true
+}

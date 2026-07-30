@@ -1,0 +1,29 @@
+{
+  "slug": "2026-03-18-saltorious-among-traitors",
+  "class": "produced",
+  "title": "BCZ YapZ w/Saltorious.eth (Among Traitors)",
+  "date": "2026-03-18",
+  "status": "archived",
+  "show": "BCZ YapZ",
+  "host": "Zaal",
+  "hostHandle": "@zaal",
+  "hostUrl": "https://farcaster.xyz/zaal",
+  "guest": "Saltorious.eth",
+  "guestOrg": "Among Traitors",
+  "brands": [
+    "BCZ YapZ",
+    "The ZAO"
+  ],
+  "youtubeId": "0Tevgpr5TUQ",
+  "links": [
+    {
+      "label": "YouTube",
+      "url": "https://youtu.be/0Tevgpr5TUQ"
+    }
+  ],
+  "summary": "In Episode 12 of BCZ YapZ, Zaal sits down with Saltorious.eth, a builder in the Farcaster ecosystem and creator of Among Traders, an AI agent-powered social deduction game. They break down Saltorious’s path from traditional finance into crypto, his experience building across DeFi and Web3 gaming, and why Farcaster has become one of the most powerful environments for builders today. The conversation explores how distribution, identity, and embedded wallets are reshaping product development.",
+  "points": [],
+  "chapters": [],
+  "related": [],
+  "hasTranscript": true
+}
