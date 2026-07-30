@@ -610,6 +610,22 @@
 
 ---
 
+### Building Sopha, and why curation is needed
+
+- **Class:** produced
+- **Date:** 2026-06-08 (archived)
+- **Host/Source:** ZABAL Gamez Workshops - Zaal with Chris (chriscocreated) (Sopha)
+- **Brands:** ZABAL Games, The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-08-sopha-chris-building-curation-workshop/
+- **URLs:**
+  - YouTube: https://youtu.be/Z9yAFxUVW-g
+  - ZABAL Games: https://zabalgamez.com
+- **Topics/summary:** A ZABAL Gamez workshop. Timestamped transcript (filler lightly trimmed; brand names
+- **Clip candidates:**
+
+
+---
+
 ### ZABAL Gamez Fireside - Bonfires + a vibe-coding masterclass (Carlos / Plat0x x Zaal)
 
 - **Class:** produced
@@ -681,6 +697,22 @@
 - **URLs:**
   - GM Farcaster: https://www.youtube.com/@gmfarcaster
 - **Topics/summary:** Farcaster Batches Day 2 - Founder Check workshop, hosted by GM Farcaster - ZAO ecosystem builders featured: Jonathan Colton (Founder Check / Fotocaster), Kenny (POIDH). Transcript captured for the ZABAL data streams.
+- **Clip candidates:**
+
+
+---
+
+### ZAO Fractal Weekly Introduction Presentation
+
+- **Class:** produced
+- **Date:** 2026-06-01 (archived)
+- **Host/Source:** ZABAL Gamez Workshops - Zaal with Zaal (The ZAO)
+- **Brands:** ZABAL Games, The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-01-zao-fractal-zaal-workshop/
+- **URLs:**
+  - YouTube: https://youtu.be/N6tgsuBOXBU
+  - ZABAL Games: https://zabalgamez.com
+- **Topics/summary:** A ZABAL Gamez workshop. Zaal's weekly introduction to the ZAO Fractal, given before the
 - **Clip candidates:**
 
 
@@ -1799,37 +1831,5 @@
   - Pods.media archive: https://pods.media/lets-talk-about-web3/
   - Spotify: https://open.spotify.com/show/1Bk6bsMYciOMyJohMVZUgt
 - **Topics/summary:** Weekly co-hosted live web3 show (Zaal, Ohnahji B, EZinCrypto), streamed live on Twitch. Runtime 27:37. Three seasons of this show became Let's Talk About Ethereum.
-- **Clip candidates:**
-
-
----
-
-### 2026-06-08-sopha-chris-building-curation-workshop
-
-- **Class:** produced
-- **Date:**  (archived)
-- **Host/Source:** Zaal (@zaal) - ZABAL Gamez Workshops
-- **Brands:** ZABAL Games, The ZAO
-- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-08-sopha-chris-building-curation-workshop/
-- **URLs:**
-  - YouTube: https://youtu.be/Z9yAFxUVW-g
-  - ZABAL Games: https://zabalgamez.com
-- **Topics/summary:** A ZABAL Gamez workshop. Timestamped transcript (filler lightly trimmed; brand names
-- **Clip candidates:**
-
-
----
-
-### 2026-06-01-zao-fractal-zaal-workshop
-
-- **Class:** produced
-- **Date:**  (archived)
-- **Host/Source:** Zaal (@zaal) - ZABAL Gamez Workshops
-- **Brands:** ZABAL Games, The ZAO
-- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-01-zao-fractal-zaal-workshop/
-- **URLs:**
-  - YouTube: https://youtu.be/N6tgsuBOXBU
-  - ZABAL Games: https://zabalgamez.com
-- **Topics/summary:** A ZABAL Gamez workshop. Zaal's weekly introduction to the ZAO Fractal, given before the
 - **Clip candidates:**
 
