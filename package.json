@@ -1,0 +1,11 @@
+{
+  "name": "zao-media",
+  "version": "0.1.0",
+  "private": true,
+  "description": "ZM - the media home for The ZAO. Log once (content/*.json), generate outward.",
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs"
+  },
+  "license": "MIT"
+}

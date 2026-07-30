@@ -1,0 +1,41 @@
+{
+  "slug": "2026-07-30-just-dao-it",
+  "class": "earned",
+  "title": "Preventing DAO Governance Attacks + Building a Music DAO and AI Agent Legal Entities",
+  "date": "2026-07-30",
+  "status": "live",
+  "host": "Adam Miller",
+  "hostHandle": "@0xthriller",
+  "hostUrl": "https://x.com/0xthriller",
+  "show": "Just DAO It",
+  "showHandle": "@JustDAOItPod",
+  "brands": ["The ZAO", "WaveWarZ", "ZAOstock", "ZOL bot"],
+  "youtubeId": "rTQ7nYdh0YI",
+  "links": [
+    { "label": "YouTube", "url": "https://youtu.be/rTQ7nYdh0YI" },
+    { "label": "Listen (audio)", "url": "https://justdaoit.transistor.fm/episodes/just-dao-it-with-zaal" },
+    { "label": "Host announce", "url": "https://x.com/JustDAOItPod/status/2081879495259431030" }
+  ],
+  "summary": "The through-line: low-turnout governance is a security hole, and The ZAO is designed to close it.",
+  "points": [
+    "The BonqDAO apathy attack - an attacker spent $4.4M buying the token and passed a proposal draining $20M from the treasury, on 2.9% turnout. No hack; the governance did exactly what it was built to do.",
+    "The ZAO's defense - the Respect token is illiquid (can't be bought or sold anywhere) and soulbound (once earned, it stays in your wallet). So $4.4M can't buy ZAO governance. Plus a seven-day yes/no vote and a veto-only period after.",
+    "ENS security council, Cardano and Solana governance updates, MetaDAO futarchy, the CLARITY Act.",
+    "AI-agent legal entities - Marshall Islands, Delaware, Bermuda, and the plan for a community-weighted AI agent (ZOL bot) that manages funds via a legal entity (MIDAO).",
+    "WaveWarZ - live-traded music battles that pay artists every trade. And ZAOstock, the Maine festival."
+  ],
+  "quote": "The ZAO Respect token is an illiquid and soulbound token. So even if someone did have $4.4 million, they wouldn't actually be able to buy our governance.",
+  "quoteBy": "Zaal",
+  "chapters": [
+    { "t": "19:47", "s": 1187, "label": "Zaal origin story - why blockchain matters" },
+    { "t": "23:43", "s": 1423, "label": "Inside the ZAO Respect system - governance you earn, not buy" },
+    { "t": "31:46", "s": 1906, "label": "WaveWarZ - live-traded music, artists paid every trade" },
+    { "t": "37:06", "s": 2226, "label": "AI-agent legal-entity plans - ZOL bot + MIDAO" }
+  ],
+  "related": [
+    { "label": "WaveWarZ - live-traded music battles", "url": "https://wavewarz.com" },
+    { "label": "MIDAO AI-agent incorporation guide", "url": "https://midao.org/guides" },
+    { "label": "The ZAO", "url": "https://thezao.com" }
+  ],
+  "hasTranscript": true
+}

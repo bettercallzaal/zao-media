@@ -2,7 +2,7 @@
 
 The media home for The ZAO. One place for everything the ZAO produces or appears in - podcasts, shows, Spaces, streams, and earned-media appearances - logged once and shared everywhere.
 
-> ZM = ZAO Media. (Note: "ZM" is also the ZAO's daily social greeting, "ZAO Morning" - the media-brand name is still being finalized; this repo is the home regardless of the final name.)
+> **ZM = ZAO Media = ZAO Morning.** The daily "ZM" greeting across the ZAO IS a ZAO Media moment - the double meaning is intentional. Every morning is a ZAO Media touchpoint.
 
 ## What this is
 
@@ -15,17 +15,25 @@ Not a directory of links (that's the [Nexus](https://bettercallzaal.com/nexus.ht
 
 ## The one rule: log once, generate outward
 
-Everything starts in [`media-log.md`](./media-log.md) - the source of truth. Downstream surfaces (a public media page, the ZABAL Gamez hub, social posts, clips) are generated FROM the log, never hand-maintained in parallel. Same model as the ZAO's ICM boxes: the source is upstream, everything else is derived.
+The source of truth is `content/*.json` - one file per media item. Run `node build.mjs` (or `npm run build`) and it GENERATES the whole site: the hub (`index.html`), each item page (`appearances/<slug>/index.html`), and `media-log.md`. A GitHub Action rebuilds automatically on any `content/*.json` change and pushes the result, so **adding one JSON file publishes a new media item.** Downstream surfaces (the ZABAL Games hub, socials, clips) derive from the same source. Same model as the ZAO's ICM boxes: one source upstream, everything else generated.
+
+### Add a media item
+
+1. Drop a `content/<date>-<slug>.json` (copy an existing one for the schema).
+2. Earned appearance with a transcript? Put `transcript.md` in `appearances/<slug>/`.
+3. `npm run build` (or just push - the Action does it). Done - hub + page + log update.
 
 ## Structure
 
 ```
-media-log.md                    the source of truth (newest first)
-docs/system-design.md           how ZM works + the roadmap
-docs/brand-kit.md               the brand-building playbook (voice, spellings, generate-outward)
-appearances/<date>-<slug>/      one folder per earned-media appearance
-    README.md                   the entry (summary, links, clip candidates)
-    transcript.md               the transcript / notes
+content/<date>-<slug>.json       the source of truth (one per media item)
+build.mjs                        the generator (no deps) - content -> site
+index.html                       GENERATED hub
+media-log.md                     GENERATED human-readable log
+appearances/<slug>/index.html    GENERATED item page
+appearances/<slug>/transcript.md hand-added transcript / notes
+docs/system-design.md            how ZM works + the roadmap
+docs/brand-kit.md                the brand-building playbook (voice, spellings)
 ```
 
 ## Canonical spellings (never autocorrect)

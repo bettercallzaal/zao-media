@@ -1,0 +1,38 @@
+name: Build ZM site
+
+# Rebuild the site whenever the SOURCE changes (content/*.json or the generator).
+# The generated files (index.html, appearances/**, media-log.md) are NOT in the
+# trigger paths, so committing them back never re-triggers this workflow - no loop.
+# Pages serves the branch directly, so the site never depends on this job succeeding.
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'content/**'
+      - 'build.mjs'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Generate the site from content/*.json
+        run: node build.mjs
+      - name: Commit the regenerated site (if changed)
+        run: |
+          git config user.name "Zaal Panthaki"
+          git config user.email "zaalp99@gmail.com"
+          if [ -n "$(git status --porcelain)" ]; then
+            git add -A
+            git commit -m "chore(build): regenerate ZM site from content [skip ci]"
+            git push
+          else
+            echo "No changes - site already up to date."
+          fi

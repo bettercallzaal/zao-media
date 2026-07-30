@@ -4,7 +4,7 @@ The media home for The ZAO: podcasts, shows, Spaces, streams, and earned-media a
 
 ## The one rule
 
-Log once in `media-log.md` (source of truth), generate everything else FROM it (page, socials, clips, the ZABAL Gamez hub). Never hand-maintain parallel copies. Same model as the ZAO ICM boxes.
+Source of truth = `content/*.json` (one per media item). Run `node build.mjs` -> it generates the hub (index.html), each `appearances/<slug>/index.html`, and media-log.md. NEVER hand-edit the generated files - edit the JSON and rebuild. A GitHub Action rebuilds on any content/*.json push. ZM = ZAO Media = ZAO Morning (the daily greeting is the media touchpoint - intentional).
 
 ## Structure
 
@@ -15,10 +15,11 @@ Log once in `media-log.md` (source of truth), generate everything else FROM it (
 
 ## When adding media
 
-1. Add the entry to `media-log.md` (schema at the top of that file).
-2. Earned appearance? Also make `appearances/<date>-<slug>/` with a README + transcript.
-3. Draft socials (ZAOOS `/socials` skill) + mark clip candidates for zaalclip.
-4. Ground on the relevant ICM box first for any brand copy (`docs/brand-kit.md`).
+1. Add `content/<date>-<slug>.json` (copy an existing one for the schema).
+2. Earned appearance with a transcript? Put `transcript.md` in `appearances/<slug>/`.
+3. `npm run build` (or push - the Action rebuilds). Verify the generated page.
+4. Draft socials (ZAOOS `/socials` skill) linking the ZM PAGE (not raw platform) + mark clip candidates.
+5. Ground on the relevant ICM box first for any brand copy (`docs/brand-kit.md`).
 
 ## Canonical spellings (never autocorrect)
 
