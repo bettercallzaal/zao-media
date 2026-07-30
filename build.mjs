@@ -122,6 +122,8 @@ function hubPage(items) {
   <p class="lead" style="margin-top:10px"><a href="https://github.com/bettercallzaal/zao-media/issues/new?template=add-media.yml">+ Add media to ZM</a> - anyone can submit an appearance, stream, or show.</p>
 </header>
 <main>
+  <input id="q" type="search" placeholder="Search ${items.length} media items - title, guest, show, topic..." aria-label="Search media"
+    style="width:100%;padding:12px 16px;border-radius:10px;border:1px solid rgba(224,221,170,.25);background:var(--navy2);color:var(--ink);font-size:1rem;margin:6px 0 4px">
 ${sections}
   <h2>What ZM covers</h2>
   <div class="taxo">
@@ -132,6 +134,18 @@ ${sections}
   </div>
 </main>
 <footer>ZM - the media home for <a href="https://thezao.com">The ZAO</a>. Built in the open - <a href="https://github.com/bettercallzaal/zao-media">github.com/bettercallzaal/zao-media</a>.</footer>
+<script>
+  const q = document.getElementById('q');
+  q.addEventListener('input', () => {
+    const t = q.value.toLowerCase();
+    document.querySelectorAll('.card').forEach((c) => { c.style.display = c.textContent.toLowerCase().includes(t) ? '' : 'none'; });
+    document.querySelectorAll('main h2').forEach((h) => {
+      let el = h.nextElementSibling, any = false;
+      while (el && el.classList && el.classList.contains('card')) { if (el.style.display !== 'none') any = true; el = el.nextElementSibling; }
+      if (h.textContent.includes('(')) h.style.display = any || !t ? '' : 'none';
+    });
+  });
+</script>
 </body></html>`;
 }
 

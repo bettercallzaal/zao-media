@@ -8,8 +8,10 @@ Research snapshot 2026-07-30, compiled from ZAOOS docs 2135 (channel inventory),
 - 20 BCZ YapZ episodes (2025-08-22 to 2026-05-12), all on YouTube, transcripts in ZM
 - 31 ZABAL Gamez Workshops sessions (June 2026), transcripts in ZM; 28 with YouTube IDs backfilled from zabalgames-work recaps.json (Nemesis, Bonfire fireside Carlos, Eden Fractal pt1 still missing video)
 - 19 Let's Talk About Web3 episodes (Apr-Sep 2025) - Zaal CO-HOSTED weekly with Ohnahji B and EZinCrypto, archive at pods.media/lets-talk-about-web3 + Spotify show 1Bk6bsMYciOMyJohMVZUgt. Guests across the run: Will T, DuoDoMusica, Pichi, HURRIC4N3IKE, GESD1.
+- Crypto Magic Hour Ep. 50 (2026-03-03, earned) - found it: youtu.be/rx0PeGv8lPI, host VeVeMagic. The Tier 1 press source from doc 1340 is now logged.
+- 12 WaveWarZ artist interviews (Aug 2025 - Apr 2026): Chief Jaelyn, DopeStilo, iamLui, Preshzino, Aporkalypse, one7one8, CryptoB, K1DDV3NOM, goosepark, aaaa7777iui, XTinct, Kata7yst.
 
-Total: 71 items.
+Total: 84 items. Full raw channel listings in docs/youtube-catalog.md: @bettercallzaal 48 videos + 145 streams, @wavewarz 41 videos + 142 streams + 248 shorts (431 total - far bigger than docs 2135/2136 knew).
 
 ## Import backlog (known media NOT yet in ZM)
 
@@ -25,9 +27,9 @@ Total: 71 items.
 | Farcaster Batches sessions | 4 transcripts (June 2026) | zabalgamez-all/data/streams/farcaster-batches | decide class + whether to log |
 | Ohnahji streams | future stream series | TBD | not started (1 workshop ep already in ZM) |
 | WaveWarZ battle streams | 1,289 battles since launch | wavewarz.com + footage in ~/Movies | pick highlights; footage backup critical |
-| Crypto Magic Hour EP.50 | earned - ZAO/WaveWarZ featured | URL TBC by Zaal | confirm URL, then log as earned |
 | Let's Talk About Ethereum (LTAE) | successor show to Let's Talk About Web3 - Zaal co-hosts with Ohnahji B and Maceo; live build-with-Claude segments | pods.media + github.com/bettercallzaal/B-ZBUILD2 | log episodes as they land |
-| WaveWarZ artist interviews | 4+ on YouTube (XTinct FmrzjYtdF6A, Kata7yst ZU0ga5LRdyU, TsP5k3OuNgE, rx0PeGv8lPI) | youtube.com/@wavewarz | log as produced under WaveWarZ |
+| @bettercallzaal streams back-catalog | 145 stream VODs on YouTube | docs/youtube-catalog.md | triage: which deserve ZM entries (ZAO-VILLE LIVE, Solana TrencheZ, AI Music Tourney...) |
+| @wavewarz streams + battles | 142 stream VODs + 248 shorts | docs/youtube-catalog.md | triage battle highlights |
 
 ## Every platform ZAO is on (docs 2135/2136)
 

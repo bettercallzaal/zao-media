@@ -575,6 +575,22 @@
 
 ---
 
+### WaveWarZ Artist Interview: Kata7yst
+
+- **Class:** produced
+- **Date:** 2026-04-12 (archived)
+- **Host/Source:** WaveWarZ Artist Interviews - Zaal with Kata7yst
+- **Brands:** WaveWarZ
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-04-12-wavewarz-interview-kata7yst/
+- **URLs:**
+  - YouTube: https://youtu.be/ZU0ga5LRdyU
+  - WaveWarZ: https://wavewarz.com
+- **Topics/summary:** WaveWarZ artist interview with Kata7yst - the artists behind the live-traded music battles on Solana, where every trade pays the artist.
+- **Clip candidates:**
+
+
+---
+
 ### BCZ YapZ w/Jordan (Ryft)
 
 - **Class:** produced
@@ -630,6 +646,37 @@
 - **URLs:**
   - YouTube: https://youtu.be/DIeav3o8t9M
 - **Topics/summary:** In Episode 11 of BCZ YapZ, BetterCallZaal sits down with Roaring Sensei for a wide-ranging conversation that moves from martial arts philosophy to GameStop culture, community building, and the realities of growing an online presence.
+- **Clip candidates:**
+
+
+---
+
+### WaveWarZ Artist Interview: XTinct
+
+- **Class:** produced
+- **Date:** 2026-03-09 (archived)
+- **Host/Source:** WaveWarZ Artist Interviews - Zaal with XTinct
+- **Brands:** WaveWarZ
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-03-09-wavewarz-interview-xtinct/
+- **URLs:**
+  - YouTube: https://youtu.be/FmrzjYtdF6A
+  - WaveWarZ: https://wavewarz.com
+- **Topics/summary:** WaveWarZ artist interview with XTinct - the artists behind the live-traded music battles on Solana, where every trade pays the artist.
+- **Clip candidates:**
+
+
+---
+
+### Crypto Magic Hour Ep. 50: WaveWarZ Epic Battle, New Crypto X Rules and More
+
+- **Class:** earned
+- **Date:** 2026-03-03 (archived)
+- **Host/Source:** VeVeMagic (@VeVeMagic) - Crypto Magic Hour
+- **Brands:** WaveWarZ, The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-03-03-crypto-magic-hour-ep50/
+- **URLs:**
+  - YouTube: https://youtu.be/rx0PeGv8lPI
+- **Topics/summary:** Crypto Magic Hour episode 50 features a WaveWarZ epic battle - live-traded music battles on Solana where artists earn from every trade. Independent Tier 1 coverage of WaveWarZ and The ZAO (press map doc 1340).
 - **Clip candidates:**
 
 
@@ -755,6 +802,38 @@
 
 ---
 
+### Choir to Crypto Battles: AI Beats and Green Pill Collabs
+
+- **Class:** produced
+- **Date:** 2025-10-16 (archived)
+- **Host/Source:** WaveWarZ Artist Interviews - Zaal with aaaa7777iui
+- **Brands:** WaveWarZ
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2025-10-16-wavewarz-interview-aaaa7777iui/
+- **URLs:**
+  - YouTube: https://youtu.be/Hy021H6Vc_U
+  - WaveWarZ: https://wavewarz.com
+- **Topics/summary:** WaveWarZ artist interview with aaaa7777iui - the artists behind the live-traded music battles on Solana, where every trade pays the artist.
+- **Clip candidates:**
+
+
+---
+
+### goosepark Unmasked: Miami Roots, XRP-Powered Streaming and High-BPM War Plan
+
+- **Class:** produced
+- **Date:** 2025-10-15 (archived)
+- **Host/Source:** WaveWarZ Artist Interviews - Zaal with goosepark
+- **Brands:** WaveWarZ
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2025-10-15-wavewarz-interview-goosepark/
+- **URLs:**
+  - YouTube: https://youtu.be/9lXi2h-57ow
+  - WaveWarZ: https://wavewarz.com
+- **Topics/summary:** WaveWarZ artist interview with goosepark - the artists behind the live-traded music battles on Solana, where every trade pays the artist.
+- **Clip candidates:**
+
+
+---
+
 ### BCZ YapZ w/Rich Bartuc
 
 - **Class:** produced
@@ -765,6 +844,70 @@
 - **URLs:**
   - YouTube: https://youtu.be/AOcp8Jpyw3k
 - **Topics/summary:** Rich Bartuc brings the story of PowerPacks to life. From GameStop memes to graded collectibles, he breaks down how a community of collectors and investors turned a moment into a movement. Zaal and Rich go deep on finance, culture, and the psychology of holding through chaos - the true Diamondhands mindset.
+- **Clip candidates:**
+
+
+---
+
+### K1DDV3NOM: Anime-Fueled Beats, Kingdom Hearts Tags, and Relentless Work Ethic
+
+- **Class:** produced
+- **Date:** 2025-10-12 (archived)
+- **Host/Source:** WaveWarZ Artist Interviews - Zaal with K1DDV3NOM
+- **Brands:** WaveWarZ
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2025-10-12-wavewarz-interview-k1ddv3nom/
+- **URLs:**
+  - YouTube: https://youtu.be/cO1WV5MZcVk
+  - WaveWarZ: https://wavewarz.com
+- **Topics/summary:** WaveWarZ artist interview with K1DDV3NOM - the artists behind the live-traded music battles on Solana, where every trade pays the artist.
+- **Clip candidates:**
+
+
+---
+
+### The Origin of CryptoB Radio - Web3's Underground 24/7 Music Station
+
+- **Class:** produced
+- **Date:** 2025-10-12 (archived)
+- **Host/Source:** WaveWarZ Artist Interviews - Zaal with CryptoB
+- **Brands:** WaveWarZ
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2025-10-12-wavewarz-interview-cryptob-radio/
+- **URLs:**
+  - YouTube: https://youtu.be/c8c1b3NgBBs
+  - WaveWarZ: https://wavewarz.com
+- **Topics/summary:** WaveWarZ artist interview with CryptoB - the artists behind the live-traded music battles on Solana, where every trade pays the artist.
+- **Clip candidates:**
+
+
+---
+
+### From Sony Studios to Web3: one7one8 on Music, Money and the Future
+
+- **Class:** produced
+- **Date:** 2025-10-10 (archived)
+- **Host/Source:** WaveWarZ Artist Interviews - Zaal with one7one8
+- **Brands:** WaveWarZ
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2025-10-10-wavewarz-interview-one7one8/
+- **URLs:**
+  - YouTube: https://youtu.be/g847Ccg8x1g
+  - WaveWarZ: https://wavewarz.com
+- **Topics/summary:** WaveWarZ artist interview with one7one8 - the artists behind the live-traded music battles on Solana, where every trade pays the artist.
+- **Clip candidates:**
+
+
+---
+
+### From Razorbacks to Beat Battles: Aporkalypse's 4-Year Grind
+
+- **Class:** produced
+- **Date:** 2025-10-09 (archived)
+- **Host/Source:** WaveWarZ Artist Interviews - Zaal with Aporkalypse
+- **Brands:** WaveWarZ
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2025-10-09-wavewarz-interview-aporkalypse/
+- **URLs:**
+  - YouTube: https://youtu.be/cWk_rAwIrtY
+  - WaveWarZ: https://wavewarz.com
+- **Topics/summary:** WaveWarZ artist interview with Aporkalypse - the artists behind the live-traded music battles on Solana, where every trade pays the artist.
 - **Clip candidates:**
 
 
@@ -818,6 +961,38 @@
 
 ---
 
+### King of Afro Seduction: Preshzino Songs Interview
+
+- **Class:** produced
+- **Date:** 2025-09-12 (archived)
+- **Host/Source:** WaveWarZ Artist Interviews - Zaal with Preshzino
+- **Brands:** WaveWarZ
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2025-09-12-wavewarz-interview-preshzino/
+- **URLs:**
+  - YouTube: https://youtu.be/jZINdm8qKGU
+  - WaveWarZ: https://wavewarz.com
+- **Topics/summary:** WaveWarZ artist interview with Preshzino - the artists behind the live-traded music battles on Solana, where every trade pays the artist.
+- **Clip candidates:**
+
+
+---
+
+### iamLui's Journey: From Peru to Web3 Music Battles
+
+- **Class:** produced
+- **Date:** 2025-09-09 (archived)
+- **Host/Source:** WaveWarZ Artist Interviews - Zaal with iamLui
+- **Brands:** WaveWarZ
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2025-09-09-wavewarz-interview-iamlui/
+- **URLs:**
+  - YouTube: https://youtu.be/tcOXHLb1FaQ
+  - WaveWarZ: https://wavewarz.com
+- **Topics/summary:** WaveWarZ artist interview with iamLui - the artists behind the live-traded music battles on Solana, where every trade pays the artist.
+- **Clip candidates:**
+
+
+---
+
 ### Let's Talk About Web3 - Ep. 15
 
 - **Class:** produced
@@ -829,6 +1004,22 @@
   - Pods.media archive: https://pods.media/lets-talk-about-web3/
   - Spotify: https://open.spotify.com/show/1Bk6bsMYciOMyJohMVZUgt
 - **Topics/summary:** Weekly co-hosted live web3 show (Zaal, Ohnahji B, EZinCrypto), streamed live on Twitch. Runtime 53:21. Three seasons of this show became Let's Talk About Ethereum.
+- **Clip candidates:**
+
+
+---
+
+### DopeStilo Exclusive Interview: Blending Music, Metaverse, and Surfing
+
+- **Class:** produced
+- **Date:** 2025-09-04 (archived)
+- **Host/Source:** WaveWarZ Artist Interviews - Zaal with DopeStilo
+- **Brands:** WaveWarZ
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2025-09-04-wavewarz-interview-dopestilo/
+- **URLs:**
+  - YouTube: https://youtu.be/AAUSLR2_WmE
+  - WaveWarZ: https://wavewarz.com
+- **Topics/summary:** WaveWarZ artist interview with DopeStilo - the artists behind the live-traded music battles on Solana, where every trade pays the artist.
 - **Clip candidates:**
 
 
@@ -861,6 +1052,22 @@
   - Pods.media archive: https://pods.media/lets-talk-about-web3/
   - Spotify: https://open.spotify.com/show/1Bk6bsMYciOMyJohMVZUgt
 - **Topics/summary:** Weekly co-hosted live web3 show (Zaal, Ohnahji B, EZinCrypto), streamed live on Twitch. Runtime 54:20. Three seasons of this show became Let's Talk About Ethereum.
+- **Clip candidates:**
+
+
+---
+
+### WaveWarZ Artist Interview: Chief Jaelyn - The Journey of Native Roots
+
+- **Class:** produced
+- **Date:** 2025-08-27 (archived)
+- **Host/Source:** WaveWarZ Artist Interviews - Zaal with Chief Jaelyn
+- **Brands:** WaveWarZ
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2025-08-27-wavewarz-interview-chief-jaelyn/
+- **URLs:**
+  - YouTube: https://youtu.be/_aVAiASD3-g
+  - WaveWarZ: https://wavewarz.com
+- **Topics/summary:** WaveWarZ artist interview with Chief Jaelyn - the artists behind the live-traded music battles on Solana, where every trade pays the artist.
 - **Clip candidates:**
 
 
