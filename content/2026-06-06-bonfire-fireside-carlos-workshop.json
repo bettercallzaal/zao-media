@@ -19,6 +19,10 @@
     {
       "label": "ZABAL Games",
       "url": "https://zabalgamez.com"
+    },
+    {
+      "label": "Listen on X (Space audio)",
+      "url": "https://x.com/i/spaces/1nxnRRjVLLExO"
     }
   ],
   "summary": "ZABAL Gamez workshop session.",
@@ -29,6 +33,6 @@
   "dist": {
     "socials": false,
     "clips": false,
-    "notes": ""
+    "notes": "no video posted; the X Space IS the audio recording"
   }
 }

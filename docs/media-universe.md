@@ -100,7 +100,7 @@ Tracker page: https://bettercallzaal.github.io/zao-media/tracker.html (yes/no pe
 | Twitch VODs (@bettercallzaal) | 60 listed in docs/youtube-catalog.md | twitch.tv/bettercallzaal | VODs expire ~14 days - backup first (doc 1560); mostly mirror YouTube streams |
 | X Spaces recordings | 4+ space_*.mp4 on Mac (Jun-Jul 2026) + farcaster-intern-ama.ogg | ~/Downloads | unprocessed, no transcripts, no public URL |
 | 1:1 recordings unprocessed | 13 files (William, Sifat, Zach L, Vishnu, Greg, Jeff, Viniapp, gho-st, chrisdol, nounish, Rishabh...) | ~/Downloads | need /meeting pass first |
-| COC Concertz #7 | happened 2026-07-18 per content calendar doc 1432; no VOD on @bettercallzaal or @wavewarz channels | TBC - ask Zaal where it was recorded | find VOD, log |
+| COC Concertz #7 | happened 2026-07-18; no VOD on any channel. BEST LEAD: X Space that day "Web3 COC ConcertZ a day in the life" (x.com/i/spaces/1rGmqqwAoPMGy, 1hr) - already a ZM entry | confirm with Zaal | find video if any |
 | Ohnahji streams | future stream series (day ~288 of her 365-day run) | twitch.tv/ohnahji | log collabs featuring ZAO as they land |
 | WaveWarZ battle streams | 1,289 battles since launch; ~130 daily VODs catalogued | wavewarz.com + docs/youtube-catalog.md + footage in ~/Movies | highlights only; footage backup critical |
 | Let's Talk About Ethereum (LTAE) | ongoing - 7 sessions logged; new eps land weekly | pods.media + github.com/bettercallzaal/B-ZBUILD2 | log episodes as they land |

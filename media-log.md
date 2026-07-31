@@ -255,7 +255,7 @@
 - **URLs:**
   - Listen on X: https://x.com/i/spaces/1rGmqqwAoPMGy
   - Spaces Dashboard: https://spacesdashboard.com/space/1rGmqqwAoPMGy/web3-coc-concertz-a-day-in-the-life-of-zaal-zabal-gamez-1hr
-- **Topics/summary:** X Space (duration unknown) - hosted, co-hosted, or spoken in by Zaal. Auto-logged from the spacesdashboard archive sweep of 2026-07-30.
+- **Topics/summary:** X Space on the day of COC Concertz #7 (Jul 18) - "a day in the life of Zaal, ZABAL Gamez" - the closest thing found to COC #7 media so far. 1 hour.
 - **Clip candidates:**
 
 
@@ -1417,6 +1417,7 @@
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-06-bonfire-fireside-carlos-workshop/
 - **URLs:**
   - ZABAL Games: https://zabalgamez.com
+  - Listen on X (Space audio): https://x.com/i/spaces/1nxnRRjVLLExO
 - **Topics/summary:** ZABAL Gamez workshop session.
 - **Clip candidates:**
 
