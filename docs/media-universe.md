@@ -63,6 +63,10 @@ Luma: ZAO calendar live at luma.com/zao (tracks: Artist/Builder/Creator, Firesid
 - Paragraph "ZABAL Update" series (e.g. ZABAL Update 3, Dec 2 2025) alongside the daily Year of the ZAO posts - loggable as written media if wanted.
 - "THE ZAO Interview" video lead (oVp0d1BBmko): dead/private, unverifiable.
 
+## Luma registry check (2026-07-30, night)
+
+luma.com/zao past-events API confirms all logged June workshops (event dates) + reveals the ZAO FRACTAL weekly cadence (#105-108 through Jul 27-29, three sessions that week). Fractal sessions meet at discord.theZAO.com - only #56 has a public VOD; the rest are unrecorded or Craig-only. One unlogged event: ZABAL GameZ Fireside w/Jub Jub (Jun 20) - no recording found in recaps.json. Luma is registry, not media - no new items.
+
 ## Music platform sweep (2026-07-30)
 
 - Sound.xyz: DEAD - platform went offline 2026-01-16. ZAO Music's Sound.xyz lane is historical; collections survive on OpenSea for holders.
