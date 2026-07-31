@@ -80,6 +80,20 @@ luma.com/zao past-events API confirms all logged June workshops (event dates) + 
 - Doc 2136 lists "ZAO Live Podcast (@Zao.livepodcast)" as a Zaal channel - WRONG. That channel is "zao.live", an unrelated AI news-podcast app. Name collision; not ZAO media.
 - Twitch VOD IDs now captured in docs/youtube-catalog.md (60 VODs) - download-ready for the backup run.
 
+## Zaal's answers (2026-07-31 morning)
+
+- COC Concertz #7 CONFIRMED: the Jul 18 X Space was the show. ZM entry created (2026-07-18-coc-concertz-7). TODO: rip space audio, upload to YouTube.
+- COC Concertz #2 real date: 2025-10-11 (luma.com/1gr5hjiq) - entry re-dated; the Oct 11 spaces are its live audio.
+- ZAO-CHELLA: footage is RAW, unposted - "we need to post more content". Countdowns are the only public artifacts.
+- zao-devcon-india-wavewarz.mov: just a clip from a WaveWarZ space - not an event talk; but space-clipping is a format to repeat.
+- WaveWarZ media at large: separate ballgame - Candy will help later; FOCUS = Zaal + The ZAO first.
+- Socials flags: mostly correct as NO - nothing was systematically shared. Big distribution debt.
+- Jub Jub fireside: happened on FARCASTER SPACES - a source ZM has not swept; Zaal will share more of those.
+- Twitch backup: deprioritized by Zaal - most content mirrors on YouTube already.
+- ~/Movies "to post": Zaal thinks mostly posted; he will verify one by one.
+- BCZ YapZ audio feed: future, not now.
+- Instagram: @zaoconcertz does NOT exist - IG handle is @zaofestivals.
+
 ## What remains (blocked on Zaal or intentionally skipped)
 
 - Twitch: 62 VODs expiring ~14 days - BACKUP FIRST (doc 1560), then log. Blocked on backup decision.
@@ -100,7 +114,7 @@ Tracker page: https://bettercallzaal.github.io/zao-media/tracker.html (yes/no pe
 | Twitch VODs (@bettercallzaal) | 60 listed in docs/youtube-catalog.md | twitch.tv/bettercallzaal | VODs expire ~14 days - backup first (doc 1560); mostly mirror YouTube streams |
 | X Spaces recordings | 4+ space_*.mp4 on Mac (Jun-Jul 2026) + farcaster-intern-ama.ogg | ~/Downloads | unprocessed, no transcripts, no public URL |
 | 1:1 recordings unprocessed | 13 files (William, Sifat, Zach L, Vishnu, Greg, Jeff, Viniapp, gho-st, chrisdol, nounish, Rishabh...) | ~/Downloads | need /meeting pass first |
-| COC Concertz #7 | happened 2026-07-18; no VOD on any channel. BEST LEAD: X Space that day "Web3 COC ConcertZ a day in the life" (x.com/i/spaces/1rGmqqwAoPMGy, 1hr) - already a ZM entry | confirm with Zaal | find video if any |
+| Farcaster Spaces | unknown count - Jub Jub fireside + more lived there | Farcaster (Zaal will share links) | sweep once Zaal shares |
 | Ohnahji streams | future stream series (day ~288 of her 365-day run) | twitch.tv/ohnahji | log collabs featuring ZAO as they land |
 | WaveWarZ battle streams | 1,289 battles since launch; ~130 daily VODs catalogued | wavewarz.com + docs/youtube-catalog.md + footage in ~/Movies | highlights only; footage backup critical |
 | Let's Talk About Ethereum (LTAE) | ongoing - 7 sessions logged; new eps land weekly | pods.media + github.com/bettercallzaal/B-ZBUILD2 | log episodes as they land |
@@ -118,7 +132,7 @@ Tracker page: https://bettercallzaal.github.io/zao-media/tracker.html (yes/no pe
 | Paragraph | @zaoonparagraph | newsletter |
 | Juke | ZAO spaces | Farcaster-native live audio (docs 695/710/712) |
 | Twitter Spaces | via @bettercallzaal | recorded to .mp4 locally |
-| Instagram / TikTok | @zaoconcertz | planned clip accounts (@wavewarz IG squatted) |
+| Instagram | @zaofestivals (NOT @zaoconcertz - docs 2135/2136 wrong) | active promo account |
 | Audius | @bettercallzaal | dormant music |
 | Hive | @bettercallzaal | planned fractal loop |
 | LinkedIn / Facebook | ZAO Festivals | low-use / not created |

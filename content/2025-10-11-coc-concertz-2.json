@@ -1,8 +1,8 @@
 {
-  "slug": "2026-03-07-coc-concertz-2",
+  "slug": "2025-10-11-coc-concertz-2",
   "class": "community",
   "title": "COC ConcertZ #2",
-  "date": "2026-03-07",
+  "date": "2025-10-11",
   "status": "archived",
   "show": "COC Concertz",
   "host": "Zaal",
@@ -33,10 +33,19 @@
       "url": "https://youtu.be/zYm3g_YUYjE"
     }
   ],
-  "summary": "Community concert #2 - Attabotty and Tom Fellenz performances plus a Dope Stilo WaveWarZ battle. Segment videos on The ZAO channel; date is the YouTube upload date, event date TBC.",
+  "summary": "Community concert #2, held 2025-10-11 (Luma: luma.com/1gr5hjiq) - Attabotty and Tom Fellenz performances plus a Dope Stilo WaveWarZ battle. Segment videos went up on The ZAO channel in March 2026.",
   "points": [],
   "chapters": [],
-  "related": [],
+  "related": [
+    {
+      "label": "Live X Space (ft. Fellenz)",
+      "url": "https://spacesdashboard.com/u/bettercallzaal"
+    },
+    {
+      "label": "Luma event",
+      "url": "https://luma.com/1gr5hjiq"
+    }
+  ],
   "hasTranscript": false,
   "dist": {
     "socials": false,

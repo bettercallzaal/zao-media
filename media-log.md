@@ -245,22 +245,6 @@
 
 ---
 
-### Web3 COC ConcertZ a day in the life of zaal ZABAL gamez 1hr
-
-- **Class:** live
-- **Date:** 2026-07-18 (archived)
-- **Host/Source:** Zaal (@bettercallzaal) - X Spaces
-- **Brands:** The ZAO
-- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-07-18-space-web3-coc-concertz-a-day-in-the-life-of-zaal-zaba/
-- **URLs:**
-  - Listen on X: https://x.com/i/spaces/1rGmqqwAoPMGy
-  - Spaces Dashboard: https://spacesdashboard.com/space/1rGmqqwAoPMGy/web3-coc-concertz-a-day-in-the-life-of-zaal-zabal-gamez-1hr
-- **Topics/summary:** X Space on the day of COC Concertz #7 (Jul 18) - "a day in the life of Zaal, ZABAL Gamez" - the closest thing found to COC #7 media so far. 1 hour.
-- **Clip candidates:**
-
-
----
-
 ### The solana TrencheZ song BattleZ TraderZ DegenZ x BCZ stratz
 
 - **Class:** live
@@ -272,6 +256,22 @@
   - Listen on X: https://x.com/i/spaces/1MJgNNpjgYlGL
   - Spaces Dashboard: https://spacesdashboard.com/space/1MJgNNpjgYlGL/the-solana-trenchez-song-battlez-traderz-degenz-x-bcz-stratz
 - **Topics/summary:** X Space (4h) - hosted, co-hosted, or spoken in by Zaal. Auto-logged from the spacesdashboard archive sweep of 2026-07-30.
+- **Clip candidates:**
+
+
+---
+
+### COC Concertz #7
+
+- **Class:** community
+- **Date:** 2026-07-18 (archived)
+- **Host/Source:** Zaal (@bettercallzaal) - COC Concertz
+- **Brands:** COC Concertz, The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-07-18-coc-concertz-7/
+- **URLs:**
+  - Listen on X: https://x.com/i/spaces/1rGmqqwAoPMGy
+  - Spaces Dashboard: https://spacesdashboard.com/space/1rGmqqwAoPMGy/web3-coc-concertz-a-day-in-the-life-of-zaal-zabal-gamez-1hr
+- **Topics/summary:** Community concert #7, held live as an X Space on 2026-07-18 ("Web3 COC ConcertZ - a day in the life of Zaal", 1 hour). Confirmed by Zaal - audio to be downloaded from the space and uploaded to YouTube.
 - **Clip candidates:**
 
 
@@ -2778,24 +2778,6 @@
 
 ---
 
-### COC ConcertZ #2
-
-- **Class:** community
-- **Date:** 2026-03-07 (archived)
-- **Host/Source:** Zaal (@zaal) - COC Concertz
-- **Brands:** COC Concertz, The ZAO
-- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-03-07-coc-concertz-2/
-- **URLs:**
-  - Intro: https://youtu.be/TTflDDtpXkg
-  - Attabotty performance: https://youtu.be/YYyBFasvkuM
-  - Dope Stilo WaveWarZ battle: https://youtu.be/-nx9gZtK8ug
-  - Fellenz performance: https://youtu.be/zYm3g_YUYjE
-- **Topics/summary:** Community concert #2 - Attabotty and Tom Fellenz performances plus a Dope Stilo WaveWarZ battle. Segment videos on The ZAO channel; date is the YouTube upload date, event date TBC.
-- **Clip candidates:**
-
-
----
-
 ### Web3coc community walk in come vibe with us metaverse tomorrow
 
 - **Class:** live
@@ -5142,6 +5124,24 @@
   - Listen on X: https://x.com/i/spaces/1zqKVdpyprDJB
   - Spaces Dashboard: https://spacesdashboard.com/space/1zqKVdpyprDJB/coc-concertz-at-4-pm-est-ft-at-fellenzmusic-at-attabotty-at-dopestilo
 - **Topics/summary:** X Space (duration unknown) - hosted, co-hosted, or spoken in by Zaal. Auto-logged from the spacesdashboard archive sweep of 2026-07-30.
+- **Clip candidates:**
+
+
+---
+
+### COC ConcertZ #2
+
+- **Class:** community
+- **Date:** 2025-10-11 (archived)
+- **Host/Source:** Zaal (@zaal) - COC Concertz
+- **Brands:** COC Concertz, The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2025-10-11-coc-concertz-2/
+- **URLs:**
+  - Intro: https://youtu.be/TTflDDtpXkg
+  - Attabotty performance: https://youtu.be/YYyBFasvkuM
+  - Dope Stilo WaveWarZ battle: https://youtu.be/-nx9gZtK8ug
+  - Fellenz performance: https://youtu.be/zYm3g_YUYjE
+- **Topics/summary:** Community concert #2, held 2025-10-11 (Luma: luma.com/1gr5hjiq) - Attabotty and Tom Fellenz performances plus a Dope Stilo WaveWarZ battle. Segment videos went up on The ZAO channel in March 2026.
 - **Clip candidates:**
 
 

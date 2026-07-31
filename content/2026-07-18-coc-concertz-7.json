@@ -1,16 +1,17 @@
 {
-  "slug": "2026-07-18-space-web3-coc-concertz-a-day-in-the-life-of-zaal-zaba",
-  "class": "live",
-  "title": "Web3 COC ConcertZ a day in the life of zaal ZABAL gamez 1hr",
+  "slug": "2026-07-18-coc-concertz-7",
+  "class": "community",
+  "title": "COC Concertz #7",
   "date": "2026-07-18",
   "status": "archived",
-  "show": "X Spaces",
+  "show": "COC Concertz",
   "host": "Zaal",
   "hostHandle": "@bettercallzaal",
   "hostUrl": "https://x.com/bettercallzaal",
   "guest": "",
   "guestOrg": "",
   "brands": [
+    "COC Concertz",
     "The ZAO"
   ],
   "youtubeId": null,
@@ -24,7 +25,7 @@
       "url": "https://spacesdashboard.com/space/1rGmqqwAoPMGy/web3-coc-concertz-a-day-in-the-life-of-zaal-zabal-gamez-1hr"
     }
   ],
-  "summary": "X Space on the day of COC Concertz #7 (Jul 18) - \"a day in the life of Zaal, ZABAL Gamez\" - the closest thing found to COC #7 media so far. 1 hour.",
+  "summary": "Community concert #7, held live as an X Space on 2026-07-18 (\"Web3 COC ConcertZ - a day in the life of Zaal\", 1 hour). Confirmed by Zaal - audio to be downloaded from the space and uploaded to YouTube.",
   "points": [],
   "chapters": [],
   "related": [],
@@ -32,6 +33,6 @@
   "dist": {
     "socials": false,
     "clips": false,
-    "notes": "best COC #7 lead - confirm with Zaal"
+    "notes": "rip space audio + upload to YouTube - Zaal task"
   }
 }
