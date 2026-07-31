@@ -53,6 +53,16 @@ Unprocessed recordings in ~/Desktop/downloads/ (separate from ~/Downloads, doc 2
 
 Luma: ZAO calendar live at luma.com/zao (tracks: Artist/Builder/Creator, Fireside Chat, Fractal, ZABAL GAMEZ) - event registry, pairs with workshop entries.
 
+## Night sweep results (2026-07-30, late)
+
+- Eden Creators "ETH 81: The Growth of ZAO Fractal" (Jun 18 2026) - LOGGED as 7th earned entry.
+- Podcast indexes (Podchaser, ListenNotes, Rephonic, podcastindex.org): zero Zaal entries - the earned footprint lives on YouTube, not podcast directories.
+- ETHBoulder 2026 speaker list checked: Zaal NOT a listed speaker (the Feb 16 space was a recap, not a talk). DevCon India WaveWarZ presentation unconfirmed - local file zao-devcon-india-wavewarz.mov suggests something exists; ask Zaal.
+- Reddit, Hacker News, TikTok (@zaoconcertz): zero ZAO presence. IG @zaoconcertz unverified publicly.
+- songjam.space/zabal - live ZABAL leaderboard (SANG ecosystem tie-in).
+- Paragraph "ZABAL Update" series (e.g. ZABAL Update 3, Dec 2 2025) alongside the daily Year of the ZAO posts - loggable as written media if wanted.
+- "THE ZAO Interview" video lead (oVp0d1BBmko): dead/private, unverifiable.
+
 ## Music platform sweep (2026-07-30)
 
 - Sound.xyz: DEAD - platform went offline 2026-01-16. ZAO Music's Sound.xyz lane is historical; collections survive on OpenSea for holders.
