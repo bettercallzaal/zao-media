@@ -43,6 +43,16 @@ Total: 125 items across 16 shows. Earned section: 4 (Token for Your Thoughts Apr
 - ltaw3 intro.mp3 - the show intro asset
 Audius confirmed live: 3 tracks (WaveWarZ the Electric Vibez Nov 2025, UVR Anthems 1+2 May 2026) - logged in ZM.
 
+## Desktop/downloads recordings vault (2026-07-30, ~12GB of media)
+
+Unprocessed recordings in ~/Desktop/downloads/ (separate from ~/Downloads, doc 2141):
+- bczyapzwandy.mp4 (1.1GB) - BCZ YapZ w/Andy raw; zabalgamez w/ohnahji.mp4 (896MB) - workshop raw
+- 1:1/meeting recordings: Zaal x ATTA (5/25), Farcaster (5/13), Cheeka x Zaal ZAOstock (5/3), failZaostock convo (5/19), Fractal talk (5/18), Tyler x zaal (5/22 x2), fractal5.18iman.wav
+- craig-* Discord recordings x3 (~3.5GB), DJI_0357.MP4 drone footage (1.3GB), birthdaywin.mp4 (1.2GB), Polar Reflections.mp4, ohnahji trying magnetiq.mp4
+- NOTE: ~/Desktop/downloads/xarchive (1.2GB) is a ChatGPT data export (conversations JSON), NOT an X archive - do not mine for media, contains private chats.
+
+Luma: ZAO calendar live at luma.com/zao (tracks: Artist/Builder/Creator, Fireside Chat, Fractal, ZABAL GAMEZ) - event registry, pairs with workshop entries.
+
 ## Music platform sweep (2026-07-30)
 
 - Sound.xyz: DEAD - platform went offline 2026-01-16. ZAO Music's Sound.xyz lane is historical; collections survive on OpenSea for holders.
