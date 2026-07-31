@@ -1010,6 +1010,21 @@
 
 ---
 
+### ETH 81: The Growth of ZAO Fractal
+
+- **Class:** earned
+- **Date:** 2026-06-18 (archived)
+- **Host/Source:** Dan SingJoy (@EdenCreators) - Eden Creators
+- **Brands:** The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-18-eden-creators-eth81-zao-fractal/
+- **URLs:**
+  - YouTube: https://youtu.be/2KNNWednm2A
+- **Topics/summary:** Eden Creators episode ETH 81 on the growth of ZAO Fractal (54 min) - the Eden Fractal community covering how The ZAO runs Respect Game governance. Dan SingJoy also led a ZABAL Gamez workshop on Eden Fractal.
+- **Clip candidates:**
+
+
+---
+
 ### Music x crypto connect sesh june 17th x BCZ strategies
 
 - **Class:** live

@@ -1,0 +1,38 @@
+{
+  "slug": "2026-06-18-eden-creators-eth81-zao-fractal",
+  "class": "earned",
+  "title": "ETH 81: The Growth of ZAO Fractal",
+  "date": "2026-06-18",
+  "status": "archived",
+  "show": "Eden Creators",
+  "host": "Dan SingJoy",
+  "hostHandle": "@EdenCreators",
+  "hostUrl": "https://www.youtube.com/@EdenCreators",
+  "guest": "",
+  "guestOrg": "",
+  "brands": [
+    "The ZAO"
+  ],
+  "youtubeId": "2KNNWednm2A",
+  "links": [
+    {
+      "label": "YouTube",
+      "url": "https://youtu.be/2KNNWednm2A"
+    }
+  ],
+  "summary": "Eden Creators episode ETH 81 on the growth of ZAO Fractal (54 min) - the Eden Fractal community covering how The ZAO runs Respect Game governance. Dan SingJoy also led a ZABAL Gamez workshop on Eden Fractal.",
+  "points": [],
+  "chapters": [],
+  "related": [
+    {
+      "label": "ZABAL workshop: Dan SingJoy on Eden Fractal",
+      "url": "https://bettercallzaal.github.io/zao-media/appearances/2026-06-20-dan-singjoy-eden-fractal-workshop/"
+    }
+  ],
+  "hasTranscript": false,
+  "dist": {
+    "socials": false,
+    "clips": false,
+    "notes": ""
+  }
+}
