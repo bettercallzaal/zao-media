@@ -6,6 +6,14 @@
   <description>The media home for The ZAO - podcasts, shows, Spaces, streams, and earned-media appearances. Logged once, shared everywhere.</description>
   <language>en</language>
   <item>
+    <title>Fractals: Dan x Zaal Convos (weekly series)</title>
+    <link>https://bettercallzaal.github.io/zao-media/appearances/2026-07-31-fractals-dan-x-zaal-convos-series/</link>
+    <guid>https://bettercallzaal.github.io/zao-media/appearances/2026-07-31-fractals-dan-x-zaal-convos-series/</guid>
+    <pubDate>Fri, 31 Jul 2026 12:00:00 GMT</pubDate>
+    <category>produced</category>
+    <description>ZAO Fractal - Weekly Friday conversations between Zaal and Dan SingJoy on fractal governance - calendar-confirmed sessions Jun 19, Jun 26, Jul 3, Jul 10, Jul 17, Jul 24, Jul 31 2026. Recordings surface in the Eden Creators ETH series (ETH 81 "The Growth of ZAO Fractal" is one of them - logged as earned).</description>
+  </item>
+  <item>
     <title>Preventing DAO Governance Attacks + Building a Music DAO and AI Agent Legal Entities</title>
     <link>https://bettercallzaal.github.io/zao-media/appearances/2026-07-30-just-dao-it/</link>
     <guid>https://bettercallzaal.github.io/zao-media/appearances/2026-07-30-just-dao-it/</guid>
@@ -14,12 +22,28 @@
     <description>Just DAO It - The through-line: low-turnout governance is a security hole, and The ZAO is designed to close it.</description>
   </item>
   <item>
+    <title>Artizen LIVE weekly showcase (ZAO participation)</title>
+    <link>https://bettercallzaal.github.io/zao-media/appearances/2026-07-30-artizen-live-series/</link>
+    <guid>https://bettercallzaal.github.io/zao-media/appearances/2026-07-30-artizen-live-series/</guid>
+    <pubDate>Thu, 30 Jul 2026 12:00:00 GMT</pubDate>
+    <category>community</category>
+    <description>Artizen - Artizen weekly Thursday live showcase - Zaal a recurring participant (calendar-confirmed Jun 18 through Jul 30 2026). Another-community stream featuring ZAO; recordings live with Artizen.</description>
+  </item>
+  <item>
     <title>Music connect sesh july 29th x BCZ strategies</title>
     <link>https://bettercallzaal.github.io/zao-media/appearances/2026-07-29-space-music-connect-sesh-july-29th-x-bcz-strategies/</link>
     <guid>https://bettercallzaal.github.io/zao-media/appearances/2026-07-29-space-music-connect-sesh-july-29th-x-bcz-strategies/</guid>
     <pubDate>Wed, 29 Jul 2026 12:00:00 GMT</pubDate>
     <category>live</category>
     <description>X Spaces - X Space (1h 26m 60) - hosted, co-hosted, or spoken in by Zaal. Auto-logged from the spacesdashboard archive sweep of 2026-07-30.</description>
+  </item>
+  <item>
+    <title>Kitty Farcaster Spaces (weekly series)</title>
+    <link>https://bettercallzaal.github.io/zao-media/appearances/2026-07-28-kitty-farcaster-spaces-series/</link>
+    <guid>https://bettercallzaal.github.io/zao-media/appearances/2026-07-28-kitty-farcaster-spaces-series/</guid>
+    <pubDate>Tue, 28 Jul 2026 12:00:00 GMT</pubDate>
+    <category>community</category>
+    <description>Farcaster Spaces - Weekly Tuesday Farcaster space Zaal joins - calendar-confirmed Jun 16 through Jul 28 2026. Farcaster spaces are the one archive ZM has not swept; Zaal will share links as they come.</description>
   </item>
   <item>
     <title>ZAO-VILLE LIVE (part 2)</title>
@@ -380,30 +404,6 @@
     <pubDate>Sat, 27 Jun 2026 12:00:00 GMT</pubDate>
     <category>live</category>
     <description>X Spaces - X Space (1 hours, 54 minutes,) - hosted, co-hosted, or spoken in by Zaal. Auto-logged from the spacesdashboard archive sweep of 2026-07-30.</description>
-  </item>
-  <item>
-    <title>ZABAL GAMEZ Workshop w/James from Mental Wealth Academy</title>
-    <link>https://bettercallzaal.github.io/zao-media/appearances/2026-06-27-james-mental-wealth-academy-workshop/</link>
-    <guid>https://bettercallzaal.github.io/zao-media/appearances/2026-06-27-james-mental-wealth-academy-workshop/</guid>
-    <pubDate>Sat, 27 Jun 2026 12:00:00 GMT</pubDate>
-    <category>produced</category>
-    <description>ZABAL Gamez Workshops - ZABAL Gamez workshop session with James @jamesdesign.eth (Mental Wealth Academy).</description>
-  </item>
-  <item>
-    <title>Web3 COC ft wyoming decentralised exchange</title>
-    <link>https://bettercallzaal.github.io/zao-media/appearances/2026-06-26-space-web3-coc-ft-wyoming-decentralised-exchange/</link>
-    <guid>https://bettercallzaal.github.io/zao-media/appearances/2026-06-26-space-web3-coc-ft-wyoming-decentralised-exchange/</guid>
-    <pubDate>Fri, 26 Jun 2026 12:00:00 GMT</pubDate>
-    <category>live</category>
-    <description>X Spaces - X Space (2h) - hosted, co-hosted, or spoken in by Zaal. Auto-logged from the spacesdashboard archive sweep of 2026-07-30.</description>
-  </item>
-  <item>
-    <title>Underground song vs song trading BattleZ x BCZ strategies</title>
-    <link>https://bettercallzaal.github.io/zao-media/appearances/2026-06-25-space-underground-song-vs-song-trading-battlez-x-bcz-s/</link>
-    <guid>https://bettercallzaal.github.io/zao-media/appearances/2026-06-25-space-underground-song-vs-song-trading-battlez-x-bcz-s/</guid>
-    <pubDate>Thu, 25 Jun 2026 12:00:00 GMT</pubDate>
-    <category>live</category>
-    <description>X Spaces - X Space (duration unknown) - hosted, co-hosted, or spoken in by Zaal. Auto-logged from the spacesdashboard archive sweep of 2026-07-30.</description>
   </item>
 </channel>
 </rss>

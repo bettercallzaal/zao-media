@@ -1,0 +1,33 @@
+{
+  "slug": "2026-07-30-artizen-live-series",
+  "status": "archived",
+  "guest": "",
+  "guestOrg": "",
+  "youtubeId": null,
+  "points": [],
+  "chapters": [],
+  "related": [],
+  "hasTranscript": false,
+  "class": "community",
+  "title": "Artizen LIVE weekly showcase (ZAO participation)",
+  "date": "2026-07-30",
+  "show": "Artizen",
+  "host": "Artizen",
+  "hostHandle": "@artizen",
+  "hostUrl": "https://artizen.fund",
+  "brands": [
+    "The ZAO"
+  ],
+  "links": [
+    {
+      "label": "Artizen",
+      "url": "https://artizen.fund"
+    }
+  ],
+  "summary": "Artizen weekly Thursday live showcase - Zaal a recurring participant (calendar-confirmed Jun 18 through Jul 30 2026). Another-community stream featuring ZAO; recordings live with Artizen.",
+  "dist": {
+    "socials": false,
+    "clips": false,
+    "notes": "ask Artizen for recording links"
+  }
+}

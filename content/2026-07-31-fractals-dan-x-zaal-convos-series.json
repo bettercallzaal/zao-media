@@ -1,0 +1,33 @@
+{
+  "slug": "2026-07-31-fractals-dan-x-zaal-convos-series",
+  "status": "archived",
+  "guest": "",
+  "guestOrg": "",
+  "youtubeId": null,
+  "points": [],
+  "chapters": [],
+  "related": [],
+  "hasTranscript": false,
+  "class": "produced",
+  "title": "Fractals: Dan x Zaal Convos (weekly series)",
+  "date": "2026-07-31",
+  "show": "ZAO Fractal",
+  "host": "Zaal and Dan SingJoy",
+  "hostHandle": "@zaal",
+  "hostUrl": "https://farcaster.xyz/zaal",
+  "brands": [
+    "The ZAO"
+  ],
+  "links": [
+    {
+      "label": "Eden Creators channel (recordings land here)",
+      "url": "https://www.youtube.com/@EdenCreators"
+    }
+  ],
+  "summary": "Weekly Friday conversations between Zaal and Dan SingJoy on fractal governance - calendar-confirmed sessions Jun 19, Jun 26, Jul 3, Jul 10, Jul 17, Jul 24, Jul 31 2026. Recordings surface in the Eden Creators ETH series (ETH 81 \"The Growth of ZAO Fractal\" is one of them - logged as earned).",
+  "dist": {
+    "socials": false,
+    "clips": false,
+    "notes": "scan Eden Creators ETH eps for more Zaal appearances"
+  }
+}

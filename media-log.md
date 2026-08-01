@@ -4,6 +4,21 @@
 
 ---
 
+### Fractals: Dan x Zaal Convos (weekly series)
+
+- **Class:** produced
+- **Date:** 2026-07-31 (archived)
+- **Host/Source:** Zaal and Dan SingJoy (@zaal) - ZAO Fractal
+- **Brands:** The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-07-31-fractals-dan-x-zaal-convos-series/
+- **URLs:**
+  - Eden Creators channel (recordings land here): https://www.youtube.com/@EdenCreators
+- **Topics/summary:** Weekly Friday conversations between Zaal and Dan SingJoy on fractal governance - calendar-confirmed sessions Jun 19, Jun 26, Jul 3, Jul 10, Jul 17, Jul 24, Jul 31 2026. Recordings surface in the Eden Creators ETH series (ETH 81 "The Growth of ZAO Fractal" is one of them - logged as earned).
+- **Clip candidates:**
+
+
+---
+
 ### Preventing DAO Governance Attacks + Building a Music DAO and AI Agent Legal Entities
 
 - **Class:** earned
@@ -24,6 +39,21 @@
 
 ---
 
+### Artizen LIVE weekly showcase (ZAO participation)
+
+- **Class:** community
+- **Date:** 2026-07-30 (archived)
+- **Host/Source:** Artizen (@artizen) - Artizen
+- **Brands:** The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-07-30-artizen-live-series/
+- **URLs:**
+  - Artizen: https://artizen.fund
+- **Topics/summary:** Artizen weekly Thursday live showcase - Zaal a recurring participant (calendar-confirmed Jun 18 through Jul 30 2026). Another-community stream featuring ZAO; recordings live with Artizen.
+- **Clip candidates:**
+
+
+---
+
 ### Music connect sesh july 29th x BCZ strategies
 
 - **Class:** live
@@ -35,6 +65,21 @@
   - Listen on X: https://x.com/i/spaces/1wGWjjYqBjnKQ
   - Spaces Dashboard: https://spacesdashboard.com/space/1wGWjjYqBjnKQ/music-connect-sesh-july-29th-x-bcz-strategies
 - **Topics/summary:** X Space (1h 26m 60) - hosted, co-hosted, or spoken in by Zaal. Auto-logged from the spacesdashboard archive sweep of 2026-07-30.
+- **Clip candidates:**
+
+
+---
+
+### Kitty Farcaster Spaces (weekly series)
+
+- **Class:** community
+- **Date:** 2026-07-28 (archived)
+- **Host/Source:** Kitty - Farcaster Spaces
+- **Brands:** The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-07-28-kitty-farcaster-spaces-series/
+- **URLs:**
+  - Farcaster: https://farcaster.xyz/zaal
+- **Topics/summary:** Weekly Tuesday Farcaster space Zaal joins - calendar-confirmed Jun 16 through Jul 28 2026. Farcaster spaces are the one archive ZM has not swept; Zaal will share links as they come.
 - **Clip candidates:**
 
 

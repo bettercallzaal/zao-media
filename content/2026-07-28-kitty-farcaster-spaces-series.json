@@ -1,0 +1,33 @@
+{
+  "slug": "2026-07-28-kitty-farcaster-spaces-series",
+  "status": "archived",
+  "guest": "",
+  "guestOrg": "",
+  "youtubeId": null,
+  "points": [],
+  "chapters": [],
+  "related": [],
+  "hasTranscript": false,
+  "class": "community",
+  "title": "Kitty Farcaster Spaces (weekly series)",
+  "date": "2026-07-28",
+  "show": "Farcaster Spaces",
+  "host": "Kitty",
+  "hostHandle": "",
+  "hostUrl": "",
+  "brands": [
+    "The ZAO"
+  ],
+  "links": [
+    {
+      "label": "Farcaster",
+      "url": "https://farcaster.xyz/zaal"
+    }
+  ],
+  "summary": "Weekly Tuesday Farcaster space Zaal joins - calendar-confirmed Jun 16 through Jul 28 2026. Farcaster spaces are the one archive ZM has not swept; Zaal will share links as they come.",
+  "dist": {
+    "socials": false,
+    "clips": false,
+    "notes": "need Farcaster space links from Zaal"
+  }
+}

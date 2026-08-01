@@ -1,0 +1,148 @@
+# Meetings log (private - notes only, no public entries)
+
+> Per Zaal (2026-08-01): private meetings are NOT public media items, but ZM keeps a note that we met. Names/handles only, no contact details, personal life excluded. Window: 2026-06-15 to 2026-07-31 (156 meetings). Recurring community calls attended weekly (not listed per-date): Pizza DAO, Unlock Protocol DAO, Harmony Hubs, Onchain Creators, Contributors Club, Nouns DAO Africa, Ohnahji U Saturdays, WIP meetup, Artizen sessions, Toastmasters, ZYNA.
+
+- 2026-07-30 - Zaal x Lea (with kismetcasa1)
+- 2026-07-30 - Lea convo
+- 2026-07-30 - Kompreni
+- 2026-07-29 - Z chat (with fbehdinan)
+- 2026-07-29 - Print?
+- 2026-07-29 - Matteo Alessio Tambussi and Zaal Panthaki (with matteo.tambussi)
+- 2026-07-29 - Lucciano
+- 2026-07-29 - JOSE IMPACT CONCERT
+- 2026-07-29 - Audos Summer Camp kick-off - build your business idea with unlimited Fable/Sol credits
+- 2026-07-29 - Audos Summer Camp kick-off (build your business idea with unlimited Fable/Sol credits )
+- 2026-07-28 - Maceo call (with maceow)
+- 2026-07-27 - Sifat and Zaal Panthaki (with web3aligarh)
+- 2026-07-27 - Jose
+- 2026-07-27 - 30 Minute Meeting
+- 2026-07-26 - Meeting with RePay/Taco (Zaal Panthaki) (with player1taco)
+- 2026-07-26 - Call Brandon Beckwith
+- 2026-07-23 - Zaal <> Aaron
+- 2026-07-23 - Saltorious and mcgee
+- 2026-07-22 - Yulia x Zaal (with yuliia.zolot)
+- 2026-07-22 - On the Sopha
+- 2026-07-22 - Just DAO It! (with adam.miller)
+- 2026-07-22 - Introducing Hyperagent Marketplace
+- 2026-07-22 - Impact concert
+- 2026-07-22 - Every laptop is a credential store: lessons from Vermeer
+- 2026-07-22 - DAO it
+- 2026-07-21 - dyl x zaal (with dylan)
+- 2026-07-21 - William X Zaal
+- 2026-07-21 - Rachel and Peanut
+- 2026-07-21 - Freeze (with freezetheverse)
+- 2026-07-20 - Sharon (OKX) (Zaal Panthaki) (with sharon.wu)
+- 2026-07-20 - Rishi
+- 2026-07-20 - Judasaca
+- 2026-07-19 - Arun x zaal
+- 2026-07-19 - 30 Min Meeting between Arun Philips and Zaal Panthaki
+- 2026-07-18 - Zaal x nikoline real
+- 2026-07-18 - Zaal x nikoline
+- 2026-07-18 - Zaal X RK (with rishikesh)
+- 2026-07-18 - Sen x zaal (with acadia.rising)
+- 2026-07-18 - Printed painter/yerb
+- 2026-07-17 - vinix zal
+- 2026-07-17 - Zach l x zaal
+- 2026-07-17 - Zaal Panthaki and Kaylan Sliney
+- 2026-07-17 - Set time with yerb for chat tmmr
+- 2026-07-17 - Mazda x zaal (with mazdairani)
+- 2026-07-17 - 1dolinski
+- 2026-07-16 - Vishnu x zaal (with vishnurajswag12)
+- 2026-07-16 - Sopha
+- 2026-07-16 - Paul lunch
+- 2026-07-16 - Nounish Prof X Zaal Code.
+- 2026-07-16 - Fellenz x zaal (zaostock convo) (with tfellenz)
+- 2026-07-16 - Call joe on teams
+- 2026-07-15 - Zaal Panthaki and Tim Martinez
+- 2026-07-15 - Zaal Panthaki and Kaylan Sliney
+- 2026-07-15 - Jango x zaal token talk (with jangouuforever)
+- 2026-07-15 - Groover: How to land impactful playlist placements in 2026
+- 2026-07-14 - Paul depoius reach out radio
+- 2026-07-14 - Dcoop
+- 2026-07-14 - Code with mu
+- 2026-07-14 - Catra x zaal (with catra.eth)
+- 2026-07-14 - Call Quan and try dcl
+- 2026-07-13 - Sopha
+- 2026-07-13 - Rishabh Gupta and Zaal Panthaki (with guptarishabh916155)
+- 2026-07-13 - Carlos x zaal (with nerd)
+- 2026-07-13 - 30 Minute Meeting
+- 2026-07-10 - Zaal x plat0x
+- 2026-07-10 - Meeting between Reid DeRamus and Zaal Panthaki (with reid.deramus, colin, reid)
+- 2026-07-10 - Doots w Cassie
+- 2026-07-10 - Consider A Collaboration  between G2 and Zaal Panthaki (with anupadasgupta06, G2)
+- 2026-07-10 - Cannon x zaal (with cannonjns)
+- 2026-07-10 - Burnout
+- 2026-07-09 - Thy rev rockumentatry
+- 2026-07-09 - Make a video without leaving Claude or ChatGPT
+- 2026-07-08 - kenny x zaal (with kaspotz)
+- 2026-07-08 - Vishnu x zaal (with vishnurajswag12)
+- 2026-07-08 - Tre call
+- 2026-07-08 - Cashless x zaal (with cashlessman.eth)
+- 2026-07-08 - AI Agent Setup Call
+- 2026-07-07 - Print painter
+- 2026-07-07 - Meta mu
+- 2026-07-07 - Look at tres thing
+- 2026-07-07 - Jeff x Zaal (artizen talk) (with bookzcreative)
+- 2026-07-06 - Gamez with Jon
+- 2026-07-06 - Dccop presentation
+- 2026-07-05 - Convo with catra
+- 2026-07-05 - Ba humata meeting
+- 2026-07-04 - Ethereum Build Camp
+- 2026-07-03 - Thy rev
+- 2026-07-03 - Make
+- 2026-07-03 - Ghost min tops
+- 2026-07-02 - Ohnahji + Zaal strat sesh (with ebv, grownmanish)
+- 2026-07-02 - Muhaha x Thursday noon
+- 2026-07-02 - Logesh
+- 2026-07-01 - Greg X ZAO (with greg, hurric4n3ike, hurric4n3soundz, samantha, wavewarz888)
+- 2026-07-01 - Gneric
+- 2026-07-01 - EthPDX Monthly Meetup
+- 2026-07-01 - Dcoop x zaal (with vecdmv)
+- 2026-06-30 - Duo do sesh
+- 2026-06-30 - Civil and Uzi csll
+- 2026-06-30 - Brath
+- 2026-06-29 - Viniapp brainstorm (with christopher.dolinski)
+- 2026-06-29 - Shawn call
+- 2026-06-29 - Deez x zaal (boardwalk) (with demetre)
+- 2026-06-28 - Ww finances
+- 2026-06-27 - Zaal x chukwuka (with chukwuka0009)
+- 2026-06-27 - Zaal x Sticky (with dragmakex)
+- 2026-06-27 - Zaal x Kim Mostro
+- 2026-06-27 - Zaal X AK
+- 2026-06-27 - Z-Mentoring: Med School & Residency Panel (with khorshid421, yazad.major, abaanku, adileng, aleesha.mody, al)
+- 2026-06-27 - Thy rev
+- 2026-06-27 - Maybe Vlad
+- 2026-06-26 - yp event
+- 2026-06-26 - Zaal Panthaki and Greg Gonzalez
+- 2026-06-26 - Lucciano
+- 2026-06-26 - Ellsworth chainsaw
+- 2026-06-26 - CECI unlock
+- 2026-06-25 - Zaal Panthaki and Vladislav Hramtsov
+- 2026-06-25 - Sistla x zaal
+- 2026-06-24 - august x zaal
+- 2026-06-24 - Go to Chris dad
+- 2026-06-24 - Chat with teresa
+- 2026-06-24 - BetterCallZaal <> Coinflow - Integration Call (with michael, wavewarz888, mustafa)
+- 2026-06-23 - Zaal x Farnaz connect (with fbehdinan)
+- 2026-06-23 - Topo hat worksho
+- 2026-06-23 - Saltorius event
+- 2026-06-22 - On the Sopha: Next for Sopha
+- 2026-06-22 - Marie x zaal (with music)
+- 2026-06-22 - Impact concert
+- 2026-06-21 - August chat
+- 2026-06-20 - JUBJUB
+- 2026-06-20 - Community Building Decentraland
+- 2026-06-20 - COC Benefit Battle
+- 2026-06-20 - BENFIT BATTLE
+- 2026-06-20 - Art in the park
+- 2026-06-20 - Ali
+- 2026-06-16 - Strategy Meeting with Ken Garnett
+- 2026-06-16 - Record video of eduard book
+- 2026-06-16 - Music Stage Sync (with carlota.voorvaart, jaiswalraj03014, shakaleikaumaka, tomoyuk)
+- 2026-06-16 - Diviflyu
+- 2026-06-16 - AoE Event Chat w/ Zaal (with chesnee)
+- 2026-06-15 - bother godsticky
+- 2026-06-15 - Zaal Panthaki and Kenny Spotz (with kaspotz)
+- 2026-06-15 - Viniapp with chris
+- 2026-06-15 - Jango UU (Jane-go W) and Rom Villarica (with romvillarica, jangouuforever)
+- 2026-06-15 - Bother Lucciano

@@ -59,7 +59,6 @@ Luma: ZAO calendar live at luma.com/zao (tracks: Artist/Builder/Creator, Firesid
 - Podcast indexes (Podchaser, ListenNotes, Rephonic, podcastindex.org): zero Zaal entries - the earned footprint lives on YouTube, not podcast directories.
 - ETHBoulder 2026 speaker list checked: Zaal NOT a listed speaker (the Feb 16 space was a recap, not a talk). DevCon India WaveWarZ presentation unconfirmed - local file zao-devcon-india-wavewarz.mov suggests something exists; ask Zaal.
 - Reddit, Hacker News, TikTok (@zaoconcertz): zero ZAO presence. IG @zaoconcertz unverified publicly.
-- songjam.space/zabal - live ZABAL leaderboard (SANG ecosystem tie-in).
 - Paragraph "ZABAL Update" series (e.g. ZABAL Update 3, Dec 2 2025) alongside the daily Year of the ZAO posts - loggable as written media if wanted.
 - "THE ZAO Interview" video lead (oVp0d1BBmko): dead/private, unverifiable.
 
@@ -79,6 +78,10 @@ luma.com/zao past-events API confirms all logged June workshops (event dates) + 
 
 - Doc 2136 lists "ZAO Live Podcast (@Zao.livepodcast)" as a Zaal channel - WRONG. That channel is "zao.live", an unrelated AI news-podcast app. Name collision; not ZAO media.
 - Twitch VOD IDs now captured in docs/youtube-catalog.md (60 VODs) - download-ready for the backup run.
+
+## Calendar sweep (2026-08-01, window Jun 15 - Jul 31)
+
+396 events processed. Private meetings -> docs/meetings-log.md (144 met-with notes, names only, personal life excluded - per Zaal: notes yes, public entries no). Media discovered and logged as series entries: Fractals Dan x Zaal weekly convos (recordings land in Eden Creators ETH eps - scan for more earned), Kitty Farcaster Spaces weekly (Tue), Artizen LIVE weekly (Thu). Also confirmed on calendar: ZAO FRACTAL #104-108 weekly cadence, COC Benefit Battle (Jun 20), Impact concerts (Jun 22 / Jul 22 / Jul 29 - the Venezuela relief space in the catalog matches), WaveWarZ Costa Rica retreat convo (Jul 29), Juke Space ZABAL GAMEZ x POIDH (Jul 8 - matches the logged X Space).
 
 ## Zaal's answers (2026-07-31 morning)
 
