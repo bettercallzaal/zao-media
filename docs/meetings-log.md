@@ -1,6 +1,6 @@
 # Meetings log (private - notes only, no public entries)
 
-> Per Zaal (2026-08-01): private meetings are NOT public media items, but ZM keeps a note that we met. Names/handles only, no contact details, personal life excluded. Window: 2026-06-15 to 2026-07-31 (156 meetings). Recurring community calls attended weekly (not listed per-date): Pizza DAO, Unlock Protocol DAO, Harmony Hubs, Onchain Creators, Contributors Club, Nouns DAO Africa, Ohnahji U Saturdays, WIP meetup, Artizen sessions, Toastmasters, ZYNA.
+> Per Zaal (2026-08-01): private meetings are NOT public media items, but ZM keeps a note that we met. Names/handles only, no contact details, personal life excluded. CAVEAT per Zaal: these are calendar blocks, not confirmed attendance - recurring slots especially may not have happened each week. Window: 2026-06-15 to 2026-07-31 (156 meetings). Recurring community calls attended weekly (not listed per-date): Pizza DAO, Unlock Protocol DAO, Harmony Hubs, Onchain Creators, Contributors Club, Nouns DAO Africa, Ohnahji U Saturdays, WIP meetup, Artizen sessions, Toastmasters, ZYNA.
 
 - 2026-07-30 - Zaal x Lea (with kismetcasa1)
 - 2026-07-30 - Lea convo
