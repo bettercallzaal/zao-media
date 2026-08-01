@@ -79,6 +79,14 @@ luma.com/zao past-events API confirms all logged June workshops (event dates) + 
 - Doc 2136 lists "ZAO Live Podcast (@Zao.livepodcast)" as a Zaal channel - WRONG. That channel is "zao.live", an unrelated AI news-podcast app. Name collision; not ZAO media.
 - Twitch VOD IDs now captured in docs/youtube-catalog.md (60 VODs) - download-ready for the backup run.
 
+## Standing commitments + fresh leads (from Zaal, 2026-08-01)
+
+- ZM DAILY HOUR: Zaal works ZAO Media 5-6pm EST Monday-Friday, starting now. ZM is a daily practice.
+- Real recurring attendance: Artizen Mondays (tries), Eden Fractal Thursdays (tries), ZAO Fractal Mondays 6pm EST (his own). Everything else on the calendar is aspirational.
+- LEAD - doot stream: Zaal joined for the first time this week, liked it, and WILL BE ON THEIR SHOW soon - future earned entry, watch for it.
+- LEAD - WIP show: Zaal WAS ON the WIP show about a month ago (early Jul 2026) - earned appearance not yet found; locate the recording.
+- LEAD - Dan x Zaal recordings: "many recordings exist but I need to find them" - scan Eden Creators ETH series + wherever Dan archives; each found one is an earned entry.
+
 ## Calendar sweep (2026-08-01, window Jun 15 - Jul 31)
 
 396 events processed. Private meetings -> docs/meetings-log.md (144 met-with notes, names only, personal life excluded - per Zaal: notes yes, public entries no). Media logged: Fractals Dan x Zaal convos as an OCCASIONAL series (Zaal: only some happen; calendar slots are not attendance). Kitty Farcaster Spaces and Artizen LIVE were calendar slots Zaal mostly does NOT attend - not logged. Also confirmed on calendar: ZAO FRACTAL #104-108 weekly cadence, COC Benefit Battle (Jun 20), Impact concerts (Jun 22 / Jul 22 / Jul 29 - the Venezuela relief space in the catalog matches), WaveWarZ Costa Rica retreat convo (Jul 29), Juke Space ZABAL GAMEZ x POIDH (Jul 8 - matches the logged X Space).
