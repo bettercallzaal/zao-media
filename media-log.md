@@ -484,6 +484,21 @@
 
 ---
 
+### ETH 83: Fractal Decision-Making for Nonprofits
+
+- **Class:** earned
+- **Date:** 2026-07-06 (archived)
+- **Host/Source:** Dan SingJoy (@EdenCreators) - Eden Creators
+- **Brands:** The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-07-06-eden-creators-eth83/
+- **URLs:**
+  - YouTube: https://youtu.be/XoiTs7acynM
+- **Topics/summary:** Eden Creators ETH series episode featuring Zaal / The ZAO (confirmed via episode description) - part of the ongoing Dan SingJoy x Zaal fractal-governance conversations.
+- **Clip candidates:**
+
+
+---
+
 ### Web3 thezao cocconcertz artizen morethe year of ZABAL
 
 - **Class:** live
@@ -671,6 +686,21 @@
   - YouTube: https://youtu.be/RpBfj1cJNwU
   - ZABAL Games: https://zabalgamez.com
 - **Topics/summary:** ZABAL Gamez fireside session with Los Fomos - conversations from the ZABAL Games buildathon summer.
+- **Clip candidates:**
+
+
+---
+
+### ETH 82: Reflecting on Four Years of Eden Fractal
+
+- **Class:** earned
+- **Date:** 2026-06-29 (archived)
+- **Host/Source:** Dan SingJoy (@EdenCreators) - Eden Creators
+- **Brands:** The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-29-eden-creators-eth82/
+- **URLs:**
+  - YouTube: https://youtu.be/9sPiWGoMYUY
+- **Topics/summary:** Eden Creators ETH series episode featuring Zaal / The ZAO (confirmed via episode description) - part of the ongoing Dan SingJoy x Zaal fractal-governance conversations.
 - **Clip candidates:**
 
 
@@ -1564,6 +1594,21 @@
 
 ---
 
+### ETH 80: Charting the Firmament
+
+- **Class:** earned
+- **Date:** 2026-06-02 (archived)
+- **Host/Source:** Dan SingJoy (@EdenCreators) - Eden Creators
+- **Brands:** The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-02-eden-creators-eth80/
+- **URLs:**
+  - YouTube: https://youtu.be/w3hKK2LeE1U
+- **Topics/summary:** Eden Creators ETH series episode featuring Zaal / The ZAO (confirmed via episode description) - part of the ongoing Dan SingJoy x Zaal fractal-governance conversations.
+- **Clip candidates:**
+
+
+---
+
 ### ZAO Fractal Weekly Introduction Presentation
 
 - **Class:** produced
@@ -1782,6 +1827,21 @@
   - Listen on X: https://x.com/i/spaces/1OxwbldPWPDJB
   - Spaces Dashboard: https://spacesdashboard.com/space/1OxwbldPWPDJB/music-x-crypto-connect-sesh-may-21-x-bcz-strategies
 - **Topics/summary:** X Space (1 hours,) - hosted, co-hosted, or spoken in by Zaal. Auto-logged from the spacesdashboard archive sweep of 2026-07-30.
+- **Clip candidates:**
+
+
+---
+
+### ETH 79: Clean Architecture for Fractal Communities
+
+- **Class:** earned
+- **Date:** 2026-05-21 (archived)
+- **Host/Source:** Dan SingJoy (@EdenCreators) - Eden Creators
+- **Brands:** The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-05-21-eden-creators-eth79/
+- **URLs:**
+  - YouTube: https://youtu.be/orWifiOGFWM
+- **Topics/summary:** Eden Creators ETH series episode featuring Zaal / The ZAO (confirmed via episode description) - part of the ongoing Dan SingJoy x Zaal fractal-governance conversations.
 - **Clip candidates:**
 
 
@@ -2494,6 +2554,21 @@
 
 ---
 
+### ETH 78: Fractal Governance Growth and Lineages
+
+- **Class:** earned
+- **Date:** 2026-04-02 (archived)
+- **Host/Source:** Dan SingJoy (@EdenCreators) - Eden Creators
+- **Brands:** The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-04-02-eden-creators-eth78/
+- **URLs:**
+  - YouTube: https://youtu.be/wm_2urYvT3A
+- **Topics/summary:** Eden Creators ETH series episode featuring Zaal / The ZAO (confirmed via episode description) - part of the ongoing Dan SingJoy x Zaal fractal-governance conversations.
+- **Clip candidates:**
+
+
+---
+
 ### Music x crypto connect sesh april 1st x BCZ strategies
 
 - **Class:** live
@@ -2599,6 +2674,21 @@
 - **URLs:**
   - YouTube: https://youtu.be/WTyafqHKQqM
 - **Topics/summary:** In Episode 13 of BCZ YapZ, Zaal sits down with Ali, founder of Inflynce, to break down how one of the earliest Farcaster marketing tools came to life. Ali shares his journey from trading crypto and losing everything to contributing in a Discord, earning a role through pure effort, and eventually building Inflynce after getting rejected from over 180 job applications. The conversation highlights how real opportunity in Web3 often comes from participation, not credentials.
+- **Clip candidates:**
+
+
+---
+
+### ETH 77: Fractal Scheduling and Context Engineering
+
+- **Class:** earned
+- **Date:** 2026-03-23 (archived)
+- **Host/Source:** Dan SingJoy (@EdenCreators) - Eden Creators
+- **Brands:** The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-03-23-eden-creators-eth77/
+- **URLs:**
+  - YouTube: https://youtu.be/Hp0qJlgcWoo
+- **Topics/summary:** Eden Creators ETH series episode featuring Zaal / The ZAO (confirmed via episode description) - part of the ongoing Dan SingJoy x Zaal fractal-governance conversations.
 - **Clip candidates:**
 
 

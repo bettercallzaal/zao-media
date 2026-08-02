@@ -119,7 +119,7 @@ function hubPage(items) {
   <p class="kicker">ZM - ZAO Media - ZAO Morning</p>
   <h1>The media home for The ZAO.</h1>
   <p class="lead">Everything the ZAO produces or appears in - podcasts, shows, Spaces, streams, and earned-media appearances. One place, logged once, shared everywhere. Every morning is a ZAO Media moment.</p>
-  <p class="lead" style="margin-top:10px"><a href="https://github.com/bettercallzaal/zao-media/issues/new?template=add-media.yml">+ Add media to ZM</a> - anyone can submit an appearance, stream, or show. <a href="./tracker.html">Tracker</a> - the distribution CRM. <a href="./feed.xml">RSS</a>.</p>
+  <p class="lead" style="margin-top:10px"><a href="https://github.com/bettercallzaal/zao-media/issues/new?template=add-media.yml">+ Add media to ZM</a> - anyone can submit an appearance, stream, or show. <a href="./tracker.html">Tracker</a> - the distribution CRM. <a href="./people.html">People</a>. <a href="./feed.xml">RSS</a>.</p>
 </header>
 <main>
   <input id="q" type="search" placeholder="Search ${items.length} media items - title, guest, show, topic..." aria-label="Search media"
@@ -256,6 +256,46 @@ function crmCsv(items) {
   return [head.map(esc2).join(','), ...rows].join('\n') + '\n';
 }
 
+// --- People index (people.html) - who appears across ZAO media ---
+function peoplePage(items) {
+  const people = new Map();
+  const add = (name, m, role) => {
+    const k = name.trim();
+    if (!k || /^zaal\b/i.test(k)) return;
+    if (!people.has(k)) people.set(k, []);
+    people.get(k).push({ m, role });
+  };
+  for (const m of items) {
+    if (m.guest) m.guest.split(/ and |, | & /).forEach((g) => add(g, m, 'guest'));
+    if (m.class === 'earned' && m.host) m.host.split(/ and |, | & /).forEach((h) => add(h, m, 'host'));
+  }
+  const sorted = [...people.entries()].sort((a, b) => b[1].length - a[1].length || a[0].localeCompare(b[0]));
+  const rows = sorted.map(([name, apps]) => `  <div class="card">
+    <h3>${esc(name)} <span class="meta">(${apps.length})</span></h3>
+    <ul>${apps.map(({ m, role }) => `<li><a href="./appearances/${m.slug}/">${esc(m.title).slice(0, 70)}</a> <span class="meta">${esc(m.date)}${role === 'host' ? ' - their show' : ''}</span></li>`).join('\n')}</ul>
+  </div>`).join('\n');
+  return `${HEAD('ZM People - who appears across ZAO media', 'Every guest and host across ZAO media, cross-referenced.', '')}
+<header>
+  <a class="kicker" href="./">ZM - ZAO Media</a>
+  <h1>People of ZAO media.</h1>
+  <p class="lead">${sorted.length} people across ${items.length} media items - every guest on a ZAO show and every host who had Zaal on theirs.</p>
+  <input id="q" type="search" placeholder="Find a person..." aria-label="Find a person"
+    style="width:100%;padding:10px 14px;border-radius:10px;border:1px solid rgba(224,221,170,.25);background:var(--navy2);color:var(--ink);font-size:1rem;margin:6px 0 4px">
+</header>
+<main>
+${rows}
+</main>
+<footer>ZM - generated from content/*.json.</footer>
+<script>
+  const q = document.getElementById('q');
+  q.addEventListener('input', () => {
+    const t = q.value.toLowerCase();
+    document.querySelectorAll('.card').forEach((c) => { c.style.display = c.textContent.toLowerCase().includes(t) ? '' : 'none'; });
+  });
+</script>
+</body></html>`;
+}
+
 // --- RSS feed (feed.xml) ---
 function rssFeed(items) {
   const SITE = 'https://bettercallzaal.github.io/zao-media';
@@ -296,5 +336,6 @@ writeFileSync(join(ROOT, 'media-log.md'), mediaLog(items));
 writeFileSync(join(ROOT, 'tracker.html'), trackerPage(items));
 writeFileSync(join(ROOT, 'media-crm.csv'), crmCsv(items));
 writeFileSync(join(ROOT, 'feed.xml'), rssFeed(items));
+writeFileSync(join(ROOT, 'people.html'), peoplePage(items));
 
 console.log(`ZM build: ${items.length} item(s) -> hub + ${items.length} page(s) + media-log.md + tracker.html + media-crm.csv`);
