@@ -38,6 +38,10 @@ Written 2026-08-02 at close-out of the build-out session. These are the three hi
 
 **Effort:** chapters are scriptable this week; clips and socials are a cadence, not a build.
 
+## The infrastructure blueprint (added 2026-08-08)
+
+The self-hosted media stack that would carry all three - ingest hub (MediaMTX), owned live surface (Owncast), 24/7 playout (ffplayout), overlays (SPX-GC), remote contribution (SRT/WHIP), VOD sovereignty (PeerTube), and the AI routing/privacy rules for the pipeline - is designed end-to-end with build order in ZAOOS research doc 2252 (self-hosted-media-stack-blueprint). Doc 2238 holds the preceding research digest.
+
 ## Why these three
 
 Each one converts the archive from record into engine: auto-ingest keeps it true without labor, metrics tell it what matters, chapters/clips/socials make it reach people. Everything else found in the hunt (backup, Farcaster sweep, missing footage) is inventory work - these three are leverage.
