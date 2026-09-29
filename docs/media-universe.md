@@ -146,7 +146,7 @@ Tracker page: https://bettercallzaal.github.io/zao-media/tracker.html (yes/no pe
 | Instagram | @zaofestivals (NOT @zaoconcertz - docs 2135/2136 wrong) | active promo account |
 | Audius | @bettercallzaal | dormant music |
 | Hive | @bettercallzaal | planned fractal loop |
-| LinkedIn / Facebook | ZAO Festivals | low-use / not created |
+| LinkedIn / Facebook | ZAO Festivals | **STALE as of 2026-09-16** - ZAOstock LinkedIn/Facebook push shipped (vault `projects/zaostock-linkedin-facebook-push-2026-09-16.md`) and ZAOOS doc 2495 has sourced Ellsworth-area Facebook groups; also Zaal's personal `linkedin.com/in/zaalp` plus ZAOOS docs 987/1261 (LinkedIn playbook + ready-to-paste copy, unclear if pasted). Do not re-cite "not created" without reading those first. |
 | Mirror.xyz | Zaal | long-form (H2 2026 articles) |
 | ZNN | thezao.xyz/tv concept | 24/7 channel, $0 YouTube-RTMP MVP lane chosen (doc 1128) |
 | Bluesky / Lens | - | do not exist, claimable |
@@ -162,3 +162,34 @@ zaoscribe (speech-to-text) -> spacetovideo -> ZAOVideoEditor -> zaalclip (Livepe
 ## Press / earned-media engine (doc 1340)
 
 40+ outlets tiered (Musictech, Futurism, Water & Music, Decrypt, CoinDesk, Green Pill, Metagov, Maine local press). Wikipedia eligibility needs 2 independent sources; 1 live (Crypto Magic Hour EP.50). Every landed story becomes an earned ZM entry - ZM is the coverage tracker's permanent home.
+
+## Social accounts sweep - 2026-09-29 (dedup pass against ZAOOS, not a fresh inventory)
+
+The July "every platform ZAO is on" table above is 2 months stale. Before adding new research this pass checked ZAOOS for existing work first (house rule) and found **ZAOOS docs 1107, 987, 1261, 077, 177 already cover exactly this ground** - do not re-derive SEO/growth strategy from scratch; read those first.
+
+**ZAOOS doc 1107 (SEO+GEO strategy, research-complete 2026-07-15) - action items and their status as observed today, not as the doc claims:**
+
+| Fix (owner, due date per doc 1107) | Status observed 2026-09-29 |
+|---|---|
+| X @bettercallzaal display name "+Zaal (on farcaster)" -> brand name (@Zaal, 2026-07-20) | Still shows "+Zaal (on farcaster)" on two third-party mirrors (Firefly, Sorsa) as of this sweep - **these are cached mirrors, not a live X pull**, so this is a lead to verify directly, not a confirmed miss |
+| YouTube @bettercallzaal metadata/cadence (@Zaal, 2026-07-22) | Not reverified this pass |
+| llms.txt on bettercallzaal.com, thezao.com, wavewarz.com (@Iman, 2026-08-05) | **Confirmed missing on all three** - CRAWL_NOT_FOUND on `/.well-known/llms.txt` for all three domains, checked live just now |
+| JSON-LD Person/Organization schema (@Iman, 2026-08-10) | Not reverified this pass |
+| Cross-linking audit (@Team, 2026-08-15) | Not reverified this pass |
+| WaveWarZ YouTube rename off "Wave Warz Zm" | Not reverified this pass |
+| wavewarz.com 403 (doc 1107 finding, Jul 2026) | **Resolved** - wavewarz.com now resolves live (Next.js site), so this specific finding is stale-corrected, not still broken |
+| Instagram squat @wavewarsmusic holding the WaveWarZ-adjacent handle | Not reverified this pass |
+
+All four llms.txt/JSON-LD/cross-link items are owned `@Iman` per the doc and are 41-55 days past their stated ship dates as of today - flagged to iman-desk-7e directly rather than fixed here, since ZM's scope is the media log, not site SEO plumbing.
+
+**New, not in the July table:**
+- WaveWarZ runs a community clip-submission program: "approved clips go out on YouTube, X, and TikTok" (wavewarz-intelligence.vercel.app) - confirms a TikTok distribution surface exists under WaveWarZ, but no @handle confirmed yet. Worth a follow-up to find the exact handle and whether it's owned or just a submission destination.
+- WaveWarZ Base (agentic sibling, Base L2, `github.com/CandyToyBox/wavewarz-base`) is a second live surface with its own audience - not in any prior ZM platform table.
+- zaostock.com's own pages carry no visible FB/IG/X link in a plain fetch (only `info@thezao.com`) - confirms the July table's read that ZAOstock rides on @zaofestivals rather than having its own handle. The festival's own artist partners do have pages (facebook.com/TheCrownVics, facebook.com/AcadiaRising, instagram.com/acadia.rising) worth a cross-promo ask, not a ZAO-owned account.
+- Bluesky/Lens/Mastodon/Threads: still unclaimed as far as this pass found (matches the July "claimable" note). ZAOOS docs 077 (Bluesky) and 177 (Mastodon+Threads) treat this as a cross-posting *engine* build, not just claiming the handles - claiming the handles costs nothing and doesn't need to wait on the engine.
+- linkedin.com/in/zaalp (personal) exists; ZAOOS doc 987 (LinkedIn personal-brand playbook) and doc 1261 (ready-to-paste profile copy, verified 2026-07-17) exist but this pass did not check whether doc 1261's copy was ever actually pasted in - open question.
+- Follower counts vary by source and none were pulled live this pass: Farcaster shows 3.2K (farcaster.xyz/zaal, fetched today) vs 5,114 (ZAOOS wwbase repo README, undated within the doc); X shows 4.88K-5K depending on mirror. Treat every number here as approximate until pulled from the platform directly - do not cite a specific follower count in outward copy without a same-day check.
+
+**A repo-management finding, not a platform finding:** `media-crm.csv`'s "Socials posted" and "Clips made" columns read **NO for all 598 items, 598 of 598** - checked the underlying `dist` block in 5 sampled `content/*.json` files across the date range and all five are hardcoded `false`/empty, confirming this is a flag nobody has ever populated, not a measurement that zero of 598 items were ever posted to socials. Report this as **UNKNOWN**, not zero, until the flag is actually fed - a 598/598 result from an unused instrument looks exactly like a 598/598 real finding and isn't one. Fixing this needs either a retroactive population pass or dropping the column until it's actually maintained; leaving it as-is means the CRM currently answers "has this been posted" with silence dressed as "no."
+
+**Repo cadence:** last commit before this pass was 2026-08-25 (`76d7a6e`) - 34 days idle against the declared 5-6pm EST M-F ZM daily-hour block ([[zm-daily-hour]] memory, itself already flagged as aspirational-not-attendance for calendar blocks generally).
