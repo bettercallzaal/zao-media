@@ -122,12 +122,12 @@
 - **Class:** produced
 - **Date:** 2026-07-23 (archived)
 - **Host/Source:** ZABAL Gamez Firesides - Zaal with Nounish Prof
-- **Brands:** ZABAL Games, The ZAO
+- **Brands:** ZABAL Gamez, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-07-23-zabal-fireside-nounish-prof-brainstorm/
 - **URLs:**
   - YouTube: https://youtu.be/gcxH43GBBHU
-  - ZABAL Games: https://zabalgamez.com
-- **Topics/summary:** ZABAL Gamez fireside session with Nounish Prof - conversations from the ZABAL Games buildathon summer.
+  - ZABAL Gamez: https://zabalgamez.com
+- **Topics/summary:** ZABAL Gamez fireside session with Nounish Prof - conversations from the ZABAL Gamez buildathon summer.
 - **Clip candidates:**
 
 
@@ -536,12 +536,12 @@
 - **Class:** produced
 - **Date:** 2026-07-02 (archived)
 - **Host/Source:** ZABAL Gamez Firesides - Zaal with InitiumBuilders
-- **Brands:** ZABAL Games, The ZAO
+- **Brands:** ZABAL Gamez, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-07-02-zabal-fireside-initiumbuilders/
 - **URLs:**
   - YouTube: https://youtu.be/1g87GmsJMVw
-  - ZABAL Games: https://zabalgamez.com
-- **Topics/summary:** ZABAL Gamez fireside session with InitiumBuilders - conversations from the ZABAL Games buildathon summer.
+  - ZABAL Gamez: https://zabalgamez.com
+- **Topics/summary:** ZABAL Gamez fireside session with InitiumBuilders - conversations from the ZABAL Gamez buildathon summer.
 - **Clip candidates:**
 
 
@@ -632,11 +632,11 @@
 - **Class:** produced
 - **Date:** 2026-06-30 (archived)
 - **Host/Source:** ZABAL Gamez Workshops - Zaal with Duo Do @duodomusica (Clementine and Santiago)
-- **Brands:** ZABAL Games, The ZAO
+- **Brands:** ZABAL Gamez, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-30-duo-do-workshop/
 - **URLs:**
   - YouTube: https://youtu.be/iI4gdfDOLno
-  - ZABAL Games: https://zabalgamez.com
+  - ZABAL Gamez: https://zabalgamez.com
 - **Topics/summary:** ZABAL Gamez workshop session with Duo Do @duodomusica (Clementine and Santiago).
 - **Clip candidates:**
 
@@ -648,11 +648,11 @@
 - **Class:** produced
 - **Date:** 2026-06-30 (archived)
 - **Host/Source:** ZABAL Gamez Workshops - Zaal with Ceci Sakura (Unlock Protocol)
-- **Brands:** ZABAL Games, The ZAO
+- **Brands:** ZABAL Gamez, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-30-ceci-unlock-protocol-workshop/
 - **URLs:**
   - YouTube: https://youtu.be/91nwS2212nA
-  - ZABAL Games: https://zabalgamez.com
+  - ZABAL Gamez: https://zabalgamez.com
 - **Topics/summary:** ZABAL Gamez workshop session with Ceci Sakura (Unlock Protocol).
 - **Clip candidates:**
 
@@ -664,11 +664,11 @@
 - **Class:** produced
 - **Date:** 2026-06-30 (archived)
 - **Host/Source:** ZABAL Gamez Workshops - Zaal with Adrienne Shulman @adrienne (GM Farcaster)
-- **Brands:** ZABAL Games, The ZAO
+- **Brands:** ZABAL Gamez, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-30-adrienne-gm-farcaster-warpy-workshop/
 - **URLs:**
   - YouTube: https://youtu.be/t0LntX592vQ
-  - ZABAL Games: https://zabalgamez.com
+  - ZABAL Gamez: https://zabalgamez.com
 - **Topics/summary:** ZABAL Gamez workshop session with Adrienne Shulman @adrienne (GM Farcaster).
 - **Clip candidates:**
 
@@ -680,12 +680,12 @@
 - **Class:** produced
 - **Date:** 2026-06-29 (archived)
 - **Host/Source:** ZABAL Gamez Firesides - Zaal with Los Fomos
-- **Brands:** ZABAL Games, The ZAO
+- **Brands:** ZABAL Gamez, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-29-zabal-fireside-los-fomos/
 - **URLs:**
   - YouTube: https://youtu.be/RpBfj1cJNwU
-  - ZABAL Games: https://zabalgamez.com
-- **Topics/summary:** ZABAL Gamez fireside session with Los Fomos - conversations from the ZABAL Games buildathon summer.
+  - ZABAL Gamez: https://zabalgamez.com
+- **Topics/summary:** ZABAL Gamez fireside session with Los Fomos - conversations from the ZABAL Gamez buildathon summer.
 - **Clip candidates:**
 
 
@@ -711,12 +711,12 @@
 - **Class:** produced
 - **Date:** 2026-06-28 (archived)
 - **Host/Source:** ZABAL Gamez Firesides - Zaal with hammallama (Vendyz)
-- **Brands:** ZABAL Games, The ZAO
+- **Brands:** ZABAL Gamez, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-28-zabal-fireside-vendyz-hammallama/
 - **URLs:**
   - YouTube: https://youtu.be/Rvaa51H2R6E
-  - ZABAL Games: https://zabalgamez.com
-- **Topics/summary:** ZABAL Gamez fireside session with hammallama (Vendyz) - conversations from the ZABAL Games buildathon summer.
+  - ZABAL Gamez: https://zabalgamez.com
+- **Topics/summary:** ZABAL Gamez fireside session with hammallama (Vendyz) - conversations from the ZABAL Gamez buildathon summer.
 - **Clip candidates:**
 
 
@@ -731,7 +731,7 @@
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-28-metamu-gaming-sesh-zaal/
 - **URLs:**
   - YouTube: https://youtu.be/Xt7a3vOvht8
-- **Topics/summary:** Gaming session stream - MetaMu with Zaal during ZABAL Games summer.
+- **Topics/summary:** Gaming session stream - MetaMu with Zaal during ZABAL Gamez summer.
 - **Clip candidates:**
 
 
@@ -742,11 +742,11 @@
 - **Class:** produced
 - **Date:** 2026-06-28 (archived)
 - **Host/Source:** ZABAL Gamez Workshops - Zaal with Matt Lee @mattlee (Tortoise)
-- **Brands:** ZABAL Games, The ZAO
+- **Brands:** ZABAL Gamez, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-28-matt-lee-tortoise-workshop/
 - **URLs:**
   - YouTube: https://youtu.be/kbUZIRBM2Gw
-  - ZABAL Games: https://zabalgamez.com
+  - ZABAL Gamez: https://zabalgamez.com
 - **Topics/summary:** ZABAL Gamez workshop session with Matt Lee @mattlee (Tortoise).
 - **Clip candidates:**
 
@@ -758,11 +758,11 @@
 - **Class:** produced
 - **Date:** 2026-06-28 (archived)
 - **Host/Source:** ZABAL Gamez Workshops - Zaal with AZKAL (FlowStage)
-- **Brands:** ZABAL Games, The ZAO
+- **Brands:** ZABAL Gamez, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-28-building-flowstage-workshop/
 - **URLs:**
   - YouTube: https://youtu.be/U_Eubs-2_Yo
-  - ZABAL Games: https://zabalgamez.com
+  - ZABAL Gamez: https://zabalgamez.com
 - **Topics/summary:** ZABAL Gamez workshop session with AZKAL (FlowStage).
 - **Clip candidates:**
 
@@ -774,12 +774,12 @@
 - **Class:** produced
 - **Date:** 2026-06-27 (archived)
 - **Host/Source:** ZABAL Gamez Firesides - Zaal with Luciano
-- **Brands:** ZABAL Games, The ZAO
+- **Brands:** ZABAL Gamez, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-27-zabal-fireside-luciano/
 - **URLs:**
   - YouTube: https://youtu.be/WrZcZZm1b1M
-  - ZABAL Games: https://zabalgamez.com
-- **Topics/summary:** ZABAL Gamez fireside session with Luciano - conversations from the ZABAL Games buildathon summer.
+  - ZABAL Gamez: https://zabalgamez.com
+- **Topics/summary:** ZABAL Gamez fireside session with Luciano - conversations from the ZABAL Gamez buildathon summer.
 - **Clip candidates:**
 
 
@@ -806,11 +806,11 @@
 - **Class:** produced
 - **Date:** 2026-06-27 (archived)
 - **Host/Source:** ZABAL Gamez Workshops - Zaal with James @jamesdesign.eth (Mental Wealth Academy)
-- **Brands:** ZABAL Games, The ZAO
+- **Brands:** ZABAL Gamez, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-27-james-mental-wealth-academy-workshop/
 - **URLs:**
   - YouTube: https://youtu.be/PghbLCx38t8
-  - ZABAL Games: https://zabalgamez.com
+  - ZABAL Gamez: https://zabalgamez.com
 - **Topics/summary:** ZABAL Gamez workshop session with James @jamesdesign.eth (Mental Wealth Academy).
 - **Clip candidates:**
 
@@ -854,11 +854,11 @@
 - **Class:** produced
 - **Date:** 2026-06-25 (archived)
 - **Host/Source:** ZABAL Gamez Workshops - Zaal with Teresa Marrin Nakra (Stevens University)
-- **Brands:** ZABAL Games, The ZAO
+- **Brands:** ZABAL Gamez, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-25-music-generative-ai-ableton-workshop/
 - **URLs:**
   - YouTube: https://youtu.be/p8ctV40HsyM
-  - ZABAL Games: https://zabalgamez.com
+  - ZABAL Gamez: https://zabalgamez.com
 - **Topics/summary:** ZABAL Gamez workshop session with Teresa Marrin Nakra (Stevens University).
 - **Clip candidates:**
 
@@ -886,11 +886,11 @@
 - **Class:** produced
 - **Date:** 2026-06-23 (archived)
 - **Host/Source:** ZABAL Gamez Workshops - Zaal with topocount @topocount.eth (Neynar)
-- **Brands:** ZABAL Games, The ZAO
+- **Brands:** ZABAL Gamez, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-23-snapchain-under-the-hood-workshop/
 - **URLs:**
   - YouTube: https://youtu.be/lv70ErBQopY
-  - ZABAL Games: https://zabalgamez.com
+  - ZABAL Gamez: https://zabalgamez.com
 - **Topics/summary:** ZABAL Gamez workshop session with topocount @topocount.eth (Neynar).
 - **Clip candidates:**
 
@@ -902,11 +902,11 @@
 - **Class:** produced
 - **Date:** 2026-06-23 (archived)
 - **Host/Source:** ZABAL Gamez Workshops - Zaal with Saltorious @saltorious.eth (Bankr)
-- **Brands:** ZABAL Games, The ZAO
+- **Brands:** ZABAL Gamez, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-23-harness-and-joining-bankr-workshop/
 - **URLs:**
   - YouTube: https://youtu.be/YmRfDeJyl0M
-  - ZABAL Games: https://zabalgamez.com
+  - ZABAL Gamez: https://zabalgamez.com
 - **Topics/summary:** ZABAL Gamez workshop session with Saltorious @saltorious.eth (Bankr).
 - **Clip candidates:**
 
@@ -918,11 +918,11 @@
 - **Class:** produced
 - **Date:** 2026-06-23 (archived)
 - **Host/Source:** ZABAL Gamez Workshops - Zaal with Dylan Yarter @bizarrebeast (BizarreBeasts)
-- **Brands:** ZABAL Games, The ZAO
+- **Brands:** ZABAL Gamez, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-23-bizarre-pixel-studio-workshop/
 - **URLs:**
   - YouTube: https://youtu.be/i_OX-nSnwkA
-  - ZABAL Games: https://zabalgamez.com
+  - ZABAL Gamez: https://zabalgamez.com
 - **Topics/summary:** ZABAL Gamez workshop session with Dylan Yarter @bizarrebeast (BizarreBeasts).
 - **Clip candidates:**
 
@@ -934,12 +934,12 @@
 - **Class:** produced
 - **Date:** 2026-06-22 (archived)
 - **Host/Source:** ZABAL Gamez Firesides - Zaal with svvvg3.eth and katkartel.eth (Minted Merch)
-- **Brands:** ZABAL Games, The ZAO
+- **Brands:** ZABAL Gamez, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-22-zabal-fireside-minted-merch/
 - **URLs:**
   - YouTube: https://youtu.be/Iq9bSlazT-k
-  - ZABAL Games: https://zabalgamez.com
-- **Topics/summary:** ZABAL Gamez fireside session with svvvg3.eth and katkartel.eth (Minted Merch) - conversations from the ZABAL Games buildathon summer.
+  - ZABAL Gamez: https://zabalgamez.com
+- **Topics/summary:** ZABAL Gamez fireside session with svvvg3.eth and katkartel.eth (Minted Merch) - conversations from the ZABAL Gamez buildathon summer.
 - **Clip candidates:**
 
 
@@ -950,10 +950,10 @@
 - **Class:** produced
 - **Date:** 2026-06-22 (archived)
 - **Host/Source:** ZABAL Gamez Workshops - Zaal with Nemesis @nemesis.love
-- **Brands:** ZABAL Games, The ZAO
+- **Brands:** ZABAL Gamez, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-22-nemesis-creator-journey-workshop/
 - **URLs:**
-  - ZABAL Games: https://zabalgamez.com
+  - ZABAL Gamez: https://zabalgamez.com
 - **Topics/summary:** ZABAL Gamez workshop session with Nemesis @nemesis.love.
 - **Clip candidates:**
 
@@ -965,11 +965,11 @@
 - **Class:** produced
 - **Date:** 2026-06-21 (archived)
 - **Host/Source:** ZABAL Gamez Workshops - Zaal with Meta Mu @metamu (Rose City Web3)
-- **Brands:** ZABAL Games, The ZAO
+- **Brands:** ZABAL Gamez, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-21-meta-mu-add-value-workshop/
 - **URLs:**
   - YouTube: https://youtu.be/0uLWSIME47U
-  - ZABAL Games: https://zabalgamez.com
+  - ZABAL Gamez: https://zabalgamez.com
 - **Topics/summary:** ZABAL Gamez workshop session with Meta Mu @metamu (Rose City Web3).
 - **Clip candidates:**
 
@@ -1013,11 +1013,11 @@
 - **Class:** produced
 - **Date:** 2026-06-20 (archived)
 - **Host/Source:** ZABAL Gamez Workshops - Zaal with Ali Tiknazoglu @alitiknazoglu
-- **Brands:** ZABAL Games, The ZAO
+- **Brands:** ZABAL Gamez, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-20-previbecoding-workshop/
 - **URLs:**
   - YouTube: https://youtu.be/C-va-jfaO1U
-  - ZABAL Games: https://zabalgamez.com
+  - ZABAL Gamez: https://zabalgamez.com
 - **Topics/summary:** ZABAL Gamez workshop session with Ali Tiknazoglu @alitiknazoglu.
 - **Clip candidates:**
 
@@ -1029,11 +1029,11 @@
 - **Class:** produced
 - **Date:** 2026-06-20 (archived)
 - **Host/Source:** ZABAL Gamez Workshops - Zaal with Dan Singjoy @dansingjoy (Eden Fractal)
-- **Brands:** ZABAL Games, The ZAO
+- **Brands:** ZABAL Gamez, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-20-dan-singjoy-eden-fractal-workshop/
 - **URLs:**
   - YouTube: https://youtu.be/drT2zp_V-tc
-  - ZABAL Games: https://zabalgamez.com
+  - ZABAL Gamez: https://zabalgamez.com
 - **Topics/summary:** ZABAL Gamez workshop session with Dan Singjoy @dansingjoy (Eden Fractal).
 - **Clip candidates:**
 
@@ -1045,10 +1045,10 @@
 - **Class:** produced
 - **Date:** 2026-06-20 (archived)
 - **Host/Source:** ZABAL Gamez Workshops - Zaal with Dan Singjoy
-- **Brands:** ZABAL Games, The ZAO
+- **Brands:** ZABAL Gamez, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-20-dan-singjoy-eden-fractal-pt1-workshop/
 - **URLs:**
-  - ZABAL Games: https://zabalgamez.com
+  - ZABAL Gamez: https://zabalgamez.com
 - **Topics/summary:** ZABAL Gamez workshop session with Dan Singjoy.
 - **Clip candidates:**
 
@@ -1091,11 +1091,11 @@
 - **Class:** produced
 - **Date:** 2026-06-16 (archived)
 - **Host/Source:** ZABAL Gamez Workshops - Zaal with Adrian (diviflyy) @diviflyy (Empire Builder)
-- **Brands:** ZABAL Games, The ZAO
+- **Brands:** ZABAL Gamez, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-16-diviflyy-empire-builder-v3-api-workshop/
 - **URLs:**
   - YouTube: https://youtu.be/P4ypb4jvpog
-  - ZABAL Games: https://zabalgamez.com
+  - ZABAL Gamez: https://zabalgamez.com
 - **Topics/summary:** ZABAL Gamez workshop session with Adrian (diviflyy) @diviflyy (Empire Builder).
 - **Clip candidates:**
 
@@ -1123,11 +1123,11 @@
 - **Class:** produced
 - **Date:** 2026-06-15 (archived)
 - **Host/Source:** ZABAL Gamez Workshops - Zaal with Kenny @kenny (POIDH)
-- **Brands:** ZABAL Games, The ZAO
+- **Brands:** ZABAL Gamez, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-15-kenny-poidh-workshop/
 - **URLs:**
   - YouTube: https://youtu.be/EdfMN-lRI4E
-  - ZABAL Games: https://zabalgamez.com
+  - ZABAL Gamez: https://zabalgamez.com
 - **Topics/summary:** ZABAL Gamez workshop session with Kenny @kenny (POIDH).
 - **Clip candidates:**
 
@@ -1139,11 +1139,11 @@
 - **Class:** produced
 - **Date:** 2026-06-15 (archived)
 - **Host/Source:** ZABAL Gamez Workshops - Zaal with Chris Dolinsky @1dolinski (Vini App)
-- **Brands:** ZABAL Games, The ZAO
+- **Brands:** ZABAL Gamez, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-15-chris-dolinsky-vini-app-workshop/
 - **URLs:**
   - YouTube: https://youtu.be/MHIiIvltLh4
-  - ZABAL Games: https://zabalgamez.com
+  - ZABAL Gamez: https://zabalgamez.com
 - **Topics/summary:** ZABAL Gamez workshop session with Chris Dolinsky @1dolinski (Vini App).
 - **Clip candidates:**
 
@@ -1170,11 +1170,11 @@
 - **Class:** produced
 - **Date:** 2026-06-14 (archived)
 - **Host/Source:** ZABAL Gamez Workshops - Zaal with Aziz (MotoMoto) @azizke (Build Africa DAO)
-- **Brands:** ZABAL Games, The ZAO
+- **Brands:** ZABAL Gamez, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-14-aziz-motomoto-baraza-workshop/
 - **URLs:**
   - YouTube: https://youtu.be/MAzecp9zVWA
-  - ZABAL Games: https://zabalgamez.com
+  - ZABAL Gamez: https://zabalgamez.com
 - **Topics/summary:** ZABAL Gamez workshop session with Aziz (MotoMoto) @azizke (Build Africa DAO).
 - **Clip candidates:**
 
@@ -1186,11 +1186,11 @@
 - **Class:** produced
 - **Date:** 2026-06-13 (archived)
 - **Host/Source:** ZABAL Gamez Workshops - Zaal with Hurricane Ike (@hurric4n3ike) (WaveWarz)
-- **Brands:** ZABAL Games, The ZAO
+- **Brands:** ZABAL Gamez, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-13-wavewarz-hurricane-workshop/
 - **URLs:**
   - YouTube: https://youtu.be/2GLRrILYoo4
-  - ZABAL Games: https://zabalgamez.com
+  - ZABAL Gamez: https://zabalgamez.com
 - **Topics/summary:** A ZABAL Gamez workshop. Lightly cleaned auto-transcript (filler removed; brand names
 - **Clip candidates:**
 
@@ -1218,12 +1218,12 @@
 - **Class:** produced
 - **Date:** 2026-06-12 (archived)
 - **Host/Source:** ZABAL Gamez Firesides - Zaal with Rizzle (WIP)
-- **Brands:** ZABAL Games, The ZAO
+- **Brands:** ZABAL Gamez, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-12-zabal-fireside-rizzle-wip/
 - **URLs:**
   - YouTube: https://youtu.be/UrvRtVHf4eY
-  - ZABAL Games: https://zabalgamez.com
-- **Topics/summary:** ZABAL Gamez fireside session with Rizzle (WIP) - conversations from the ZABAL Games buildathon summer.
+  - ZABAL Gamez: https://zabalgamez.com
+- **Topics/summary:** ZABAL Gamez fireside session with Rizzle (WIP) - conversations from the ZABAL Gamez buildathon summer.
 - **Clip candidates:**
 
 
@@ -1250,11 +1250,11 @@
 - **Class:** produced
 - **Date:** 2026-06-12 (archived)
 - **Host/Source:** ZABAL Gamez Workshops - Zaal with Cassie (Cassandra Heart, @cassie) (Quilibrium)
-- **Brands:** ZABAL Games, The ZAO
+- **Brands:** ZABAL Gamez, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-12-cassie-farcaster-protocol-workshop/
 - **URLs:**
   - YouTube: https://youtu.be/FZxzc2ieT4w
-  - ZABAL Games: https://zabalgamez.com
+  - ZABAL Gamez: https://zabalgamez.com
 - **Topics/summary:** A ZABAL Gamez workshop. Lightly cleaned auto-transcript (filler removed; brand names
 - **Clip candidates:**
 
@@ -1266,11 +1266,11 @@
 - **Class:** produced
 - **Date:** 2026-06-12 (archived)
 - **Host/Source:** ZABAL Gamez Workshops - Zaal with Adam Miller (MIDAO)
-- **Brands:** ZABAL Games, The ZAO
+- **Brands:** ZABAL Gamez, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-12-adam-miller-midao-workshop/
 - **URLs:**
   - YouTube: https://youtu.be/-Fzy0b3RCDQ
-  - ZABAL Games: https://zabalgamez.com
+  - ZABAL Gamez: https://zabalgamez.com
 - **Topics/summary:** A ZABAL Gamez conversation. Lightly cleaned, timestamped. Zaal with Adam "The Thriller" Miller (MIDAO + Beta Briefing). Find Adam on Farcaster as The Thriller and on X as 0xThriller.
 - **Clip candidates:**
 
@@ -1282,12 +1282,12 @@
 - **Class:** produced
 - **Date:** 2026-06-11 (archived)
 - **Host/Source:** ZABAL Gamez Firesides - Zaal with bribe
-- **Brands:** ZABAL Games, The ZAO
+- **Brands:** ZABAL Gamez, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-11-zabal-fireside-bribe/
 - **URLs:**
   - YouTube: https://youtu.be/Q2ISU6nHdKI
-  - ZABAL Games: https://zabalgamez.com
-- **Topics/summary:** ZABAL Gamez fireside session with bribe - conversations from the ZABAL Games buildathon summer.
+  - ZABAL Gamez: https://zabalgamez.com
+- **Topics/summary:** ZABAL Gamez fireside session with bribe - conversations from the ZABAL Gamez buildathon summer.
 - **Clip candidates:**
 
 
@@ -1298,11 +1298,11 @@
 - **Class:** produced
 - **Date:** 2026-06-10 (archived)
 - **Host/Source:** ZABAL Gamez Workshops - Zaal with Will T of Web3 @willtofweb3 (Kingfishers Media)
-- **Brands:** ZABAL Games, The ZAO
+- **Brands:** ZABAL Gamez, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-10-will-t-kfmedia-workshop/
 - **URLs:**
   - YouTube: https://youtu.be/pvH7ONG1yFU
-  - ZABAL Games: https://zabalgamez.com
+  - ZABAL Gamez: https://zabalgamez.com
 - **Topics/summary:** ZABAL Gamez workshop session with Will T of Web3 @willtofweb3 (Kingfishers Media).
 - **Clip candidates:**
 
@@ -1362,11 +1362,11 @@
 - **Class:** produced
 - **Date:** 2026-06-09 (archived)
 - **Host/Source:** ZABAL Gamez Workshops - Zaal with Joseph Goats
-- **Brands:** ZABAL Games, The ZAO
+- **Brands:** ZABAL Gamez, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-09-joseph-goats-digital-street-music-workshop/
 - **URLs:**
   - YouTube: https://youtu.be/xZyrEeKQEz0
-  - ZABAL Games: https://zabalgamez.com
+  - ZABAL Gamez: https://zabalgamez.com
 - **Topics/summary:** ZABAL Gamez workshop session with Joseph Goats.
 - **Clip candidates:**
 
@@ -1394,11 +1394,11 @@
 - **Class:** produced
 - **Date:** 2026-06-08 (archived)
 - **Host/Source:** ZABAL Gamez Workshops - Zaal with Chris (chriscocreated) (Sopha)
-- **Brands:** ZABAL Games, The ZAO
+- **Brands:** ZABAL Gamez, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-08-sopha-chris-building-curation-workshop/
 - **URLs:**
   - YouTube: https://youtu.be/Z9yAFxUVW-g
-  - ZABAL Games: https://zabalgamez.com
+  - ZABAL Gamez: https://zabalgamez.com
 - **Topics/summary:** A ZABAL Gamez workshop. Timestamped transcript (filler lightly trimmed; brand names
 - **Clip candidates:**
 
@@ -1458,10 +1458,10 @@
 - **Class:** produced
 - **Date:** 2026-06-06 (archived)
 - **Host/Source:** Zaal (@zaal) - ZABAL Gamez Workshops
-- **Brands:** ZABAL Games, The ZAO
+- **Brands:** ZABAL Gamez, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-06-bonfire-fireside-carlos-workshop/
 - **URLs:**
-  - ZABAL Games: https://zabalgamez.com
+  - ZABAL Gamez: https://zabalgamez.com
   - Listen on X (Space audio): https://x.com/i/spaces/1nxnRRjVLLExO
 - **Topics/summary:** ZABAL Gamez workshop session.
 - **Clip candidates:**
@@ -1521,7 +1521,7 @@
 - **Class:** earned
 - **Date:** 2026-06-03 (archived)
 - **Host/Source:** Adrienne and Nounish Prof (@gmfarcaster) - Farcaster Batches
-- **Brands:** The ZAO, ZABAL Games
+- **Brands:** The ZAO, ZABAL Gamez
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-03-farcaster-batches-day-3/
 - **URLs:**
   - GM Farcaster: https://www.youtube.com/@gmfarcaster
@@ -1568,11 +1568,11 @@
 - **Class:** produced
 - **Date:** 2026-06-02 (archived)
 - **Host/Source:** ZABAL Gamez Workshops - Zaal with Ohnahji (Brian)
-- **Brands:** ZABAL Games, The ZAO
+- **Brands:** ZABAL Gamez, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-02-ohnahji-livestreaming-workshop/
 - **URLs:**
   - YouTube: https://youtu.be/VsSLEF8O9yI
-  - ZABAL Games: https://zabalgamez.com
+  - ZABAL Gamez: https://zabalgamez.com
 - **Topics/summary:** Lightly cleaned from the live Twitch auto-transcript; timestamps preserved for navigation.
 - **Clip candidates:**
 
@@ -1614,11 +1614,11 @@
 - **Class:** produced
 - **Date:** 2026-06-01 (archived)
 - **Host/Source:** ZABAL Gamez Workshops - Zaal with Zaal (The ZAO)
-- **Brands:** ZABAL Games, The ZAO
+- **Brands:** ZABAL Gamez, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-01-zao-fractal-zaal-workshop/
 - **URLs:**
   - YouTube: https://youtu.be/N6tgsuBOXBU
-  - ZABAL Games: https://zabalgamez.com
+  - ZABAL Gamez: https://zabalgamez.com
 - **Topics/summary:** A ZABAL Gamez workshop. Zaal's weekly introduction to the ZAO Fractal, given before the
 - **Clip candidates:**
 
@@ -1630,11 +1630,11 @@
 - **Class:** produced
 - **Date:** 2026-06-01 (archived)
 - **Host/Source:** Zaal (@zaal) - ZABAL Gamez Workshops
-- **Brands:** ZABAL Games, The ZAO
+- **Brands:** ZABAL Gamez, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-01-yerbearserker-empire-builder-workshop/
 - **URLs:**
   - YouTube: https://youtu.be/Ej7Wm-v6WXo
-  - ZABAL Games: https://zabalgamez.com
+  - ZABAL Gamez: https://zabalgamez.com
 - **Topics/summary:** ZABAL Gamez workshop session.
 - **Clip candidates:**
 
@@ -1646,11 +1646,11 @@
 - **Class:** produced
 - **Date:** 2026-06-01 (archived)
 - **Host/Source:** Zaal (@zaal) - ZABAL Gamez Workshops
-- **Brands:** ZABAL Games, The ZAO
+- **Brands:** ZABAL Gamez, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-01-yerbearserker-empire-builder-part-2-workshop/
 - **URLs:**
   - YouTube: https://youtu.be/RXYTCHRh_rY
-  - ZABAL Games: https://zabalgamez.com
+  - ZABAL Gamez: https://zabalgamez.com
 - **Topics/summary:** ZABAL Gamez workshop session.
 - **Clip candidates:**
 
@@ -1693,11 +1693,11 @@
 - **Class:** produced
 - **Date:** 2026-06-01 (archived)
 - **Host/Source:** Zaal (@zaal) - ZABAL Gamez Workshops
-- **Brands:** ZABAL Games, The ZAO
+- **Brands:** ZABAL Gamez, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-06-01-bonfire-josh-plat0x-workshop/
 - **URLs:**
   - YouTube: https://youtu.be/3jKfYdOYxSw
-  - ZABAL Games: https://zabalgamez.com
+  - ZABAL Gamez: https://zabalgamez.com
 - **Topics/summary:** ZABAL Gamez workshop session.
 - **Clip candidates:**
 
@@ -3759,7 +3759,7 @@
 - **Class:** produced
 - **Date:** 2026-01-05 (archived)
 - **Host/Source:** Metaverse Meetups - Zaal with Attabotty and GodCloud
-- **Brands:** ZABAL Games, The ZAO
+- **Brands:** ZABAL Gamez, The ZAO
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-01-05-metaverse-meetups-attabotty-godcloud/
 - **URLs:**
   - YouTube: https://youtu.be/C1W_hEMGFdQ

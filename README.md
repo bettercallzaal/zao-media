@@ -32,7 +32,7 @@ The source of truth is `content/*.json` - one file per media item. `node build.m
 | `index.html` | The hub - grouped by show, earned first, live search |
 | `appearances/<slug>/index.html` | One page per item: embed, links, summary, chapters, transcript |
 | `media-log.md` | Human-readable log, newest first |
-| `tracker.html` | Distribution CRM - yes/no per item: video, transcript, socials, clips, needs-publish |
+| `tracker.html` | Distribution CRM - yes/no per item: video, transcript, needs-publish |
 | `media-crm.csv` | The CRM as a spreadsheet |
 | `people.html` | Everyone who appears across ZAO media, cross-referenced |
 | `feed.xml` | RSS, latest 50 |
@@ -47,11 +47,11 @@ A GitHub Action rebuilds on any `content/` change and Pages serves the result - 
 
 ## The item schema (what a content JSON holds)
 
-Required: `slug`, `class` (earned / live / produced / community), `title`, `date`. The rest as available: `show`, `host`/`hostHandle`/`hostUrl` (whose show, for earned), `guest`/`guestOrg` (who was on, for own shows), `brands[]`, `youtubeId` (drives the embed + og image), `links[]`, `summary`, `points[]`, `quote`, `chapters[]` (`{t, s, label}` - timestamp deep-links), `related[]`, `hasTranscript`, and `dist` (`{socials, clips, notes}` - the CRM flags).
+Required: `slug`, `class` (earned / live / produced / community), `title`, `date`. The rest as available: `show`, `host`/`hostHandle`/`hostUrl` (whose show, for earned), `guest`/`guestOrg` (who was on, for own shows), `brands[]`, `youtubeId` (drives the embed + og image), `links[]`, `summary`, `points[]`, `quote`, `chapters[]` (`{t, s, label}` - timestamp deep-links), `related[]`, `hasTranscript`, and `dist` (`{notes}` - free-text CRM notes; the old `socials`/`clips` flags were dropped 2026-09-29, never populated across 598 items).
 
 ## The CRM
 
-`tracker.html` + `media-crm.csv` + a live Google Sheet (IMPORTDATA - always current). Auto-derived per item: video live, audio live, transcript, needs-publish. Manual flags live in each item's `dist` block - edit JSON, rebuild, done. The sheet never syncs back; JSON is always the truth.
+`tracker.html` + `media-crm.csv` + a live Google Sheet (IMPORTDATA - always current). Auto-derived per item: video live, audio live, transcript, needs-publish. The `dist.socials`/`dist.clips` manual flags were dropped 2026-09-29 - they read NO for all 598 items because nobody had ever fed them, which looked like a measurement and wasn't one. `dist.notes` (free text) is still there - edit JSON, rebuild, done. The sheet never syncs back; JSON is always the truth.
 
 ## Documentation map
 

@@ -180,7 +180,11 @@ ${entries}`;
 
 // --- CRM: distribution tracker (tracker.html + media-crm.csv) ---
 // Per item: auto-derived (video live, audio live, transcript, needs publish)
-// + manual flags from content JSON "dist": { socials, clips, notes }.
+// + manual notes from content JSON "dist": { notes }.
+// Dropped "socials"/"clips" flags 2026-09-29 (Zaal's call, grill): the columns
+// read NO for all 598 items because dist.socials/dist.clips were never once
+// populated - an unfed flag that looked like a measurement and wasn't one.
+// See zao-media/docs/media-universe.md "Social accounts sweep - 2026-09-29".
 function crmRows(items) {
   return items.map((m) => {
     const audio = (m.links || []).some((l) => /spotify|pods\.media|listen|transistor/i.test(l.label + l.url));
@@ -189,7 +193,6 @@ function crmRows(items) {
     return {
       slug: m.slug, title: m.title, class: m.class, show: m.show || '', date: m.date,
       video, audio, transcript: !!m.hasTranscript,
-      socials: !!d.socials, clips: !!d.clips,
       needsPublish: !video && !audio,
       lives: [video ? 'YouTube' : '', audio ? 'Audio' : '', 'ZM'].filter(Boolean).join(' + '),
       notes: d.notes || '',
@@ -206,7 +209,7 @@ function trackerPage(items) {
       (r) => `<tr>
   <td><a href="./appearances/${r.slug}/">${esc(r.title).slice(0, 60)}</a></td>
   <td>${esc(r.class)}</td><td>${esc(r.show)}</td><td>${esc(r.date)}</td><td>${esc(r.lives)}</td>
-  ${yn(r.video)}${yn(r.transcript)}${yn(r.socials)}${yn(r.clips)}
+  ${yn(r.video)}${yn(r.transcript)}
   <td class="${r.needsPublish ? 'n' : 'y'}">${r.needsPublish ? 'PUBLISH' : 'live'}</td>
   <td>${esc(r.notes)}</td>
 </tr>`,
@@ -215,22 +218,20 @@ function trackerPage(items) {
   const stats = {
     total: rows.length,
     noVideo: rows.filter((r) => r.needsPublish).length,
-    noSocials: rows.filter((r) => !r.socials).length,
-    noClips: rows.filter((r) => !r.clips).length,
   };
-  return `${HEAD('ZM Tracker - media CRM', 'Distribution tracker for every ZM media item - what is live, what still needs publishing, socials, clips.', '')}
+  return `${HEAD('ZM Tracker - media CRM', 'Distribution tracker for every ZM media item - what is live, what still needs publishing.', '')}
 <header>
   <a class="kicker" href="./">ZM - ZAO Media</a>
   <h1>Media tracker.</h1>
-  <p class="lead">${stats.total} items. ${stats.noVideo} still need publishing. ${stats.noSocials} without socials. ${stats.noClips} without clips.
-  Flip a flag by editing the item's <code>content/*.json</code> "dist" block (socials / clips / notes), or download <a href="./media-crm.csv">media-crm.csv</a> for Google Sheets.</p>
+  <p class="lead">${stats.total} items. ${stats.noVideo} still need publishing.
+  Download <a href="./media-crm.csv">media-crm.csv</a> for Google Sheets.</p>
   <input id="q" type="search" placeholder="Filter..." aria-label="Filter tracker"
     style="width:100%;padding:10px 14px;border-radius:10px;border:1px solid rgba(224,221,170,.25);background:var(--navy2);color:var(--ink);font-size:1rem;margin:6px 0 4px">
 </header>
 <main style="max-width:1160px">
 <div style="overflow-x:auto">
 <table id="crm" style="font-size:.85rem">
-<tr><th>Title</th><th>Class</th><th>Show</th><th>Date</th><th>Lives at</th><th>Video</th><th>Transcript</th><th>Socials</th><th>Clips</th><th>Status</th><th>Notes</th></tr>
+<tr><th>Title</th><th>Class</th><th>Show</th><th>Date</th><th>Lives at</th><th>Video</th><th>Transcript</th><th>Status</th><th>Notes</th></tr>
 ${tr}
 </table>
 </div>
@@ -249,9 +250,9 @@ ${tr}
 
 function crmCsv(items) {
   const esc2 = (s) => `"${String(s).replace(/"/g, '""')}"`;
-  const head = ['Title', 'Class', 'Show', 'Date', 'Lives at', 'ZM page', 'Video live', 'Transcript', 'Socials posted', 'Clips made', 'Needs publish', 'Notes'];
+  const head = ['Title', 'Class', 'Show', 'Date', 'Lives at', 'ZM page', 'Video live', 'Transcript', 'Needs publish', 'Notes'];
   const rows = crmRows(items).map((r) =>
-    [r.title, r.class, r.show, r.date, r.lives, r.zm, r.video ? 'YES' : 'NO', r.transcript ? 'YES' : 'NO', r.socials ? 'YES' : 'NO', r.clips ? 'YES' : 'NO', r.needsPublish ? 'YES' : 'NO', r.notes].map(esc2).join(','),
+    [r.title, r.class, r.show, r.date, r.lives, r.zm, r.video ? 'YES' : 'NO', r.transcript ? 'YES' : 'NO', r.needsPublish ? 'YES' : 'NO', r.notes].map(esc2).join(','),
   );
   return [head.map(esc2).join(','), ...rows].join('\n') + '\n';
 }
