@@ -6,6 +6,14 @@
   <description>The media home for The ZAO - podcasts, shows, Spaces, streams, and earned-media appearances. Logged once, shared everywhere.</description>
   <language>en</language>
   <item>
+    <title>Zaal Panthaki (BetterCallZaal) - Rebuilding Ownership for Independent Artists</title>
+    <link>https://bettercallzaal.github.io/zao-media/appearances/2026-10-11-people-in-crypto-fusdcrypto/</link>
+    <guid>https://bettercallzaal.github.io/zao-media/appearances/2026-10-11-people-in-crypto-fusdcrypto/</guid>
+    <pubDate>Sun, 11 Oct 2026 12:00:00 GMT</pubDate>
+    <category>earned</category>
+    <description>People in Crypto - Featured in 'People in Crypto' (pages 102-103, powered by FUSDCrypto.com).</description>
+  </item>
+  <item>
     <title>Fractals: Dan x Zaal Convos (occasional series)</title>
     <link>https://bettercallzaal.github.io/zao-media/appearances/2026-07-31-fractals-dan-x-zaal-convos-series/</link>
     <guid>https://bettercallzaal.github.io/zao-media/appearances/2026-07-31-fractals-dan-x-zaal-convos-series/</guid>
@@ -396,14 +404,6 @@
     <pubDate>Sat, 27 Jun 2026 12:00:00 GMT</pubDate>
     <category>produced</category>
     <description>ZABAL Gamez Firesides - ZABAL Gamez fireside session with Luciano - conversations from the ZABAL Gamez buildathon summer.</description>
-  </item>
-  <item>
-    <title>Web3coc community vibes</title>
-    <link>https://bettercallzaal.github.io/zao-media/appearances/2026-06-27-space-web3coc-community-vibes/</link>
-    <guid>https://bettercallzaal.github.io/zao-media/appearances/2026-06-27-space-web3coc-community-vibes/</guid>
-    <pubDate>Sat, 27 Jun 2026 12:00:00 GMT</pubDate>
-    <category>live</category>
-    <description>X Spaces - X Space (1 hours, 54 minutes,) - hosted, co-hosted, or spoken in by Zaal. Auto-logged from the spacesdashboard archive sweep of 2026-07-30.</description>
   </item>
 </channel>
 </rss>

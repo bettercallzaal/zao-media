@@ -4,6 +4,21 @@
 
 ---
 
+### Zaal Panthaki (BetterCallZaal) - Rebuilding Ownership for Independent Artists
+
+- **Class:** earned
+- **Date:** 2026-10-11 (live) - date logged; issue date not confirmed
+- **Host/Source:** People in Crypto - powered by FUSDCrypto.com
+- **Brands:** BetterCallZaal
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-10-11-people-in-crypto-fusdcrypto/
+- **URLs:**
+  - FUSDCrypto.com (publisher credit printed on the pages): https://fusdcrypto.com
+- **Topics/summary:** Featured in 'People in Crypto' (pages 102-103, powered by FUSDCrypto.com).
+- **Clip candidates:**
+
+
+---
+
 ### Fractals: Dan x Zaal Convos (occasional series)
 
 - **Class:** produced
