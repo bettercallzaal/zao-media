@@ -72,13 +72,16 @@ function itemPage(m) {
   const transcript = m.hasTranscript ? `<a href="./transcript.md">Transcript</a>` : '';
   const ogImg = m.youtubeId ? `https://i.ytimg.com/vi/${m.youtubeId}/maxresdefault.jpg` : '';
   const hostLink = m.hostUrl ? ` (<a href="${m.hostUrl}">${esc(m.hostHandle || m.host)}</a>)` : '';
-  const hostLine = m.guest
+  // Optional `publisher` (no `host`): a print feature that only prints "Powered by <name>". Renders "powered by", never "hosted by", and is not a host.
+  const hostLine = !m.guest && !m.host && m.publisher
+    ? `${esc(m.show)}, powered by ${esc(m.publisher)}.`
+    : m.guest
     ? `${esc(m.show)} - hosted by ${esc(m.host || 'Zaal')}, Better Call Zaal - with ${esc(m.guest)}${m.guestOrg ? ` (${esc(m.guestOrg)})` : ''}.`
     : `${esc(m.show)}, hosted by ${esc(m.host)}${hostLink} - with Zaal, Better Call Zaal.`;
   return `${HEAD(`${m.title} | ZM`, m.summary, ogImg)}
 <main>
   <a class="kicker" href="../../">ZM - ZAO Media</a>
-  <p class="kicker">${CLASS_LABEL[m.class] || m.class} - ${esc(m.date)}</p>
+  <p class="kicker">${CLASS_LABEL[m.class] || m.class} - ${esc(m.date)}${m.dateNote ? ` (${esc(m.dateNote)})` : ''}</p>
   <h1>${esc(m.title)}</h1>
   <p class="host">${hostLine}</p>
   ${embed}
@@ -157,8 +160,8 @@ function mediaLog(items) {
       return `### ${m.title}
 
 - **Class:** ${m.class}
-- **Date:** ${m.date} (${m.status})
-- **Host/Source:** ${m.guest ? `${m.show} - Zaal with ${m.guest}${m.guestOrg ? ` (${m.guestOrg})` : ''}` : `${m.host}${m.hostHandle ? ` (${m.hostHandle})` : ''} - ${m.show}${m.showHandle ? ` (${m.showHandle})` : ''}`}
+- **Date:** ${m.date} (${m.status})${m.dateNote ? ` - ${m.dateNote}` : ''}
+- **Host/Source:** ${!m.guest && !m.host && m.publisher ? `${m.show} - powered by ${m.publisher}` : m.guest ? `${m.show} - Zaal with ${m.guest}${m.guestOrg ? ` (${m.guestOrg})` : ''}` : `${m.host}${m.hostHandle ? ` (${m.hostHandle})` : ''} - ${m.show}${m.showHandle ? ` (${m.showHandle})` : ''}`}
 - **Brands:** ${(m.brands || []).join(', ')}
 - **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/${m.slug}/
 - **URLs:**
