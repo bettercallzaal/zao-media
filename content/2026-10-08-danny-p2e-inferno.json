@@ -1,0 +1,116 @@
+{
+  "slug": "2026-10-08-danny-p2e-inferno",
+  "class": "produced",
+  "title": "Quests that pay in stablecoins, and an idea before a token - BCZ YapZ with Danny (P2E Inferno)",
+  "date": "2026-10-08",
+  "status": "archived",
+  "show": "BCZ YapZ",
+  "host": "Zaal",
+  "hostHandle": "@zaal",
+  "hostUrl": "https://farcaster.xyz/zaal",
+  "guest": "Danny",
+  "guestOrg": "P2E Inferno",
+  "brands": [
+    "BCZ YapZ",
+    "The ZAO"
+  ],
+  "youtubeId": "IWeb6HPockk",
+  "links": [
+    {
+      "label": "YouTube",
+      "url": "https://youtu.be/IWeb6HPockk"
+    },
+    {
+      "label": "P2E Inferno",
+      "url": "https://p2einferno.com"
+    }
+  ],
+  "summary": "Danny is a full-stack blockchain developer from Nigeria and the builder of P2E Inferno, a live quest platform where communities set actions people can prove they did, and reward them. He lost his front-end job when COVID hit, played Axie Infinity to get by, learned to build through BuidlGuidl and Unlock Protocol bounties, and designed P2E Inferno from what he lived. Zaal and Danny walk through the quests live, talk about the verifier layer he wants to bring to WaveZStation, and then he turns the questions on Zaal about ZAOstock.",
+  "points": [
+    "Try this: go to p2einferno.com, connect, and do the intro quest."
+  ],
+  "chapters": [
+    {
+      "t": "0:00",
+      "s": 0,
+      "label": "Intro: Danny from P2E Inferno"
+    },
+    {
+      "t": "1:00",
+      "s": 60,
+      "label": "Who Danny is"
+    },
+    {
+      "t": "3:00",
+      "s": 180,
+      "label": "Getting into crypto, and why it mattered coming from Nigeria"
+    },
+    {
+      "t": "5:00",
+      "s": 300,
+      "label": "Losing a job in 2020, and Axie Infinity"
+    },
+    {
+      "t": "7:00",
+      "s": 420,
+      "label": "BuidlGuidl, Unlock Protocol and the first bounty"
+    },
+    {
+      "t": "10:00",
+      "s": 600,
+      "label": "What P2E Inferno is, live in production"
+    },
+    {
+      "t": "12:00",
+      "s": 720,
+      "label": "When rewards swing with token prices"
+    },
+    {
+      "t": "13:00",
+      "s": 780,
+      "label": "Human-only quests"
+    },
+    {
+      "t": "15:00",
+      "s": 900,
+      "label": "A verifier layer for WaveZStation"
+    },
+    {
+      "t": "17:00",
+      "s": 1020,
+      "label": "Live walkthrough: the intro quest"
+    },
+    {
+      "t": "21:00",
+      "s": 1260,
+      "label": "Start from the action you want"
+    },
+    {
+      "t": "23:00",
+      "s": 1380,
+      "label": "Danny asks Zaal about ZAOstock"
+    },
+    {
+      "t": "29:00",
+      "s": 1740,
+      "label": "What comes next locally"
+    },
+    {
+      "t": "34:00",
+      "s": 2040,
+      "label": "The 2027 festival"
+    },
+    {
+      "t": "42:00",
+      "s": 2520,
+      "label": "Where to find Danny"
+    }
+  ],
+  "related": [],
+  "hasTranscript": false,
+  "dist": {
+    "socials": false,
+    "clips": false,
+    "notes": "Clip pick 6:00 to 6:50 (vault drafts/2026-10-17-bcz-yapz-youtube-descriptions.md)."
+  }
+}
