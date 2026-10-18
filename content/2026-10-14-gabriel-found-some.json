@@ -1,0 +1,97 @@
+{
+  "slug": "2026-10-14-gabriel-found-some",
+  "class": "produced",
+  "title": "Fans buy copies of a creator's video, and no AI allowed - BCZ YapZ with Gabriel (Found Some)",
+  "date": "2026-10-14",
+  "status": "archived",
+  "show": "BCZ YapZ",
+  "host": "Zaal",
+  "hostHandle": "@zaal",
+  "hostUrl": "https://farcaster.xyz/zaal",
+  "guest": "Gabriel",
+  "guestOrg": "Found Some",
+  "brands": [
+    "BCZ YapZ",
+    "The ZAO"
+  ],
+  "youtubeId": "V9ArR5EQiRM",
+  "links": [
+    {
+      "label": "YouTube",
+      "url": "https://youtu.be/V9ArR5EQiRM"
+    }
+  ],
+  "summary": "Gabriel is a builder from New York City making Found Some, an app where fans buy copies of a creator's short video. Early buyers pay less, the creator earns from every copy, and AI-made video is not allowed. He got the idea watching the same subway performers for years and asking how the people who value them could back them. Zaal and Gabriel get into how the price curve works, how he trains a model to spot AI video, what Zora got wrong, and why the app says \"copies\" and never \"tokens\".",
+  "points": [
+    "Try this: if you make short videos, ask Gabriel for early access to Found Some."
+  ],
+  "chapters": [
+    {
+      "t": "0:00",
+      "s": 0,
+      "label": "Intro: Gabriel from New York City"
+    },
+    {
+      "t": "2:00",
+      "s": 120,
+      "label": "What Found Some is: buying copies of a video"
+    },
+    {
+      "t": "5:00",
+      "s": 300,
+      "label": "The idea: subway performers who deserve backing"
+    },
+    {
+      "t": "7:00",
+      "s": 420,
+      "label": "How it works, with an example creator"
+    },
+    {
+      "t": "10:00",
+      "s": 600,
+      "label": "Keeping AI-made video out"
+    },
+    {
+      "t": "14:00",
+      "s": 840,
+      "label": "Five tokenized videos a month, and who owns what"
+    },
+    {
+      "t": "15:00",
+      "s": 900,
+      "label": "Its own social network, or a layer under others"
+    },
+    {
+      "t": "17:00",
+      "s": 1020,
+      "label": "The Found Some Show"
+    },
+    {
+      "t": "19:00",
+      "s": 1140,
+      "label": "Why Farcaster, and mini apps"
+    },
+    {
+      "t": "22:00",
+      "s": 1320,
+      "label": "What Zora got wrong"
+    },
+    {
+      "t": "24:00",
+      "s": 1440,
+      "label": "Crypto rails, no coin talk"
+    },
+    {
+      "t": "29:00",
+      "s": 1740,
+      "label": "Where to find Gabriel"
+    }
+  ],
+  "related": [],
+  "hasTranscript": false,
+  "dist": {
+    "socials": false,
+    "clips": false,
+    "notes": "Clip pick 5:00 to 5:55 (vault drafts/2026-10-17-bcz-yapz-youtube-descriptions.md)."
+  }
+}

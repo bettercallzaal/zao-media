@@ -1,0 +1,97 @@
+{
+  "slug": "2026-10-15-slava-base-rooms",
+  "class": "produced",
+  "title": "A shared desktop where you listen to music together - BCZ YapZ with Slava (Base Rooms)",
+  "date": "2026-10-15",
+  "status": "archived",
+  "show": "BCZ YapZ",
+  "host": "Zaal",
+  "hostHandle": "@zaal",
+  "hostUrl": "https://farcaster.xyz/zaal",
+  "guest": "Slava",
+  "guestOrg": "Base Rooms",
+  "brands": [
+    "BCZ YapZ",
+    "The ZAO"
+  ],
+  "youtubeId": "PgSQk_YvJ90",
+  "links": [
+    {
+      "label": "YouTube",
+      "url": "https://youtu.be/PgSQk_YvJ90"
+    }
+  ],
+  "summary": "Slava is a builder, a longtime crypto tinkerer and a former audio producer with a studio in New York City. He brings that studio ethos to Base Rooms: an online desktop with the feel of the early internet, where your Buddy visits a friend's desktop and you listen to music together. Zaal and Slava talk about building every night with AI tools, keeping art and music on chain for good, what that does to a creator's rights, and a live tour of Base Rooms, including a WaveZStation preview player we want to build.",
+  "points": [
+    "Try this: open Base Rooms, send your Buddy to a friend's desktop and play them a song."
+  ],
+  "chapters": [
+    {
+      "t": "0:00",
+      "s": 0,
+      "label": "Intro"
+    },
+    {
+      "t": "1:00",
+      "s": 60,
+      "label": "Who Slava is: tinkerer, builder, producer"
+    },
+    {
+      "t": "3:00",
+      "s": 180,
+      "label": "Base Rooms and early internet vibes"
+    },
+    {
+      "t": "6:00",
+      "s": 360,
+      "label": "Building at night with AI tools"
+    },
+    {
+      "t": "9:00",
+      "s": 540,
+      "label": "Buddies stored fully on chain"
+    },
+    {
+      "t": "12:00",
+      "s": 720,
+      "label": "An on-chain DJ deck and music licensing"
+    },
+    {
+      "t": "14:00",
+      "s": 840,
+      "label": "What going on chain does to a creator's rights"
+    },
+    {
+      "t": "16:00",
+      "s": 960,
+      "label": "Live tour: Buddies, the media player, listening together"
+    },
+    {
+      "t": "18:00",
+      "s": 1080,
+      "label": "The start menu and agents"
+    },
+    {
+      "t": "21:00",
+      "s": 1260,
+      "label": "Your own NFTs as a desktop background"
+    },
+    {
+      "t": "24:00",
+      "s": 1440,
+      "label": "Building on Buddies"
+    },
+    {
+      "t": "29:00",
+      "s": 1740,
+      "label": "Thanks, and next time"
+    }
+  ],
+  "related": [],
+  "hasTranscript": false,
+  "dist": {
+    "socials": false,
+    "clips": false,
+    "notes": "Clip pick 16:00 to 16:50 (vault drafts/2026-10-17-bcz-yapz-youtube-descriptions.md)."
+  }
+}

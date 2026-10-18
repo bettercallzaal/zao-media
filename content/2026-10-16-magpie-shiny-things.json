@@ -1,0 +1,116 @@
+{
+  "slug": "2026-10-16-magpie-shiny-things",
+  "class": "produced",
+  "title": "A retro console and an AI space game in your browser - BCZ YapZ with Magpie (Shiny Things)",
+  "date": "2026-10-16",
+  "status": "archived",
+  "show": "BCZ YapZ",
+  "host": "Zaal",
+  "hostHandle": "@zaal",
+  "hostUrl": "https://farcaster.xyz/zaal",
+  "guest": "Magpie",
+  "guestOrg": "Shiny Things",
+  "brands": [
+    "BCZ YapZ",
+    "The ZAO"
+  ],
+  "youtubeId": "TzDSfjPffcA",
+  "links": [
+    {
+      "label": "YouTube",
+      "url": "https://youtu.be/TzDSfjPffcA"
+    },
+    {
+      "label": "Magpie on X",
+      "url": "https://x.com/ALASKANmagpie"
+    }
+  ],
+  "summary": "Magpie spent years in web3 gaming partnerships before going solo in February. His studio, Shiny Things, builds Fable Boy, a retro console that runs in any browser with 30 games, custom skins and leaderboards, and Waypoint, a space game where you own a whole solar system and AI crews fly your fleet. He demos both live, shows Doctrine, a card RTS, and explains why everything runs in the browser with no installs, free to play.",
+  "points": [
+    "Try this: open Fable Boy in your browser and set a score on one of the 30 games."
+  ],
+  "chapters": [
+    {
+      "t": "0:00",
+      "s": 0,
+      "label": "From partnerships to solo founder"
+    },
+    {
+      "t": "2:00",
+      "s": 120,
+      "label": "Shiny Things, and building from idea to prototype in an afternoon"
+    },
+    {
+      "t": "4:00",
+      "s": 240,
+      "label": "Custom skins and collabs for communities"
+    },
+    {
+      "t": "10:00",
+      "s": 600,
+      "label": "Cross-game cartridges"
+    },
+    {
+      "t": "12:00",
+      "s": 720,
+      "label": "Where the name Magpie comes from"
+    },
+    {
+      "t": "13:00",
+      "s": 780,
+      "label": "Live demo: Fable Boy"
+    },
+    {
+      "t": "15:00",
+      "s": 900,
+      "label": "30 games and the console shelf"
+    },
+    {
+      "t": "19:00",
+      "s": 1140,
+      "label": "Make your own Fable Boy cartridge"
+    },
+    {
+      "t": "22:00",
+      "s": 1320,
+      "label": "The arcade, in any browser, no installs"
+    },
+    {
+      "t": "23:00",
+      "s": 1380,
+      "label": "Waypoint: your own solar system"
+    },
+    {
+      "t": "29:00",
+      "s": 1740,
+      "label": "Your system, combat and AI crews"
+    },
+    {
+      "t": "33:00",
+      "s": 1980,
+      "label": "Trade routes and a real star map"
+    },
+    {
+      "t": "40:00",
+      "s": 2400,
+      "label": "Doctrine, a card RTS"
+    },
+    {
+      "t": "42:00",
+      "s": 2520,
+      "label": "The Shiny Things portfolio"
+    },
+    {
+      "t": "46:00",
+      "s": 2760,
+      "label": "More games, and a game night next time"
+    }
+  ],
+  "related": [],
+  "hasTranscript": false,
+  "dist": {
+    "socials": false,
+    "clips": false,
+    "notes": "Clip pick 33:00 to 33:50 (vault drafts/2026-10-17-bcz-yapz-youtube-descriptions.md)."
+  }
+}
