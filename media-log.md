@@ -4,6 +4,88 @@
 
 ---
 
+### A retro console and an AI space game in your browser - BCZ YapZ with Magpie (Shiny Things)
+
+- **Class:** produced
+- **Date:** 2026-10-16 (archived)
+- **Host/Source:** BCZ YapZ - Zaal with Magpie (Shiny Things)
+- **Brands:** BCZ YapZ, The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-10-16-magpie-shiny-things/
+- **URLs:**
+  - YouTube: https://youtu.be/TzDSfjPffcA
+  - Magpie on X: https://x.com/ALASKANmagpie
+- **Topics/summary:** Magpie spent years in web3 gaming partnerships before going solo in February. His studio, Shiny Things, builds Fable Boy, a retro console that runs in any browser with 30 games, custom skins and leaderboards, and Waypoint, a space game where you own a whole solar system and AI crews fly your fleet. He demos both live, shows Doctrine, a card RTS, and explains why everything runs in the browser with no installs, free to play.
+- **Clip candidates:**
+  - 0:00 - From partnerships to solo founder
+  - 2:00 - Shiny Things, and building from idea to prototype in an afternoon
+  - 4:00 - Custom skins and collabs for communities
+  - 10:00 - Cross-game cartridges
+  - 12:00 - Where the name Magpie comes from
+  - 13:00 - Live demo: Fable Boy
+  - 15:00 - 30 games and the console shelf
+  - 19:00 - Make your own Fable Boy cartridge
+  - 22:00 - The arcade, in any browser, no installs
+  - 23:00 - Waypoint: your own solar system
+  - 29:00 - Your system, combat and AI crews
+  - 33:00 - Trade routes and a real star map
+  - 40:00 - Doctrine, a card RTS
+  - 42:00 - The Shiny Things portfolio
+  - 46:00 - More games, and a game night next time
+
+---
+
+### A shared desktop where you listen to music together - BCZ YapZ with Slava (Base Rooms)
+
+- **Class:** produced
+- **Date:** 2026-10-15 (archived)
+- **Host/Source:** BCZ YapZ - Zaal with Slava (Base Rooms)
+- **Brands:** BCZ YapZ, The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-10-15-slava-base-rooms/
+- **URLs:**
+  - YouTube: https://youtu.be/PgSQk_YvJ90
+- **Topics/summary:** Slava is a builder, a longtime crypto tinkerer and a former audio producer with a studio in New York City. He brings that studio ethos to Base Rooms: an online desktop with the feel of the early internet, where your Buddy visits a friend's desktop and you listen to music together. Zaal and Slava talk about building every night with AI tools, keeping art and music on chain for good, what that does to a creator's rights, and a live tour of Base Rooms, including a WaveZStation preview player we want to build.
+- **Clip candidates:**
+  - 0:00 - Intro
+  - 1:00 - Who Slava is: tinkerer, builder, producer
+  - 3:00 - Base Rooms and early internet vibes
+  - 6:00 - Building at night with AI tools
+  - 9:00 - Buddies stored fully on chain
+  - 12:00 - An on-chain DJ deck and music licensing
+  - 14:00 - What going on chain does to a creator's rights
+  - 16:00 - Live tour: Buddies, the media player, listening together
+  - 18:00 - The start menu and agents
+  - 21:00 - Your own NFTs as a desktop background
+  - 24:00 - Building on Buddies
+  - 29:00 - Thanks, and next time
+
+---
+
+### Fans buy copies of a creator's video, and no AI allowed - BCZ YapZ with Gabriel (Found Some)
+
+- **Class:** produced
+- **Date:** 2026-10-14 (archived)
+- **Host/Source:** BCZ YapZ - Zaal with Gabriel (Found Some)
+- **Brands:** BCZ YapZ, The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-10-14-gabriel-found-some/
+- **URLs:**
+  - YouTube: https://youtu.be/V9ArR5EQiRM
+- **Topics/summary:** Gabriel is a builder from New York City making Found Some, an app where fans buy copies of a creator's short video. Early buyers pay less, the creator earns from every copy, and AI-made video is not allowed. He got the idea watching the same subway performers for years and asking how the people who value them could back them. Zaal and Gabriel get into how the price curve works, how he trains a model to spot AI video, what Zora got wrong, and why the app says "copies" and never "tokens".
+- **Clip candidates:**
+  - 0:00 - Intro: Gabriel from New York City
+  - 2:00 - What Found Some is: buying copies of a video
+  - 5:00 - The idea: subway performers who deserve backing
+  - 7:00 - How it works, with an example creator
+  - 10:00 - Keeping AI-made video out
+  - 14:00 - Five tokenized videos a month, and who owns what
+  - 15:00 - Its own social network, or a layer under others
+  - 17:00 - The Found Some Show
+  - 19:00 - Why Farcaster, and mini apps
+  - 22:00 - What Zora got wrong
+  - 24:00 - Crypto rails, no coin talk
+  - 29:00 - Where to find Gabriel
+
+---
+
 ### Zaal Panthaki (BetterCallZaal) - Rebuilding Ownership for Independent Artists
 
 - **Class:** earned
@@ -16,6 +98,36 @@
 - **Topics/summary:** Featured in 'People in Crypto' (pages 102-103, powered by FUSDCrypto.com).
 - **Clip candidates:**
 
+
+---
+
+### Quests that pay in stablecoins, and an idea before a token - BCZ YapZ with Danny (P2E Inferno)
+
+- **Class:** produced
+- **Date:** 2026-10-08 (archived)
+- **Host/Source:** BCZ YapZ - Zaal with Danny (P2E Inferno)
+- **Brands:** BCZ YapZ, The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-10-08-danny-p2e-inferno/
+- **URLs:**
+  - YouTube: https://youtu.be/IWeb6HPockk
+  - P2E Inferno: https://p2einferno.com
+- **Topics/summary:** Danny is a full-stack blockchain developer from Nigeria and the builder of P2E Inferno, a live quest platform where communities set actions people can prove they did, and reward them. He lost his front-end job when COVID hit, played Axie Infinity to get by, learned to build through BuidlGuidl and Unlock Protocol bounties, and designed P2E Inferno from what he lived. Zaal and Danny walk through the quests live, talk about the verifier layer he wants to bring to WaveZStation, and then he turns the questions on Zaal about ZAOstock.
+- **Clip candidates:**
+  - 0:00 - Intro: Danny from P2E Inferno
+  - 1:00 - Who Danny is
+  - 3:00 - Getting into crypto, and why it mattered coming from Nigeria
+  - 5:00 - Losing a job in 2020, and Axie Infinity
+  - 7:00 - BuidlGuidl, Unlock Protocol and the first bounty
+  - 10:00 - What P2E Inferno is, live in production
+  - 12:00 - When rewards swing with token prices
+  - 13:00 - Human-only quests
+  - 15:00 - A verifier layer for WaveZStation
+  - 17:00 - Live walkthrough: the intro quest
+  - 21:00 - Start from the action you want
+  - 23:00 - Danny asks Zaal about ZAOstock
+  - 29:00 - What comes next locally
+  - 34:00 - The 2027 festival
+  - 42:00 - Where to find Danny
 
 ---
 

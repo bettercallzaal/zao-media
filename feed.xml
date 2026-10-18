@@ -6,12 +6,44 @@
   <description>The media home for The ZAO - podcasts, shows, Spaces, streams, and earned-media appearances. Logged once, shared everywhere.</description>
   <language>en</language>
   <item>
+    <title>A retro console and an AI space game in your browser - BCZ YapZ with Magpie (Shiny Things)</title>
+    <link>https://bettercallzaal.github.io/zao-media/appearances/2026-10-16-magpie-shiny-things/</link>
+    <guid>https://bettercallzaal.github.io/zao-media/appearances/2026-10-16-magpie-shiny-things/</guid>
+    <pubDate>Fri, 16 Oct 2026 12:00:00 GMT</pubDate>
+    <category>produced</category>
+    <description>BCZ YapZ - Magpie spent years in web3 gaming partnerships before going solo in February. His studio, Shiny Things, builds Fable Boy, a retro console that runs in any browser with 30 games, custom skins and leaderboards, and Waypoint, a space game where you own a whole solar system and AI crews fly your fleet. He demos both live, shows Doctrine, a card RTS, and explains why everything runs in the browser with no installs, free to play.</description>
+  </item>
+  <item>
+    <title>A shared desktop where you listen to music together - BCZ YapZ with Slava (Base Rooms)</title>
+    <link>https://bettercallzaal.github.io/zao-media/appearances/2026-10-15-slava-base-rooms/</link>
+    <guid>https://bettercallzaal.github.io/zao-media/appearances/2026-10-15-slava-base-rooms/</guid>
+    <pubDate>Thu, 15 Oct 2026 12:00:00 GMT</pubDate>
+    <category>produced</category>
+    <description>BCZ YapZ - Slava is a builder, a longtime crypto tinkerer and a former audio producer with a studio in New York City. He brings that studio ethos to Base Rooms: an online desktop with the feel of the early internet, where your Buddy visits a friend's desktop and you listen to music together. Zaal and Slava talk about building every night with AI tools, keeping art and music on chain for good, what that does to a creator's rights, and a live tour of Base Rooms, including a WaveZStation preview player we want to build.</description>
+  </item>
+  <item>
+    <title>Fans buy copies of a creator's video, and no AI allowed - BCZ YapZ with Gabriel (Found Some)</title>
+    <link>https://bettercallzaal.github.io/zao-media/appearances/2026-10-14-gabriel-found-some/</link>
+    <guid>https://bettercallzaal.github.io/zao-media/appearances/2026-10-14-gabriel-found-some/</guid>
+    <pubDate>Wed, 14 Oct 2026 12:00:00 GMT</pubDate>
+    <category>produced</category>
+    <description>BCZ YapZ - Gabriel is a builder from New York City making Found Some, an app where fans buy copies of a creator's short video. Early buyers pay less, the creator earns from every copy, and AI-made video is not allowed. He got the idea watching the same subway performers for years and asking how the people who value them could back them. Zaal and Gabriel get into how the price curve works, how he trains a model to spot AI video, what Zora got wrong, and why the app says "copies" and never "tokens".</description>
+  </item>
+  <item>
     <title>Zaal Panthaki (BetterCallZaal) - Rebuilding Ownership for Independent Artists</title>
     <link>https://bettercallzaal.github.io/zao-media/appearances/2026-10-11-people-in-crypto-fusdcrypto/</link>
     <guid>https://bettercallzaal.github.io/zao-media/appearances/2026-10-11-people-in-crypto-fusdcrypto/</guid>
     <pubDate>Sun, 11 Oct 2026 12:00:00 GMT</pubDate>
     <category>earned</category>
     <description>People in Crypto - Featured in 'People in Crypto' (pages 102-103, powered by FUSDCrypto.com).</description>
+  </item>
+  <item>
+    <title>Quests that pay in stablecoins, and an idea before a token - BCZ YapZ with Danny (P2E Inferno)</title>
+    <link>https://bettercallzaal.github.io/zao-media/appearances/2026-10-08-danny-p2e-inferno/</link>
+    <guid>https://bettercallzaal.github.io/zao-media/appearances/2026-10-08-danny-p2e-inferno/</guid>
+    <pubDate>Thu, 08 Oct 2026 12:00:00 GMT</pubDate>
+    <category>produced</category>
+    <description>BCZ YapZ - Danny is a full-stack blockchain developer from Nigeria and the builder of P2E Inferno, a live quest platform where communities set actions people can prove they did, and reward them. He lost his front-end job when COVID hit, played Axie Infinity to get by, learned to build through BuidlGuidl and Unlock Protocol bounties, and designed P2E Inferno from what he lived. Zaal and Danny walk through the quests live, talk about the verifier layer he wants to bring to WaveZStation, and then he turns the questions on Zaal about ZAOstock.</description>
   </item>
   <item>
     <title>Fractals: Dan x Zaal Convos (occasional series)</title>
@@ -372,38 +404,6 @@
     <pubDate>Sun, 28 Jun 2026 12:00:00 GMT</pubDate>
     <category>produced</category>
     <description>ZABAL Gamez Firesides - ZABAL Gamez fireside session with hammallama (Vendyz) - conversations from the ZABAL Gamez buildathon summer.</description>
-  </item>
-  <item>
-    <title>Gaming Sesh - MetaMu x BetterCallZaal</title>
-    <link>https://bettercallzaal.github.io/zao-media/appearances/2026-06-28-metamu-gaming-sesh-zaal/</link>
-    <guid>https://bettercallzaal.github.io/zao-media/appearances/2026-06-28-metamu-gaming-sesh-zaal/</guid>
-    <pubDate>Sun, 28 Jun 2026 12:00:00 GMT</pubDate>
-    <category>community</category>
-    <description>MetaMu's channel - Gaming session stream - MetaMu with Zaal during ZABAL Gamez summer.</description>
-  </item>
-  <item>
-    <title>ZABAL GAMEZ Workshop w/Matt Lee from Tortoise</title>
-    <link>https://bettercallzaal.github.io/zao-media/appearances/2026-06-28-matt-lee-tortoise-workshop/</link>
-    <guid>https://bettercallzaal.github.io/zao-media/appearances/2026-06-28-matt-lee-tortoise-workshop/</guid>
-    <pubDate>Sun, 28 Jun 2026 12:00:00 GMT</pubDate>
-    <category>produced</category>
-    <description>ZABAL Gamez Workshops - ZABAL Gamez workshop session with Matt Lee @mattlee (Tortoise).</description>
-  </item>
-  <item>
-    <title>ZABAL GAMEZ Workshop w/AZKAL from FlowStage</title>
-    <link>https://bettercallzaal.github.io/zao-media/appearances/2026-06-28-building-flowstage-workshop/</link>
-    <guid>https://bettercallzaal.github.io/zao-media/appearances/2026-06-28-building-flowstage-workshop/</guid>
-    <pubDate>Sun, 28 Jun 2026 12:00:00 GMT</pubDate>
-    <category>produced</category>
-    <description>ZABAL Gamez Workshops - ZABAL Gamez workshop session with AZKAL (FlowStage).</description>
-  </item>
-  <item>
-    <title>ZABAL Gamez Fireside w/Luciano and fam</title>
-    <link>https://bettercallzaal.github.io/zao-media/appearances/2026-06-27-zabal-fireside-luciano/</link>
-    <guid>https://bettercallzaal.github.io/zao-media/appearances/2026-06-27-zabal-fireside-luciano/</guid>
-    <pubDate>Sat, 27 Jun 2026 12:00:00 GMT</pubDate>
-    <category>produced</category>
-    <description>ZABAL Gamez Firesides - ZABAL Gamez fireside session with Luciano - conversations from the ZABAL Gamez buildathon summer.</description>
   </item>
 </channel>
 </rss>
