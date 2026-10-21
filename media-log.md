@@ -4,6 +4,22 @@
 
 ---
 
+### B and Z Build
+
+- **Class:** live
+- **Date:** 2026-10-21 (live)
+- **Host/Source:** Ohnahji B and BetterCallZaal (@zaal) - B&Z Builds
+- **Brands:** The ZAO
+- **ZM page:** https://bettercallzaal.github.io/zao-media/appearances/2026-10-21-b-and-z-build/
+- **URLs:**
+  - YouTube: https://www.youtube.com/watch?v=uEIT4rvgsNo
+  - Twitch VOD: https://www.twitch.tv/videos/2907084944
+- **Topics/summary:** B and Z Build live session - Ohnahji B and BetterCallZaal building together on stream. Runtime 1:41:24, streamed to YouTube and Twitch.
+- **Clip candidates:**
+
+
+---
+
 ### A retro console and an AI space game in your browser - BCZ YapZ with Magpie (Shiny Things)
 
 - **Class:** produced

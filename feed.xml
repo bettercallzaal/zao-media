@@ -6,6 +6,14 @@
   <description>The media home for The ZAO - podcasts, shows, Spaces, streams, and earned-media appearances. Logged once, shared everywhere.</description>
   <language>en</language>
   <item>
+    <title>B and Z Build</title>
+    <link>https://bettercallzaal.github.io/zao-media/appearances/2026-10-21-b-and-z-build/</link>
+    <guid>https://bettercallzaal.github.io/zao-media/appearances/2026-10-21-b-and-z-build/</guid>
+    <pubDate>Wed, 21 Oct 2026 12:00:00 GMT</pubDate>
+    <category>live</category>
+    <description>B&amp;Z Builds - B and Z Build live session - Ohnahji B and BetterCallZaal building together on stream. Runtime 1:41:24, streamed to YouTube and Twitch.</description>
+  </item>
+  <item>
     <title>A retro console and an AI space game in your browser - BCZ YapZ with Magpie (Shiny Things)</title>
     <link>https://bettercallzaal.github.io/zao-media/appearances/2026-10-16-magpie-shiny-things/</link>
     <guid>https://bettercallzaal.github.io/zao-media/appearances/2026-10-16-magpie-shiny-things/</guid>
@@ -396,14 +404,6 @@
     <pubDate>Mon, 29 Jun 2026 12:00:00 GMT</pubDate>
     <category>earned</category>
     <description>Eden Creators - Eden Creators ETH series episode featuring Zaal / The ZAO (confirmed via episode description) - part of the ongoing Dan SingJoy x Zaal fractal-governance conversations.</description>
-  </item>
-  <item>
-    <title>ZABAL Gamez Fireside: Talking Vendyz with hammallama</title>
-    <link>https://bettercallzaal.github.io/zao-media/appearances/2026-06-28-zabal-fireside-vendyz-hammallama/</link>
-    <guid>https://bettercallzaal.github.io/zao-media/appearances/2026-06-28-zabal-fireside-vendyz-hammallama/</guid>
-    <pubDate>Sun, 28 Jun 2026 12:00:00 GMT</pubDate>
-    <category>produced</category>
-    <description>ZABAL Gamez Firesides - ZABAL Gamez fireside session with hammallama (Vendyz) - conversations from the ZABAL Gamez buildathon summer.</description>
   </item>
 </channel>
 </rss>
