@@ -1,0 +1,42 @@
+{
+  "slug": "2026-10-21-b-and-z-build",
+  "class": "live",
+  "title": "B and Z Build",
+  "date": "2026-10-21",
+  "status": "live",
+  "show": "B&Z Builds",
+  "host": "Ohnahji B and BetterCallZaal",
+  "hostHandle": "@zaal",
+  "hostUrl": "https://farcaster.xyz/zaal",
+  "guest": "",
+  "guestOrg": "",
+  "brands": [
+    "The ZAO"
+  ],
+  "youtubeId": "uEIT4rvgsNo",
+  "links": [
+    {
+      "label": "YouTube",
+      "url": "https://www.youtube.com/watch?v=uEIT4rvgsNo"
+    },
+    {
+      "label": "Twitch VOD",
+      "url": "https://www.twitch.tv/videos/2907084944"
+    }
+  ],
+  "summary": "B and Z Build live session - Ohnahji B and BetterCallZaal building together on stream. Runtime 1:41:24, streamed to YouTube and Twitch.",
+  "points": [],
+  "chapters": [],
+  "related": [
+    {
+      "label": "B and Z BUILD (2026-02-18)",
+      "url": "../2026-02-18-b-and-z-build/"
+    }
+  ],
+  "hasTranscript": false,
+  "dist": {
+    "socials": false,
+    "clips": false,
+    "notes": "Share-out drafted 2026-10-21 (stream link today, clip post tomorrow); Zaal sends."
+  }
+}
