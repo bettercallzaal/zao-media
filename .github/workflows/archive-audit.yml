@@ -1,0 +1,25 @@
+name: Archive content audit
+
+on:
+  pull_request:
+    paths:
+      - 'content/**'
+      - 'scripts/audit-archive.mjs'
+      - '.github/workflows/archive-audit.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
+          fetch-depth: 0
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Check changed archive records
+        run: node scripts/audit-archive.mjs --changed-from '${{ github.event.pull_request.base.sha }}'
