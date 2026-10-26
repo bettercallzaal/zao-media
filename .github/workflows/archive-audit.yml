@@ -5,6 +5,7 @@ on:
     paths:
       - 'content/**'
       - 'scripts/audit-archive.mjs'
+      - 'scripts/test-audit-archive.mjs'
       - '.github/workflows/archive-audit.yml'
 
 permissions:
@@ -23,3 +24,5 @@ jobs:
           node-version: 22
       - name: Check changed archive records
         run: node scripts/audit-archive.mjs --changed-from '${{ github.event.pull_request.base.sha }}'
+      - name: Test deletion and rename filtering
+        run: npm run test:audit-archive

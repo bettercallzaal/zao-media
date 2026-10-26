@@ -24,7 +24,7 @@ for (let i = 0; i < args.length; i += 1) {
 
 let files;
 if (options.changedFrom) {
-  const changed = execFileSync('git', ['diff', '--name-only', `${options.changedFrom}...HEAD`, '--', 'content/'], { cwd: repoRoot, encoding: 'utf8' })
+  const changed = execFileSync('git', ['diff', '--diff-filter=ACMR', '--name-only', `${options.changedFrom}...HEAD`, '--', 'content/'], { cwd: repoRoot, encoding: 'utf8' })
     .trim().split('\n').filter((name) => name.endsWith('.json'));
   files = changed.map((name) => path.join(repoRoot, name));
 } else {

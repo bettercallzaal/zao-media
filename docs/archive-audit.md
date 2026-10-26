@@ -2,6 +2,8 @@
 
 Run `npm run audit:archive` to check every `content/*.json` record for a title, a real ISO date, at least one credit field, and a valid HTTP(S) source link. Credit can be a host, guest, publisher, quoted person, or brand. The audit reads the content source files and never rewrites them.
 
+Run `npm run test:audit-archive` for the regression check covering deleted archive records. The test command accepts `--against PATH` to run the same control against a different audit-script artifact.
+
 The pull request check audits only changed content records, so an older incomplete record does not block unrelated additions. Run the full audit locally to find historical gaps.
 
 Use `npm run audit:archive -- --check-links` for a live source-link pass. Hosts may rate-limit or block automated requests. Only HTTP 200 counts as verified; other responses are reported without being treated as proof that a URL should be removed or replaced. The generated ZM appearance page is a separate link and does not prove the source link works.

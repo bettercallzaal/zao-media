@@ -6,7 +6,8 @@
   "type": "module",
   "scripts": {
     "build": "node build.mjs",
-    "audit:archive": "node scripts/audit-archive.mjs"
+    "audit:archive": "node scripts/audit-archive.mjs",
+    "test:audit-archive": "node scripts/test-audit-archive.mjs"
   },
   "license": "MIT"
 }
